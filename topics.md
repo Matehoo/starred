@@ -231,6 +231,7 @@
 
 ## elixir 
 
+- [commanded/commanded](https://github.com/commanded/commanded) - Use Commanded to build Elixir CQRS/ES applications
 - [rusterlium/rustler](https://github.com/rusterlium/rustler) - Safe Rust bridge for creating Erlang NIF functions
 - [commanded/eventstore](https://github.com/commanded/eventstore) - Event store using PostgreSQL for persistence
 - [jclem/ot_server](https://github.com/jclem/ot_server) - A server for operational transformation
