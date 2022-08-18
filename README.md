@@ -246,6 +246,7 @@
 
 ## TypeScript 
 
+- [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
 - [paritytech/capi](https://github.com/paritytech/capi) - [WIP] A TypeScript toolkit for crafting interactions with Substrate-based chains
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [polkadot-js/apps](https://github.com/polkadot-js/apps) - Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains.
