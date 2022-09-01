@@ -78,7 +78,7 @@
 - [angelikatyborska/mazes](https://github.com/angelikatyborska/mazes) - A maze generator made with PhoenixLiveView.
 - [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
 - [mojotech/torch](https://github.com/mojotech/torch) - A rapid admin generator for Elixir & Phoenix
-- [ash-project/ash](https://github.com/ash-project/ash) - A resource based framework for building Elixir applications
+- [ash-project/ash](https://github.com/ash-project/ash) - A declarative and extensible framework for building Elixir applications.
 - [astarte-platform/astarte](https://github.com/astarte-platform/astarte) - Core Astarte Repository
 - [nerves-project/nerves](https://github.com/nerves-project/nerves) - Craft and deploy bulletproof embedded software in Elixir
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
