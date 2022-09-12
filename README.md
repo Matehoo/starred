@@ -245,6 +245,7 @@
 
 ## TypeScript 
 
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
 - [paritytech/capi](https://github.com/paritytech/capi) - [WIP] A TypeScript toolkit for crafting interactions with Substrate-based chains
