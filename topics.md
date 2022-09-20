@@ -58,6 +58,7 @@
 - [monitoring](#monitoring)
 - [mysql](#mysql)
 - [nextjs](#nextjs)
+- [nlp](#nlp)
 - [node](#node)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
@@ -67,6 +68,7 @@
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
+- [pytorch](#pytorch)
 - [rails](#rails)
 - [react](#react)
 - [reactjs](#reactjs)
@@ -443,6 +445,7 @@
 
 ## machine-learning 
 
+- [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
 
 ## material-design 
@@ -468,6 +471,10 @@
 
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
+
+## nlp 
+
+- [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 
 ## node 
 
@@ -585,6 +592,10 @@
 
 - [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 130+ Indicators
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+
+## pytorch 
+
+- [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 
 ## rails 
 
