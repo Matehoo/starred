@@ -209,6 +209,7 @@
 
 ## Rust 
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [nutsfinance/stable-asset](https://github.com/nutsfinance/stable-asset) - 
 - [substrate-developer-hub/substrate-node-template](https://github.com/substrate-developer-hub/substrate-node-template) - A new FRAME-based Substrate node, ready for hacking.
