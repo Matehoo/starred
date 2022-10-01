@@ -249,6 +249,7 @@
 
 ## TypeScript 
 
+- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [facebookincubator/memlab](https://github.com/facebookincubator/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
