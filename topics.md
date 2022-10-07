@@ -542,6 +542,7 @@
 
 ## others 
 
+- [dragonfly-xyz/useful-solidity-patterns](https://github.com/dragonfly-xyz/useful-solidity-patterns) - 
 - [stove-labs/portfolio-manager](https://github.com/stove-labs/portfolio-manager) - 
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
