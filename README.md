@@ -235,6 +235,7 @@
 
 ## Solidity 
 
+- [dragonfly-xyz/useful-solidity-patterns](https://github.com/dragonfly-xyz/useful-solidity-patterns) - 
 - [1inch/1inch-token](https://github.com/1inch/1inch-token) - 
 - [OlympusDAO/olympus-contracts](https://github.com/OlympusDAO/olympus-contracts) - 
 
