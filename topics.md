@@ -388,6 +388,7 @@
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative and extensible framework for building Elixir applications.
 - [astarte-platform/astarte](https://github.com/astarte-platform/astarte) - Core Astarte Repository
+- [nerves-project/nerves](https://github.com/nerves-project/nerves) - Craft and deploy bulletproof embedded software in Elixir
 
 ## haskell 
 
