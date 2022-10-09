@@ -212,6 +212,9 @@
 
 ## Rust 
 
+- [diptools/dip](https://github.com/diptools/dip) - Write cross-platform application with React-like declarative UI and scalable ECS architecture all in Rust.
+- [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
+- [DeGatchi/mev-template-rs](https://github.com/DeGatchi/mev-template-rs) - Bootstrap your MEV bot strategies with a simple boilerplate to build on top of.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [nutsfinance/stable-asset](https://github.com/nutsfinance/stable-asset) - 
