@@ -313,6 +313,7 @@
 
 ## framework 
 
+- [diptools/dip](https://github.com/diptools/dip) - Write cross-platform application with React-like declarative UI and scalable ECS architecture all in Rust.
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -543,6 +544,8 @@
 
 ## others 
 
+- [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
+- [DeGatchi/mev-template-rs](https://github.com/DeGatchi/mev-template-rs) - Bootstrap your MEV bot strategies with a simple boilerplate to build on top of.
 - [dragonfly-xyz/useful-solidity-patterns](https://github.com/dragonfly-xyz/useful-solidity-patterns) - 
 - [stove-labs/portfolio-manager](https://github.com/stove-labs/portfolio-manager) - 
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -689,6 +692,7 @@
 
 ## rust 
 
+- [diptools/dip](https://github.com/diptools/dip) - Write cross-platform application with React-like declarative UI and scalable ECS architecture all in Rust.
 - [substrate-developer-hub/awesome-substrate](https://github.com/substrate-developer-hub/awesome-substrate) - A curated list of awesome projects and resources related to the Substrate blockchain development framework.
 - [open-web3-stack/open-runtime-module-library](https://github.com/open-web3-stack/open-runtime-module-library) - Substrate Open Runtime Module Library
 - [risc0/risc0](https://github.com/risc0/risc0) - RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.
