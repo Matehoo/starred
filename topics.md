@@ -544,6 +544,7 @@
 
 ## others 
 
+- [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
 - [DeGatchi/mev-template-rs](https://github.com/DeGatchi/mev-template-rs) - Bootstrap your MEV bot strategies with a simple boilerplate to build on top of.
 - [dragonfly-xyz/useful-solidity-patterns](https://github.com/dragonfly-xyz/useful-solidity-patterns) - 
