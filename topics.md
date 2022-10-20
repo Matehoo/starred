@@ -394,6 +394,7 @@
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative and extensible framework for building Elixir applications.
 - [astarte-platform/astarte](https://github.com/astarte-platform/astarte) - Core Astarte Repository
 - [nerves-project/nerves](https://github.com/nerves-project/nerves) - Craft and deploy bulletproof embedded software in Elixir
+- [atomvm/AtomVM](https://github.com/atomvm/AtomVM) - Tiny Erlang VM
 
 ## haskell 
 
