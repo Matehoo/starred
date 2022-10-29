@@ -112,7 +112,7 @@
 
 - [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - 
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-- [go101/go101](https://github.com/go101/go101) - An online book focusing on Go syntax/semantics and runtime related things
+- [go101/go101](https://github.com/go101/go101) - An up-to-date (unofficial) knowledge base for Go programming self learning
 - [h-enk/doks](https://github.com/h-enk/doks) - Hugo theme helping you build modern documentation websites.
 
 ## Haskell 
