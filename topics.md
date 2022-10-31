@@ -58,6 +58,7 @@
 - [localization](#localization)
 - [lua](#lua)
 - [machine-learning](#machine-learning)
+- [macos](#macos)
 - [material-design](#material-design)
 - [mongodb](#mongodb)
 - [mysql](#mysql)
@@ -67,6 +68,7 @@
 - [nodejs](#nodejs)
 - [nosql](#nosql)
 - [npm](#npm)
+- [open-source](#open-source)
 - [others](#others)
 - [postgresql](#postgresql)
 - [programming](#programming)
@@ -496,6 +498,10 @@
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
 
+## macos 
+
+- [iglance/iGlance](https://github.com/iglance/iGlance) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar.
+
 ## material-design 
 
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
@@ -548,6 +554,10 @@
 ## npm 
 
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
+
+## open-source 
+
+- [iglance/iGlance](https://github.com/iglance/iGlance) - Free system monitor for OSX and macOS. See all system information at a glance in the menu bar.
 
 ## others 
 
