@@ -225,7 +225,7 @@
 - [DeGatchi/mev-template-rs](https://github.com/DeGatchi/mev-template-rs) - Bootstrap your MEV bot strategies with a simple boilerplate to build on top of.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [nutsfinance/stable-asset](https://github.com/nutsfinance/stable-asset) - 
 - [substrate-developer-hub/substrate-node-template](https://github.com/substrate-developer-hub/substrate-node-template) - A new FRAME-based Substrate node, ready for hacking.
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
@@ -286,7 +286,7 @@
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
-- [subsquid/squid](https://github.com/subsquid/squid) - The main repo of the squid framework
+- [subsquid/squid](https://github.com/subsquid/squid) - The main repo of the squid SDK
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [egoist/ts-lib-starter](https://github.com/egoist/ts-lib-starter) - My minimal TypeScript library starter
