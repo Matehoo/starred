@@ -282,7 +282,7 @@
 - [paritytech/capi](https://github.com/paritytech/capi) - [WIP] A TypeScript toolkit for crafting interactions with Substrate-based chains
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [polkadot-js/apps](https://github.com/polkadot-js/apps) - Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains.
-- [FormidableLabs/urql](https://github.com/FormidableLabs/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
+- [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
