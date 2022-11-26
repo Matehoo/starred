@@ -162,6 +162,7 @@
 
 ## Jupyter Notebook 
 
+- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [CADLabs/ethereum-economic-model](https://github.com/CADLabs/ethereum-economic-model) - A modular dynamical-systems model of Ethereum's validator economics
 
 ## Kotlin 
