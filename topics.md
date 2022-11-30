@@ -595,7 +595,7 @@
 - [ava-labs/avalanchego](https://github.com/ava-labs/avalanchego) - Go implementation of an Avalanche node.
 - [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org) - Official documentation website for the ReScript programming language
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
-- [subsquid/squid](https://github.com/subsquid/squid) - The main repo of the squid SDK
+- [subsquid/squid-sdk](https://github.com/subsquid/squid-sdk) - The main repo of the squid SDK
 - [vue-polkadot/apps](https://github.com/vue-polkadot/apps) - wallet & governance dashboard for Polkadot & substrate-based networks in VueJS
 - [egoist/ts-lib-starter](https://github.com/egoist/ts-lib-starter) - My minimal TypeScript library starter
 - [Callum-A/cosmwasm-zero-to-hero](https://github.com/Callum-A/cosmwasm-zero-to-hero) - 
