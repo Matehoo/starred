@@ -584,7 +584,7 @@
 - [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
-- [DeGatchi/mev-template-rs](https://github.com/DeGatchi/mev-template-rs) - Bootstrap your MEV bot strategies with a simple boilerplate to build on top of.
+- [degatchi/mev-template-rs](https://github.com/degatchi/mev-template-rs) - Bootstrap your MEV bot strategies with a simple boilerplate to build on top of.
 - [dragonfly-xyz/useful-solidity-patterns](https://github.com/dragonfly-xyz/useful-solidity-patterns) - 
 - [stove-labs/portfolio-manager](https://github.com/stove-labs/portfolio-manager) - 
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
