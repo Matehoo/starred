@@ -35,6 +35,7 @@
 
 ## C 
 
+- [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [bake-bake-bake/bakeware](https://github.com/bake-bake-bake/bakeware) - Compile Elixir applications into single, easily distributed executable binaries
