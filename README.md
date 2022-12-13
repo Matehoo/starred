@@ -23,6 +23,7 @@
 - [Nim](#nim)
 - [Others](#others)
 - [Python](#python)
+- [ReScript](#rescript)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -35,7 +36,7 @@
 
 ## C 
 
-- [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [bake-bake-bake/bakeware](https://github.com/bake-bake-bake/bakeware) - Compile Elixir applications into single, easily distributed executable binaries
@@ -143,7 +144,6 @@
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
-- [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org) - Official documentation website for the ReScript programming language
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - Easy to understand React Hook code recipes
 - [mac-s-g/react-json-view](https://github.com/mac-s-g/react-json-view) - JSON viewer for react
 - [ryyppy/rescript-nextjs-template](https://github.com/ryyppy/rescript-nextjs-template) - Opinionated Boilerplate for NextJS, Tailwind and ReScript
@@ -181,6 +181,7 @@
 
 ## Others 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
 - [substrate-developer-hub/awesome-substrate](https://github.com/substrate-developer-hub/awesome-substrate) - A curated list of awesome projects and resources related to the Substrate blockchain development framework.
 - [apollographql/apollo-studio-community](https://github.com/apollographql/apollo-studio-community) - 🎡  GraphQL developer portal featuring an IDE (Apollo Explorer), auto-documentation, metrics reporting, and more. This repo is for issues, feature requests, and preview docs. 📬
 - [Famolus/awesome-sass](https://github.com/Famolus/awesome-sass) - 🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.
@@ -207,6 +208,10 @@
 - [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
 - [dokku/ansible-dokku](https://github.com/dokku/ansible-dokku) - Ansible modules for installing and configuring Dokku
 
+## ReScript 
+
+- [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org) - Official documentation website for the ReScript programming language
+
 ## Ruby 
 
 - [shioyama/mobility](https://github.com/shioyama/mobility) - Pluggable Ruby translation framework
@@ -223,6 +228,8 @@
 
 ## Rust 
 
+- [microsoft/Nova](https://github.com/microsoft/Nova) - Nova: Recursive SNARKs without trusted setup
+- [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [diptools/dip](https://github.com/diptools/dip) - Full-Rust Web3 application toolkit focus on ECS based event-driven development.  Powered by Bevy game engine. From desktop apps to the Metaverse.
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
 - [degatchi/mev-template-rs](https://github.com/degatchi/mev-template-rs) - Bootstrap your MEV bot strategies with a simple boilerplate to build on top of.
