@@ -181,6 +181,7 @@
 
 ## Others 
 
+- [OpenCoreCH/smart-contract-auditing-heuristics](https://github.com/OpenCoreCH/smart-contract-auditing-heuristics) - Heuristics for smart contract auditors
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
 - [substrate-developer-hub/awesome-substrate](https://github.com/substrate-developer-hub/awesome-substrate) - A curated list of awesome projects and resources related to the Substrate blockchain development framework.
 - [apollographql/apollo-studio-community](https://github.com/apollographql/apollo-studio-community) - 🎡  GraphQL developer portal featuring an IDE (Apollo Explorer), auto-documentation, metrics reporting, and more. This repo is for issues, feature requests, and preview docs. 📬
@@ -228,6 +229,7 @@
 
 ## Rust 
 
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js
 - [microsoft/Nova](https://github.com/microsoft/Nova) - Nova: Recursive SNARKs without trusted setup
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [diptools/dip](https://github.com/diptools/dip) - Full-Rust Web3 application toolkit focus on ECS based event-driven development.  Powered by Bevy game engine. From desktop apps to the Metaverse.
@@ -257,6 +259,7 @@
 
 ## Solidity 
 
+- [coinspect/learn-evm-attacks](https://github.com/coinspect/learn-evm-attacks) - Learn & Contribute on previously exploited vulnerabilities across several EVM projects.
 - [dragonfly-xyz/useful-solidity-patterns](https://github.com/dragonfly-xyz/useful-solidity-patterns) - 
 - [1inch/1inch-token](https://github.com/1inch/1inch-token) - 
 - [OlympusDAO/olympus-contracts](https://github.com/OlympusDAO/olympus-contracts) - 
