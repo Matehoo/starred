@@ -141,6 +141,8 @@
 
 ## JavaScript 
 
+- [paulmillr/noble-curves](https://github.com/paulmillr/noble-curves) - Minimal, zero-dependency JS implementation of elliptic curve cryptography.
+- [PraneshASP/vscode-solidity-inspector](https://github.com/PraneshASP/vscode-solidity-inspector) - A VSCode extension for inspecting solidity smartcontracts using Forge
 - [raineorshine/solgraph](https://github.com/raineorshine/solgraph) - Visualize Solidity control flow for smart contract security analysis.  :dollar: ⇆ :dollar:
 - [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
 - [kazuki-sf/YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) - YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
@@ -185,6 +187,7 @@
 
 ## Others 
 
+- [0xKitsune/EVM-Gas-Optimizations](https://github.com/0xKitsune/EVM-Gas-Optimizations) - A collection of gas optimizations for the EVM.
 - [substrate-developer-hub/substrate-seminar](https://github.com/substrate-developer-hub/substrate-seminar) - A place to discuss topics for upcoming seminars and revisit past ones.
 - [0xcacti/awesome-oracle-manipulation](https://github.com/0xcacti/awesome-oracle-manipulation) - Awesome list of all things oracle manipulation. Creating to help spread a better understanding of oracles and oracle manipulation.
 - [noir-lang/awesome-noir](https://github.com/noir-lang/awesome-noir) - A curated list of awesome things related to learning and programming in Noir.
@@ -201,6 +204,7 @@
 
 ## Python 
 
+- [ConsenSys/mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.
 - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
@@ -272,6 +276,7 @@
 
 ## Solidity 
 
+- [spalladino/zkp-tests](https://github.com/spalladino/zkp-tests) - Playing with zero-knowledge proof languages
 - [conduit-xyz/optimism-tutorial](https://github.com/conduit-xyz/optimism-tutorial) - Build your first app on Optimism!
 - [coinspect/learn-evm-attacks](https://github.com/coinspect/learn-evm-attacks) - Learn & Contribute on previously exploited vulnerabilities across several EVM projects.
 - [dragonfly-xyz/useful-solidity-patterns](https://github.com/dragonfly-xyz/useful-solidity-patterns) - 
