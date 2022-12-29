@@ -7,6 +7,7 @@
 
 - [algorithm](#algorithm)
 - [analytics](#analytics)
+- [android](#android)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
@@ -53,6 +54,7 @@
 - [haskell](#haskell)
 - [html](#html)
 - [http](#http)
+- [ios](#ios)
 - [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
@@ -122,6 +124,10 @@
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
+## android 
+
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
+
 ## api 
 
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
@@ -172,6 +178,7 @@
 
 ## blockchain 
 
+- [ignite/cli](https://github.com/ignite/cli) - Ignite CLI is the all-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain
 - [ConsenSys/mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [polkadot-js/apps](https://github.com/polkadot-js/apps) - Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains.
@@ -201,6 +208,7 @@
 
 ## cli 
 
+- [ignite/cli](https://github.com/ignite/cli) - Ignite CLI is the all-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
 - [Doctave/doctave](https://github.com/Doctave/doctave) - A batteries-included developer documentation site generator
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -238,6 +246,7 @@
 
 ## css 
 
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
 - [7PH/powerglitch](https://github.com/7PH/powerglitch) - Tiny JS library to glitch anything on the web
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 - [Famolus/awesome-sass](https://github.com/Famolus/awesome-sass) - 🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.
@@ -246,6 +255,7 @@
 
 ## data-structures 
 
+- [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [justcoding121/advanced-algorithms](https://github.com/justcoding121/advanced-algorithms) - 100+ algorithms & data structures generically implemented in C#.
 
 ## data-visualization 
@@ -428,6 +438,7 @@
 
 ## hacktoberfest 
 
+- [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [hauptrolle/chakra-templates](https://github.com/hauptrolle/chakra-templates) - A growing collection of responsive Chakra UI Templates ready to drop into your React project.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [jordihales/hypercolor](https://github.com/jordihales/hypercolor) - A curated collection of beautiful premade gradients using default colors from the Tailwind palette as well as a selection of custom color gradients.
@@ -461,12 +472,17 @@
 
 ## html 
 
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 
 ## http 
 
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
+
+## ios 
+
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
 
 ## iot 
 
@@ -632,6 +648,11 @@
 
 ## others 
 
+- [0xKitsune/Tour-of-ethers-rs](https://github.com/0xKitsune/Tour-of-ethers-rs) - A comprehensive walkthrough of all the nooks and crannies ethers-rs has to offer.
+- [smrpn/Account2](https://github.com/smrpn/Account2) - Account2 is three things: - Account Abstraction (AA) - Economic Abstraction (EA) - Account Linking
+- [hananbeer/sqlidity](https://github.com/hananbeer/sqlidity) - SQL on chain
+- [timeless-fi/uniswap-poor-oracle](https://github.com/timeless-fi/uniswap-poor-oracle) - Flashloan-proof Uniswap v3 price-out-of-range oracle for querying if a position is out of range onchain
+- [YtzBeno/elliptic-curve-noir](https://github.com/YtzBeno/elliptic-curve-noir) - Elliptic Curve arithmetic operations written in Noir
 - [denoland/wasmbuild](https://github.com/denoland/wasmbuild) - Build tool to use Rust code in Deno and the browser.
 - [spalladino/zkp-tests](https://github.com/spalladino/zkp-tests) - Playing with zero-knowledge proof languages
 - [0xKitsune/EVM-Gas-Optimizations](https://github.com/0xKitsune/EVM-Gas-Optimizations) - A collection of gas optimizations for the EVM.
@@ -769,6 +790,7 @@
 
 ## react 
 
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
 - [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
@@ -810,6 +832,8 @@
 
 ## rust 
 
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
+- [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [tfpk/macrokata](https://github.com/tfpk/macrokata) - Learn Macros In Rust
 - [nomadiz/edma](https://github.com/nomadiz/edma) - EDMA is an interactive terminal app for managing multiple embedded databases system at once with powerful byte deserializer support.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js
@@ -852,6 +876,7 @@
 
 ## solidity 
 
+- [AdvaithD/protocol-pg](https://github.com/AdvaithD/protocol-pg) - evm playground - optimizations, patterns and bytecode decoding
 - [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hacked incidents using Foundry.
 - [PraneshASP/vscode-solidity-inspector](https://github.com/PraneshASP/vscode-solidity-inspector) - A VSCode extension for inspecting solidity smartcontracts using Forge
 - [ConsenSys/mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.
@@ -926,6 +951,7 @@
 
 ## web 
 
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
