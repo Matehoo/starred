@@ -24,6 +24,7 @@
 - [Others](#others)
 - [Python](#python)
 - [ReScript](#rescript)
+- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -99,6 +100,7 @@
 
 ## Go 
 
+- [ignite/cli](https://github.com/ignite/cli) - Ignite CLI is the all-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain
 - [thesephist/ink](https://github.com/thesephist/ink) - Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [ava-labs/avalanchego](https://github.com/ava-labs/avalanchego) - Go implementation of an Avalanche node.
@@ -188,6 +190,7 @@
 
 ## Others 
 
+- [0xKitsune/Tour-of-ethers-rs](https://github.com/0xKitsune/Tour-of-ethers-rs) - A comprehensive walkthrough of all the nooks and crannies ethers-rs has to offer.
 - [0xKitsune/EVM-Gas-Optimizations](https://github.com/0xKitsune/EVM-Gas-Optimizations) - A collection of gas optimizations for the EVM.
 - [substrate-developer-hub/substrate-seminar](https://github.com/substrate-developer-hub/substrate-seminar) - A place to discuss topics for upcoming seminars and revisit past ones.
 - [0xcacti/awesome-oracle-manipulation](https://github.com/0xcacti/awesome-oracle-manipulation) - Awesome list of all things oracle manipulation. Creating to help spread a better understanding of oracles and oracle manipulation.
@@ -226,6 +229,10 @@
 
 - [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org) - Official documentation website for the ReScript programming language
 
+## Roff 
+
+- [YtzBeno/elliptic-curve-noir](https://github.com/YtzBeno/elliptic-curve-noir) - Elliptic Curve arithmetic operations written in Noir
+
 ## Ruby 
 
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
@@ -243,6 +250,8 @@
 
 ## Rust 
 
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
+- [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [tfpk/macrokata](https://github.com/tfpk/macrokata) - Learn Macros In Rust
 - [trickster0/OffensiveRust](https://github.com/trickster0/OffensiveRust) - Rust Weaponization for Red Team Engagements.
 - [mhogrefe/malachite](https://github.com/mhogrefe/malachite) - An arbitrary-precision arithmetic library for Rust.
@@ -277,6 +286,10 @@
 
 ## Solidity 
 
+- [smrpn/Account2](https://github.com/smrpn/Account2) - Account2 is three things: - Account Abstraction (AA) - Economic Abstraction (EA) - Account Linking
+- [hananbeer/sqlidity](https://github.com/hananbeer/sqlidity) - SQL on chain
+- [timeless-fi/uniswap-poor-oracle](https://github.com/timeless-fi/uniswap-poor-oracle) - Flashloan-proof Uniswap v3 price-out-of-range oracle for querying if a position is out of range onchain
+- [AdvaithD/protocol-pg](https://github.com/AdvaithD/protocol-pg) - evm playground - optimizations, patterns and bytecode decoding
 - [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hacked incidents using Foundry.
 - [spalladino/zkp-tests](https://github.com/spalladino/zkp-tests) - Playing with zero-knowledge proof languages
 - [conduit-xyz/optimism-tutorial](https://github.com/conduit-xyz/optimism-tutorial) - Build your first app on Optimism!
