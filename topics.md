@@ -181,6 +181,7 @@
 
 ## blockchain 
 
+- [AnshuJalan/ethML-core](https://github.com/AnshuJalan/ethML-core) - Contracts for EthML- a decentralized AI implementation
 - [0xNazgul/Blockchain-Security-Audit-List](https://github.com/0xNazgul/Blockchain-Security-Audit-List) - A list of notable Blockchain Security audit companies.
 - [OffcierCia/Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) - Here we collect and discuss the best DeFi,Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
 - [ignite/cli](https://github.com/ignite/cli) - Ignite CLI is the all-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain
@@ -355,6 +356,7 @@
 
 ## ethereum 
 
+- [AnshuJalan/ethML-core](https://github.com/AnshuJalan/ethML-core) - Contracts for EthML- a decentralized AI implementation
 - [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is an engine for Autonomous Worlds
 - [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hacked incidents using Foundry.
 - [ConsenSys/mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.
@@ -665,6 +667,7 @@
 
 ## others 
 
+- [0xToshii/mr-steal-yo-crypto-ctf](https://github.com/0xToshii/mr-steal-yo-crypto-ctf) - CTF challenges for mrstealyocrypto.xyz
 - [justjake/Gauss](https://github.com/justjake/Gauss) - Stable Diffusion macOS native app
 - [0xKitsune/Tour-of-ethers-rs](https://github.com/0xKitsune/Tour-of-ethers-rs) - A comprehensive walkthrough of all the nooks and crannies ethers-rs has to offer.
 - [smrpn/Account2](https://github.com/smrpn/Account2) - Account2 is three things: - Account Abstraction (AA) - Economic Abstraction (EA) - Account Linking
