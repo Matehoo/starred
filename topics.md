@@ -358,6 +358,8 @@
 
 ## ethereum 
 
+- [AstariaXYZ/astaria-core](https://github.com/AstariaXYZ/astaria-core) - NFT Collateralized Lending Market levearing our novel 3AM Model.
+- [pcaversaccio/reentrancy-attacks](https://github.com/pcaversaccio/reentrancy-attacks) - A chronological and (hopefully) complete list of reentrancy attacks to date.
 - [NethermindEth/sedge](https://github.com/NethermindEth/sedge) - A one-click setup tool for PoS network/chain validators and nodes.
 - [AnshuJalan/ethML-core](https://github.com/AnshuJalan/ethML-core) - Contracts for EthML- a decentralized AI implementation
 - [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is an engine for Autonomous Worlds
@@ -679,6 +681,13 @@
 
 ## others 
 
+- [meppent/pellucid](https://github.com/meppent/pellucid) - An EVM decompiler written in Rust.
+- [primitivefinance/solstat](https://github.com/primitivefinance/solstat) - Math library written in solidity for statistical function approximations like the Normal Cumulative Distribution Function.
+- [0xpass/0xpass](https://github.com/0xpass/0xpass) - Programmable accounts SDK
+- [ZenGo-X/mpc-over-signal](https://github.com/ZenGo-X/mpc-over-signal) - Secure transport for running MPC protocols backed by Signal
+- [ZenGo-X/white-city](https://github.com/ZenGo-X/white-city) - Network layer for MPC (Secure Multi-Party Computation) based on Tendermint
+- [dabit3/biconomy-social-login-gas-relayer](https://github.com/dabit3/biconomy-social-login-gas-relayer) - Biconomy authentication + gas paid in choice of ERC20 token
+- [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [iway1/react-ts-form](https://github.com/iway1/react-ts-form) - 
 - [alexpusch/rust-magic-function-params](https://github.com/alexpusch/rust-magic-function-params) - Example for Axum style magic function parameter passing
@@ -835,6 +844,7 @@
 
 ## react 
 
+- [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
 - [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
@@ -903,6 +913,7 @@
 
 ## security 
 
+- [pcaversaccio/reentrancy-attacks](https://github.com/pcaversaccio/reentrancy-attacks) - A chronological and (hopefully) complete list of reentrancy attacks to date.
 - [0xNazgul/Blockchain-Security-Audit-List](https://github.com/0xNazgul/Blockchain-Security-Audit-List) - A list of notable Blockchain Security audit companies.
 - [OffcierCia/Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) - Here we collect and discuss the best DeFi,Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
 - [ConsenSys/mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.
@@ -926,6 +937,8 @@
 
 ## solidity 
 
+- [AstariaXYZ/astaria-core](https://github.com/AstariaXYZ/astaria-core) - NFT Collateralized Lending Market levearing our novel 3AM Model.
+- [pcaversaccio/reentrancy-attacks](https://github.com/pcaversaccio/reentrancy-attacks) - A chronological and (hopefully) complete list of reentrancy attacks to date.
 - [AdvaithD/protocol-pg](https://github.com/AdvaithD/protocol-pg) - evm playground - optimizations, patterns and bytecode decoding
 - [SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) - Reproduce DeFi hacked incidents using Foundry.
 - [PraneshASP/vscode-solidity-inspector](https://github.com/PraneshASP/vscode-solidity-inspector) - A VSCode extension for inspecting solidity smartcontracts using Forge
