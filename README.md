@@ -201,7 +201,7 @@
 ## Others 
 
 - [0xPARC/zk-bug-tracker](https://github.com/0xPARC/zk-bug-tracker) - A community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto.
-- [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A curated list of awesome Open-Source Intelligence (OSINT) Resources
+- [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 - [harendra-shakya/smart-contract-attack-vectors](https://github.com/harendra-shakya/smart-contract-attack-vectors) - A curated list of smart contract attack vectors
 - [0xpass/0xpass](https://github.com/0xpass/0xpass) - Programmable accounts SDK
 - [pcaversaccio/reentrancy-attacks](https://github.com/pcaversaccio/reentrancy-attacks) - A chronological and (hopefully) complete list of reentrancy attacks to date.
