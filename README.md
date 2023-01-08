@@ -9,6 +9,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [Cairo](#cairo)
 - [Clojure](#clojure)
 - [Crystal](#crystal)
 - [Elixir](#elixir)
@@ -66,6 +67,10 @@
 ## CSS 
 
 - [aesmail/kaffy](https://github.com/aesmail/kaffy) - Powerfully simple admin package for phoenix applications
+
+## Cairo 
+
+- [keep-starknet-strange/garaga](https://github.com/keep-starknet-strange/garaga) - Efficient pairing library, written in Cairo 🐺.
 
 ## Clojure 
 
@@ -227,6 +232,7 @@
 
 ## Python 
 
+- [Owez/yark](https://github.com/Owez/yark) - YouTube archiving made simple
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [skip-mev/bots](https://github.com/skip-mev/bots) - Example MEV searching bots for the Cosmos ecosystem, using Skip.
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
@@ -273,6 +279,8 @@
 
 ## Rust 
 
+- [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
+- [sayajin-labs/kakarot-rpc-adapter](https://github.com/sayajin-labs/kakarot-rpc-adapter) - Kakarot ZK EVM Ethereum RPC adapter
 - [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework with nice features suitable for various use cases.
 - [Canop/bacon](https://github.com/Canop/bacon) - background rust code check
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -325,6 +333,8 @@
 
 ## Solidity 
 
+- [N0xMare/foundry-invariants](https://github.com/N0xMare/foundry-invariants) - 
+- [Uniswap/permit2](https://github.com/Uniswap/permit2) - 🔑🔑🔑 next generation token approvals mechanism
 - [spearbit-audits/writing-exercise](https://github.com/spearbit-audits/writing-exercise) - 
 - [AstariaXYZ/astaria-core](https://github.com/AstariaXYZ/astaria-core) - NFT Collateralized Lending Market levearing our novel 3AM Model.
 - [primitivefinance/solstat](https://github.com/primitivefinance/solstat) - Math library written in solidity for statistical function approximations like the Normal Cumulative Distribution Function.
