@@ -479,6 +479,7 @@
 
 ## hacktoberfest 
 
+- [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [Canop/bacon](https://github.com/Canop/bacon) - background rust code check
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -699,10 +700,15 @@
 
 ## osint 
 
+- [Owez/yark](https://github.com/Owez/yark) - YouTube archiving made simple
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 
 ## others 
 
+- [N0xMare/foundry-invariants](https://github.com/N0xMare/foundry-invariants) - 
+- [sayajin-labs/kakarot-rpc-adapter](https://github.com/sayajin-labs/kakarot-rpc-adapter) - Kakarot ZK EVM Ethereum RPC adapter
+- [keep-starknet-strange/garaga](https://github.com/keep-starknet-strange/garaga) - Efficient pairing library, written in Cairo 🐺.
+- [Uniswap/permit2](https://github.com/Uniswap/permit2) - 🔑🔑🔑 next generation token approvals mechanism
 - [0xPARC/zk-bug-tracker](https://github.com/0xPARC/zk-bug-tracker) - A community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto.
 - [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework with nice features suitable for various use cases.
 - [spearbit-audits/writing-exercise](https://github.com/spearbit-audits/writing-exercise) - 
@@ -918,6 +924,7 @@
 
 ## rust 
 
+- [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
 - [Canop/bacon](https://github.com/Canop/bacon) - background rust code check
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
