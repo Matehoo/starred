@@ -287,6 +287,7 @@
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
+- [sayajin-labs/kakarot-rpc](https://github.com/sayajin-labs/kakarot-rpc) - Kakarot ZK EVM Ethereum RPC adapter
 - [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework with nice features suitable for various use cases.
 - [Canop/bacon](https://github.com/Canop/bacon) - background rust code check
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -332,7 +333,6 @@
 
 ## Shell 
 
-- [sayajin-labs/kakarot-rpc](https://github.com/sayajin-labs/kakarot-rpc) - Kakarot ZK EVM Ethereum RPC adapter
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 - [plausible/hosting](https://github.com/plausible/hosting) - Example docker-compose setups for hosting Plausible Analytics
