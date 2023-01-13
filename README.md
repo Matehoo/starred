@@ -106,6 +106,7 @@
 
 ## Go 
 
+- [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
 - [manifoldfinance/geth-sealer](https://github.com/manifoldfinance/geth-sealer) - 
 - [skip-mev/mev-tendermint](https://github.com/skip-mev/mev-tendermint) - 
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
@@ -239,7 +240,7 @@
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [Owez/yark](https://github.com/Owez/yark) - YouTube archiving made simple
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
-- [skip-mev/bots](https://github.com/skip-mev/bots) - Example MEV searching bots for the Cosmos ecosystem, using Skip.
+- [skip-mev/skipper](https://github.com/skip-mev/skipper) - Example MEV searching bot for the Cosmos ecosystem, using Skip.
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 - [ConsenSys/mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.
