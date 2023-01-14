@@ -106,6 +106,7 @@
 
 ## Go 
 
+- [ChatGPT-Hackers/ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) - API server for ChatGPT
 - [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
 - [manifoldfinance/geth-sealer](https://github.com/manifoldfinance/geth-sealer) - 
 - [skip-mev/mev-tendermint](https://github.com/skip-mev/mev-tendermint) - 
@@ -139,6 +140,7 @@
 - [sailboatui/sailboatui](https://github.com/sailboatui/sailboatui) - Sailboat UI is a modern UI component library for Tailwind CSS
 - [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - 
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [go101/go101](https://github.com/go101/go101) - An up-to-date (unofficial) knowledge base for Go programming self learning
@@ -160,6 +162,7 @@
 
 ## JavaScript 
 
+- [status-im/status-security](https://github.com/status-im/status-security) - Repository for all Status Network related security information
 - [mourner/rbush](https://github.com/mourner/rbush) - RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
 - [wasm-tool/rollup-plugin-rust](https://github.com/wasm-tool/rollup-plugin-rust) - Rollup plugin for bundling and importing Rust crates.
 - [PraneshASP/vscode-solidity-inspector](https://github.com/PraneshASP/vscode-solidity-inspector) - A VSCode extension for inspecting solidity smartcontracts using Forge
@@ -175,7 +178,6 @@
 - [nfl/react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
 - [Haehnchen/crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition)
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
 - [compound-developers/api-guide-example](https://github.com/compound-developers/api-guide-example) - Example Ethereum smart contract API made with Express.js and Infura.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
@@ -348,7 +350,7 @@
 - [primitivefinance/solstat](https://github.com/primitivefinance/solstat) - Math library written in solidity for statistical function approximations like the Normal Cumulative Distribution Function.
 - [wei3erHase/buttplug-wars](https://github.com/wei3erHase/buttplug-wars) - 
 - [nathanhleung/fallback](https://github.com/nathanhleung/fallback) - 💸 Write web apps in Solidity — a Solidity web framework / a proof-of-concept implementation of HTTP over Ethereum.
-- [0xToshii/mr-steal-yo-crypto-ctf](https://github.com/0xToshii/mr-steal-yo-crypto-ctf) - CTF challenges for mrstealyocrypto.xyz
+- [0xToshii/mr-steal-yo-crypto-ctf](https://github.com/0xToshii/mr-steal-yo-crypto-ctf) - Solidity CTF challenges for mrstealyocrypto.xyz
 - [AnshuJalan/ethML-core](https://github.com/AnshuJalan/ethML-core) - Contracts for EthML- a decentralized AI implementation
 - [smrpn/Account2](https://github.com/smrpn/Account2) - Account2 is three things: - Account Abstraction (AA) - Economic Abstraction (EA) - Account Linking
 - [hananbeer/sqlidity](https://github.com/hananbeer/sqlidity) - SQL on chain
