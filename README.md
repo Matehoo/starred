@@ -107,7 +107,7 @@
 
 ## Go 
 
-- [ChatGPT-Hackers/ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) - API server for ChatGPT
+- [acheong08/ChatGPT-API-server](https://github.com/acheong08/ChatGPT-API-server) - API server for ChatGPT
 - [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
 - [manifoldfinance/geth-sealer](https://github.com/manifoldfinance/geth-sealer) - 
 - [skip-mev/mev-tendermint](https://github.com/skip-mev/mev-tendermint) - 
@@ -311,7 +311,7 @@
 - [trickster0/OffensiveRust](https://github.com/trickster0/OffensiveRust) - Rust Weaponization for Red Team Engagements.
 - [mhogrefe/malachite](https://github.com/mhogrefe/malachite) - An arbitrary-precision arithmetic library for Rust.
 - [nomadiz/edma](https://github.com/nomadiz/edma) - EDMA is an interactive terminal app for managing multiple embedded databases system at once with powerful byte deserializer support.
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 - [microsoft/Nova](https://github.com/microsoft/Nova) - Nova: Recursive SNARKs without trusted setup
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [diptools/dip](https://github.com/diptools/dip) - Full-Rust Web3 application toolkit focus on ECS based event-driven development.  Powered by Bevy game engine. From desktop apps to the Metaverse.
@@ -345,6 +345,8 @@
 
 ## Solidity 
 
+- [lucas-manuel/invariant-example](https://github.com/lucas-manuel/invariant-example) - 
+- [exp-table/pigeon](https://github.com/exp-table/pigeon) - Simulate cross-chain protocols txs, easily.
 - [N0xMare/foundry-invariants](https://github.com/N0xMare/foundry-invariants) - 
 - [Uniswap/permit2](https://github.com/Uniswap/permit2) - 🔑🔑🔑 next generation token approvals mechanism
 - [spearbit-audits/writing-exercise](https://github.com/spearbit-audits/writing-exercise) - 
@@ -383,6 +385,8 @@
 
 ## TypeScript 
 
+- [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
+- [radix-ui/design-system](https://github.com/radix-ui/design-system) - An extensive design system for building high-quality websites and web apps. Maintained and used by @WorkOS.
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [antfu/birpc](https://github.com/antfu/birpc) - Message-based two-way remote procedure call.
