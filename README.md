@@ -163,6 +163,7 @@
 
 ## JavaScript 
 
+- [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
 - [status-im/status-security](https://github.com/status-im/status-security) - Repository for all Status Network related security information
 - [mourner/rbush](https://github.com/mourner/rbush) - RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
 - [wasm-tool/rollup-plugin-rust](https://github.com/wasm-tool/rollup-plugin-rust) - Rollup plugin for bundling and importing Rust crates.
@@ -211,6 +212,8 @@
 
 ## Others 
 
+- [tamjid0x01/SmartContracts-audit-checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist) - A checklist of things to look for when auditing Solidity smart contracts.
+- [4337Mafia/awesome-account-abstraction](https://github.com/4337Mafia/awesome-account-abstraction) - 📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)
 - [crisgarner/awesome-foundry](https://github.com/crisgarner/awesome-foundry) - A curated list of awesome of the Foundry development framework.
 - [Mikerah/awesome-algorithmic-game-theory](https://github.com/Mikerah/awesome-algorithmic-game-theory) - An Awesome list for resources on algorithmic game theory
 - [0xPARC/zk-bug-tracker](https://github.com/0xPARC/zk-bug-tracker) - A community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto.
