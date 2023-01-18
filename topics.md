@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [algorithm](#algorithm)
 - [analytics](#analytics)
 - [android](#android)
@@ -120,6 +121,10 @@
 - [webpack](#webpack)
 - [website](#website)
 
+## ai 
+
+- [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A List of Awesome Generative AI Applications
+
 ## algorithm 
 
 - [mourner/rbush](https://github.com/mourner/rbush) - RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
@@ -156,6 +161,7 @@
 
 ## artificial-intelligence 
 
+- [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A List of Awesome Generative AI Applications
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
 
@@ -753,6 +759,11 @@
 
 ## others 
 
+- [blunt-instruments/MevWallet](https://github.com/blunt-instruments/MevWallet) - MevWallet is a smart contract wallet that allows the user to capture MEV from Searchers, or create MEV on purpose.
+- [degatchi/calldata-decoder](https://github.com/degatchi/calldata-decoder) - A black-box raw calldata decoder using only calldata to guess types and parse parameters.
+- [Avarok-Cybersecurity/Citadel-Protocol](https://github.com/Avarok-Cybersecurity/Citadel-Protocol) - Post-quantum communications SDK
+- [google-research/t5x](https://github.com/google-research/t5x) - 
+- [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
 - [radix-ui/design-system](https://github.com/radix-ui/design-system) - An extensive design system for building high-quality websites and web apps. Maintained and used by @WorkOS.
 - [lucas-manuel/invariant-example](https://github.com/lucas-manuel/invariant-example) - 
 - [status-im/status-security](https://github.com/status-im/status-security) - Repository for all Status Network related security information
@@ -983,6 +994,7 @@
 
 ## rust 
 
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
 - [taiki-e/cargo-hack](https://github.com/taiki-e/cargo-hack) - Cargo subcommand to provide various options useful for testing and continuous integration.
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
