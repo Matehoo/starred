@@ -212,6 +212,7 @@
 
 ## blockchain 
 
+- [llamafolio/evm-indexer](https://github.com/llamafolio/evm-indexer) - EVM-compatible chain indexer.
 - [4337Mafia/awesome-account-abstraction](https://github.com/4337Mafia/awesome-account-abstraction) - 📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)
 - [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
 - [NethermindEth/sedge](https://github.com/NethermindEth/sedge) - A one-click setup tool for PoS network/chain validators and nodes.
@@ -415,6 +416,7 @@
 
 ## ethereum 
 
+- [llamafolio/evm-indexer](https://github.com/llamafolio/evm-indexer) - EVM-compatible chain indexer.
 - [lambdaclass/starknet_in_rust](https://github.com/lambdaclass/starknet_in_rust) - A Rust implementation of StarkNet
 - [tamjid0x01/SmartContracts-audit-checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist) - A checklist of things to look for when auditing Solidity smart contracts.
 - [4337Mafia/awesome-account-abstraction](https://github.com/4337Mafia/awesome-account-abstraction) - 📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)
@@ -516,6 +518,7 @@
 
 ## graphql 
 
+- [llamafolio/evm-indexer](https://github.com/llamafolio/evm-indexer) - EVM-compatible chain indexer.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [apollographql/apollo-studio-community](https://github.com/apollographql/apollo-studio-community) - 🎡  GraphQL developer portal featuring an IDE (Apollo Explorer), auto-documentation, metrics reporting, and more. This repo is for issues, feature requests, and preview docs. 📬
@@ -785,6 +788,7 @@
 
 ## others 
 
+- [circlefin/evm-cctp-contracts](https://github.com/circlefin/evm-cctp-contracts) - Official repository for all EVM-compatible smart contracts used by the Cross-Chain Transfer Protocol
 - [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos) - Restoring old and blurry face photos with AI.
 - [worldcoin/proto-neural-zkp](https://github.com/worldcoin/proto-neural-zkp) - Artificial intelligence and zero knowledge.
 - [0xProject/OpenZKP](https://github.com/0xProject/OpenZKP) - OpenZKP - pure Rust implementations of Zero-Knowledge Proof systems.
@@ -798,7 +802,7 @@
 - [google-research/t5x](https://github.com/google-research/t5x) - 
 - [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
 - [radix-ui/design-system](https://github.com/radix-ui/design-system) - An extensive design system for building high-quality websites and web apps. Maintained and used by @WorkOS.
-- [lucas-manuel/invariant-example](https://github.com/lucas-manuel/invariant-example) - 
+- [lucas-manuel/invariant-examples](https://github.com/lucas-manuel/invariant-examples) - 
 - [status-im/status-security](https://github.com/status-im/status-security) - Repository for all Status Network related security information
 - [acheong08/ChatGPT-API-server](https://github.com/acheong08/ChatGPT-API-server) - API server for ChatGPT
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -1028,6 +1032,7 @@
 
 ## rust 
 
+- [llamafolio/evm-indexer](https://github.com/llamafolio/evm-indexer) - EVM-compatible chain indexer.
 - [lambdaclass/starknet_in_rust](https://github.com/lambdaclass/starknet_in_rust) - A Rust implementation of StarkNet
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
 - [taiki-e/cargo-hack](https://github.com/taiki-e/cargo-hack) - Cargo subcommand to provide various options useful for testing and continuous integration.
