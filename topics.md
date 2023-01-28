@@ -249,6 +249,7 @@
 
 ## cli 
 
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
 - [taiki-e/cargo-hack](https://github.com/taiki-e/cargo-hack) - Cargo subcommand to provide various options useful for testing and continuous integration.
 - [ignite/cli](https://github.com/ignite/cli) - Ignite CLI is the all-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain
@@ -784,11 +785,19 @@
 
 ## osint 
 
-- [Owez/yark](https://github.com/Owez/yark) - YouTube archiving made simple
+- [Owez/yark](https://github.com/Owez/yark) - YouTube archiving made simple.
 - [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
 
 ## others 
 
+- [TheAppleTucker/backend-GPT](https://github.com/TheAppleTucker/backend-GPT) - 
+- [lucas-manuel/invariant-examples](https://github.com/lucas-manuel/invariant-examples) - 
+- [bheisler/iai](https://github.com/bheisler/iai) - Experimental one-shot benchmarking/profiling harness for Rust
+- [Mokshit06/typewind](https://github.com/Mokshit06/typewind) - The safety of Typescript with the magic of Tailwind.
+- [openchainxyz/openchain-monorepo](https://github.com/openchainxyz/openchain-monorepo) - 
+- [mektigboy/evm-chad](https://github.com/mektigboy/evm-chad) - A curated list of the hottest and most fresh resources to become an EVM chad
+- [chugsplash/chugsplash-foundry](https://github.com/chugsplash/chugsplash-foundry) - A Foundry library for deploying and managing upgradeable smart contracts
+- [emilybache/GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) - Starting code for the GildedRose Refactoring Kata in many programming languages.
 - [circlefin/evm-cctp-contracts](https://github.com/circlefin/evm-cctp-contracts) - Official repository for all EVM-compatible smart contracts used by the Cross-Chain Transfer Protocol
 - [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos) - Restoring old and blurry face photos with AI.
 - [worldcoin/proto-neural-zkp](https://github.com/worldcoin/proto-neural-zkp) - Artificial intelligence and zero knowledge.
@@ -803,7 +812,6 @@
 - [google-research/t5x](https://github.com/google-research/t5x) - 
 - [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
 - [radix-ui/design-system](https://github.com/radix-ui/design-system) - An extensive design system for building high-quality websites and web apps. Maintained and used by @WorkOS.
-- [lucas-manuel/invariant-examples](https://github.com/lucas-manuel/invariant-examples) - 
 - [status-im/status-security](https://github.com/status-im/status-security) - Repository for all Status Network related security information
 - [acheong08/ChatGPT-API-server](https://github.com/acheong08/ChatGPT-API-server) - API server for ChatGPT
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -839,7 +847,7 @@
 - [wei3erHase/buttplug-wars](https://github.com/wei3erHase/buttplug-wars) - 
 - [nathanhleung/fallback](https://github.com/nathanhleung/fallback) - 💸 Write web apps in Solidity — a Solidity web framework / a proof-of-concept implementation of HTTP over Ethereum.
 - [wasm-tool/rollup-plugin-rust](https://github.com/wasm-tool/rollup-plugin-rust) - Rollup plugin for bundling and importing Rust crates.
-- [firesim/firesim](https://github.com/firesim/firesim) - FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
+- [firesim/firesim](https://github.com/firesim/firesim) - FireSim: Fast and Effortless FPGA-accelerated Hardware Simulation with On-Prem and Cloud Flexibility
 - [0xToshii/mr-steal-yo-crypto-ctf](https://github.com/0xToshii/mr-steal-yo-crypto-ctf) - Solidity CTF challenges for mrstealyocrypto.xyz
 - [justjake/Gauss](https://github.com/justjake/Gauss) - Stable Diffusion macOS native app
 - [0xKitsune/Tour-of-ethers-rs](https://github.com/0xKitsune/Tour-of-ethers-rs) - A comprehensive walkthrough of all the nooks and crannies ethers-rs has to offer.
@@ -1033,6 +1041,8 @@
 
 ## rust 
 
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
+- [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust) - 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
 - [llamafolio/evm-indexer](https://github.com/llamafolio/evm-indexer) - EVM-compatible chain indexer.
 - [lambdaclass/starknet_in_rust](https://github.com/lambdaclass/starknet_in_rust) - A Rust implementation of StarkNet
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
@@ -1089,6 +1099,7 @@
 
 ## shell 
 
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## solidity 
@@ -1138,6 +1149,7 @@
 
 ## terminal 
 
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [Canop/bacon](https://github.com/Canop/bacon) - background rust code check
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
