@@ -89,6 +89,7 @@
 
 ## Elixir 
 
+- [fly-apps/live_beats](https://github.com/fly-apps/live_beats) - 
 - [TheAlgorithms/Elixir](https://github.com/TheAlgorithms/Elixir) - 
 - [commanded/commanded](https://github.com/commanded/commanded) - Use Commanded to build Elixir CQRS/ES applications
 - [commanded/eventstore](https://github.com/commanded/eventstore) - Event store using PostgreSQL for persistence
@@ -110,6 +111,7 @@
 
 ## Go 
 
+- [cometbft/cometbft](https://github.com/cometbft/cometbft) - CometBFT: A distributed, Byzantine fault-tolerant, deterministic state machine replication engine, and fork of Tendermint Core.
 - [acheong08/ChatGPT-API-server](https://github.com/acheong08/ChatGPT-API-server) - API server for ChatGPT
 - [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
 - [manifoldfinance/geth-sealer](https://github.com/manifoldfinance/geth-sealer) - 
@@ -166,6 +168,7 @@
 
 ## JavaScript 
 
+- [turbo-eth/turbo-slides](https://github.com/turbo-eth/turbo-slides) - 📖 Slide Decks with Web3 Capabilities
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [TheAppleTucker/backend-GPT](https://github.com/TheAppleTucker/backend-GPT) - 
 - [asn-d6/zkalc](https://github.com/asn-d6/zkalc) - A web tool that helps you compare and visualize the performance of cryptographic operations
@@ -219,6 +222,7 @@
 
 ## Others 
 
+- [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
 - [0xKitsune/EVM-Book](https://github.com/0xKitsune/EVM-Book) - A collection of EVM related information.
 - [starknet-io/starknet-stack-resources](https://github.com/starknet-io/starknet-stack-resources) - A collection of works discussing the security aspects of StarkNet
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -258,6 +262,8 @@
 
 ## Python 
 
+- [OpenGenus/vidsum](https://github.com/OpenGenus/vidsum) - Generate summary of any video :tv: anywhere and anytime
+- [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [karpathy/ng-video-lecture](https://github.com/karpathy/ng-video-lecture) - 
 - [google-research/t5x](https://github.com/google-research/t5x) - 
 - [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
@@ -310,6 +316,8 @@
 
 ## Rust 
 
+- [0xKitsune/solstat](https://github.com/0xKitsune/solstat) - A Solidity static analyzer to identify contract vulnerabilities and gas efficiencies.
+- [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps.
 - [Sovereign-Labs/sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk) - A framework for building seamlessly scalable and interoperable rollups that can run on any blockchain
 - [sonos/tract](https://github.com/sonos/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
@@ -351,7 +359,7 @@
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 - [microsoft/Nova](https://github.com/microsoft/Nova) - Nova: Recursive SNARKs without trusted setup
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
-- [diptools/dip](https://github.com/diptools/dip) - Full-Rust Web3 application toolkit focus on ECS based event-driven development.  Powered by Bevy game engine. From desktop apps to the Metaverse.
+- [diptools/dip](https://github.com/diptools/dip) - Rust application framework focuses on composability, ECS and Web3.  Powered by Bevy game engine. From desktop apps to the Metaverse.
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
 - [degatchi/mev-template-rs](https://github.com/degatchi/mev-template-rs) - Bootstrap your MEV bot strategies with a simple boilerplate to build on top of.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -382,6 +390,8 @@
 
 ## Solidity 
 
+- [StErMi/forge-damn-vulnerable-defi](https://github.com/StErMi/forge-damn-vulnerable-defi) - 
+- [brockelmore/how_to_foundry_2.0](https://github.com/brockelmore/how_to_foundry_2.0) - 
 - [minaminao/tornado-cats](https://github.com/minaminao/tornado-cats) - A book for learning zero-knowledge applications and decentralized mixing through the creation of a simple mixer protocol based on Tornado Cash
 - [lucas-manuel/invariant-examples](https://github.com/lucas-manuel/invariant-examples) - 
 - [chugsplash/chugsplash-foundry](https://github.com/chugsplash/chugsplash-foundry) - A Foundry library for deploying and managing upgradeable smart contracts
@@ -426,6 +436,7 @@
 
 ## TypeScript 
 
+- [hzhu/eth-balances](https://github.com/hzhu/eth-balances) - ⟠ A tiny library to get ERC-20 token balances on EVM blockchains using the Multicall smart contract ⟠
 - [nestjs/typeorm](https://github.com/nestjs/typeorm) - TypeORM module for Nest framework (node.js)  🍇
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
