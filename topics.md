@@ -137,6 +137,7 @@
 
 ## ai 
 
+- [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
 ## algorithm 
@@ -227,6 +228,7 @@
 
 ## blockchain 
 
+- [hzhu/eth-balances](https://github.com/hzhu/eth-balances) - ⟠ A tiny library to get ERC-20 token balances on EVM blockchains using the Multicall smart contract ⟠
 - [llamafolio/evm-indexer](https://github.com/llamafolio/evm-indexer) - EVM-compatible chain indexer.
 - [4337Mafia/awesome-account-abstraction](https://github.com/4337Mafia/awesome-account-abstraction) - 📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)
 - [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
@@ -234,6 +236,7 @@
 - [AnshuJalan/ethML-core](https://github.com/AnshuJalan/ethML-core) - Contracts for EthML- a decentralized AI implementation
 - [0xNazgul/Blockchain-Security-Audit-List](https://github.com/0xNazgul/Blockchain-Security-Audit-List) - A list of notable Blockchain Security audit companies.
 - [OffcierCia/Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) - Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
+- [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
 - [ignite/cli](https://github.com/ignite/cli) - Ignite CLI is the all-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain
 - [ConsenSys/mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
@@ -256,6 +259,7 @@
 
 ## chatgpt 
 
+- [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [kazuki-sf/YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) - YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
@@ -345,6 +349,7 @@
 
 ## database 
 
+- [cometbft/cometbft](https://github.com/cometbft/cometbft) - CometBFT: A distributed, Byzantine fault-tolerant, deterministic state machine replication engine, and fork of Tendermint Core.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
 - [nomadiz/edma](https://github.com/nomadiz/edma) - EDMA is an interactive terminal app for managing multiple embedded databases system at once with powerful byte deserializer support.
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
@@ -441,6 +446,8 @@
 
 ## ethereum 
 
+- [hzhu/eth-balances](https://github.com/hzhu/eth-balances) - ⟠ A tiny library to get ERC-20 token balances on EVM blockchains using the Multicall smart contract ⟠
+- [turbo-eth/turbo-slides](https://github.com/turbo-eth/turbo-slides) - 📖 Slide Decks with Web3 Capabilities
 - [lambdaclass/starknet_in_rust](https://github.com/lambdaclass/starknet_in_rust) - A Rust implementation of StarkNet
 - [tamjid0x01/SmartContracts-audit-checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist) - A checklist of things to look for when auditing Solidity smart contracts.
 - [4337Mafia/awesome-account-abstraction](https://github.com/4337Mafia/awesome-account-abstraction) - 📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)
@@ -487,7 +494,7 @@
 ## framework 
 
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [diptools/dip](https://github.com/diptools/dip) - Full-Rust Web3 application toolkit focus on ECS based event-driven development.  Powered by Bevy game engine. From desktop apps to the Metaverse.
+- [diptools/dip](https://github.com/diptools/dip) - Rust application framework focuses on composability, ECS and Web3.  Powered by Bevy game engine. From desktop apps to the Metaverse.
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -735,6 +742,7 @@
 
 ## machine-learning 
 
+- [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
@@ -772,6 +780,7 @@
 
 ## nextjs 
 
+- [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [wslyvh/nexth](https://github.com/wslyvh/nexth) - A Next.js + Ethereum starter kit to quickly ship Web3 Apps ⚡
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
@@ -829,6 +838,12 @@
 
 ## others 
 
+- [fly-apps/live_beats](https://github.com/fly-apps/live_beats) - 
+- [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
+- [StErMi/forge-damn-vulnerable-defi](https://github.com/StErMi/forge-damn-vulnerable-defi) - 
+- [0xKitsune/solstat](https://github.com/0xKitsune/solstat) - A Solidity static analyzer to identify contract vulnerabilities and gas efficiencies.
+- [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps.
+- [brockelmore/how_to_foundry_2.0](https://github.com/brockelmore/how_to_foundry_2.0) - 
 - [0xKitsune/EVM-Book](https://github.com/0xKitsune/EVM-Book) - A collection of EVM related information.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [starknet-io/starknet-stack-resources](https://github.com/starknet-io/starknet-stack-resources) - A collection of works discussing the security aspects of StarkNet
@@ -1011,6 +1026,8 @@
 
 ## python 
 
+- [OpenGenus/vidsum](https://github.com/OpenGenus/vidsum) - Generate summary of any video :tv: anywhere and anytime
+- [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
 - [CADLabs/ethereum-economic-model](https://github.com/CADLabs/ethereum-economic-model) - A modular dynamical-systems model of Ethereum's validator economics
@@ -1111,7 +1128,7 @@
 - [nomadiz/edma](https://github.com/nomadiz/edma) - EDMA is an interactive terminal app for managing multiple embedded databases system at once with powerful byte deserializer support.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
-- [diptools/dip](https://github.com/diptools/dip) - Full-Rust Web3 application toolkit focus on ECS based event-driven development.  Powered by Bevy game engine. From desktop apps to the Metaverse.
+- [diptools/dip](https://github.com/diptools/dip) - Rust application framework focuses on composability, ECS and Web3.  Powered by Bevy game engine. From desktop apps to the Metaverse.
 - [substrate-developer-hub/awesome-substrate](https://github.com/substrate-developer-hub/awesome-substrate) - A curated list of awesome projects and resources related to the Substrate blockchain development framework.
 - [open-web3-stack/open-runtime-module-library](https://github.com/open-web3-stack/open-runtime-module-library) - Substrate Open Runtime Module Library
 - [risc0/risc0](https://github.com/risc0/risc0) - RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.
