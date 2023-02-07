@@ -168,6 +168,7 @@
 
 ## JavaScript 
 
+- [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
 - [turbo-eth/turbo-slides](https://github.com/turbo-eth/turbo-slides) - 📖 Slide Decks with Web3 Capabilities
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [TheAppleTucker/backend-GPT](https://github.com/TheAppleTucker/backend-GPT) - 
@@ -222,6 +223,7 @@
 
 ## Others 
 
+- [gabefair/Family-Security-Review](https://github.com/gabefair/Family-Security-Review) - Every six months I walk my family, roomates, and friends through a security and privacy review. Here is what is on my checklist
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
 - [0xKitsune/EVM-Book](https://github.com/0xKitsune/EVM-Book) - A collection of EVM related information.
 - [starknet-io/starknet-stack-resources](https://github.com/starknet-io/starknet-stack-resources) - A collection of works discussing the security aspects of StarkNet
@@ -262,6 +264,7 @@
 
 ## Python 
 
+- [unlobito/pytravelcard](https://github.com/unlobito/pytravelcard) - python tools for interacting with ITSO-compliant smartcards
 - [OpenGenus/vidsum](https://github.com/OpenGenus/vidsum) - Generate summary of any video :tv: anywhere and anytime
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [karpathy/ng-video-lecture](https://github.com/karpathy/ng-video-lecture) - 
@@ -318,7 +321,7 @@
 
 - [0xKitsune/solstat](https://github.com/0xKitsune/solstat) - A Solidity static analyzer to identify contract vulnerabilities and gas efficiencies.
 - [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps.
-- [Sovereign-Labs/sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk) - A framework for building seamlessly scalable and interoperable rollups that can run on any blockchain
+- [Sovereign-Labs/sovereign](https://github.com/Sovereign-Labs/sovereign) - A framework for building seamlessly scalable and interoperable rollups that can run on any blockchain
 - [sonos/tract](https://github.com/sonos/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [fiberplane/autometrics-rs](https://github.com/fiberplane/autometrics-rs) - Easily add metrics to your system -- and actually understand them using automatically customized Prometheus queries
@@ -391,7 +394,7 @@
 ## Solidity 
 
 - [StErMi/forge-damn-vulnerable-defi](https://github.com/StErMi/forge-damn-vulnerable-defi) - 
-- [brockelmore/how_to_foundry_2.0](https://github.com/brockelmore/how_to_foundry_2.0) - 
+- [nascentxyz/How-to-Foundry](https://github.com/nascentxyz/How-to-Foundry) - 
 - [minaminao/tornado-cats](https://github.com/minaminao/tornado-cats) - A book for learning zero-knowledge applications and decentralized mixing through the creation of a simple mixer protocol based on Tornado Cash
 - [lucas-manuel/invariant-examples](https://github.com/lucas-manuel/invariant-examples) - 
 - [chugsplash/chugsplash-foundry](https://github.com/chugsplash/chugsplash-foundry) - A Foundry library for deploying and managing upgradeable smart contracts
@@ -420,7 +423,6 @@
 
 ## Starlark 
 
-- [openchainxyz/openchain-monorepo](https://github.com/openchainxyz/openchain-monorepo) - 
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
 ## Svelte 
@@ -436,12 +438,14 @@
 
 ## TypeScript 
 
+- [dabit3/gpt-travel-advisor](https://github.com/dabit3/gpt-travel-advisor) - Create a travel itinerary for any city in the world in just a few seconds
 - [hzhu/eth-balances](https://github.com/hzhu/eth-balances) - ⟠ A tiny library to get ERC-20 token balances on EVM blockchains using the Multicall smart contract ⟠
 - [nestjs/typeorm](https://github.com/nestjs/typeorm) - TypeORM module for Nest framework (node.js)  🍇
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [nuxt-themes/starter](https://github.com/nuxt-themes/starter) - The best place to start your Nuxt Theme.
 - [Mokshit06/typewind](https://github.com/Mokshit06/typewind) - The safety of Typescript with the magic of Tailwind.
+- [openchainxyz/openchain-monorepo](https://github.com/openchainxyz/openchain-monorepo) - 
 - [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos) - Restoring old and blurry face photos with AI.
 - [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript) - Algorithms and Data Structures implemented in TypeScript for beginners, following best practices.
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
