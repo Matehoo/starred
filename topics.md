@@ -945,7 +945,7 @@
 - [0xToshii/mr-steal-yo-crypto-ctf](https://github.com/0xToshii/mr-steal-yo-crypto-ctf) - Solidity CTF challenges for mrstealyocrypto.xyz (hardhat)
 - [justjake/Gauss](https://github.com/justjake/Gauss) - Stable Diffusion macOS native app
 - [0xKitsune/Tour-of-ethers-rs](https://github.com/0xKitsune/Tour-of-ethers-rs) - A comprehensive walkthrough of all the nooks and crannies ethers-rs has to offer.
-- [smrpn/Account2](https://github.com/smrpn/Account2) - Account2 is three things: - Account Abstraction (AA) - Economic Abstraction (EA) - Account Linking
+- [0xethsign/Account2](https://github.com/0xethsign/Account2) - Account2 is three things: - Account Abstraction (AA) - Economic Abstraction (EA) - Account Linking
 - [hananbeer/sqlidity](https://github.com/hananbeer/sqlidity) - SQL on chain
 - [timeless-fi/uniswap-poor-oracle](https://github.com/timeless-fi/uniswap-poor-oracle) - Flashloan-proof Uniswap v3 price-out-of-range oracle for querying if a position is out of range onchain
 - [YtzBeno/elliptic-curve-noir](https://github.com/YtzBeno/elliptic-curve-noir) - Elliptic Curve arithmetic operations written in Noir
@@ -1086,6 +1086,8 @@
 
 ## rails 
 
+- [thoughtbot/clearance](https://github.com/thoughtbot/clearance) - Rails authentication with email & password.
+- [lazaronixon/authentication-zero](https://github.com/lazaronixon/authentication-zero) - An authentication system generator for Rails applications.
 - [shioyama/mobility](https://github.com/shioyama/mobility) - Pluggable Ruby translation framework
 - [fnando/browser](https://github.com/fnando/browser) - Do some browser detection with Ruby. Includes ActionController integration.
 - [scenic-views/scenic](https://github.com/scenic-views/scenic) - Versioned database views for Rails
@@ -1134,6 +1136,8 @@
 
 ## ruby 
 
+- [thoughtbot/clearance](https://github.com/thoughtbot/clearance) - Rails authentication with email & password.
+- [lazaronixon/authentication-zero](https://github.com/lazaronixon/authentication-zero) - An authentication system generator for Rails applications.
 - [TheAlgorithms/Ruby](https://github.com/TheAlgorithms/Ruby) - All algorithms implemented in Ruby
 - [shioyama/mobility](https://github.com/shioyama/mobility) - Pluggable Ruby translation framework
 - [fnando/browser](https://github.com/fnando/browser) - Do some browser detection with Ruby. Includes ActionController integration.
@@ -1214,6 +1218,7 @@
 
 ## solidity 
 
+- [qiuxiang/solidity-ls](https://github.com/qiuxiang/solidity-ls) - Solidity language server.
 - [Ackee-Blockchain/woke](https://github.com/Ackee-Blockchain/woke) - Woke is a Python-based development and testing framework for Solidity.
 - [TheAlgorithms/Solidity](https://github.com/TheAlgorithms/Solidity) - Algorithms and data structures implemented in Solidity
 - [tamjid0x01/SmartContracts-audit-checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist) - A checklist of things to look for when auditing Solidity smart contracts.
