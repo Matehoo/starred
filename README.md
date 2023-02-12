@@ -226,6 +226,7 @@
 
 ## Others 
 
+- [shanzson/Zero-Knowledge-Proofs-Learning-Resources](https://github.com/shanzson/Zero-Knowledge-Proofs-Learning-Resources) - This repository contains Zk learning resources
 - [ControlCplusControlV/Yul-Optimization-Tips](https://github.com/ControlCplusControlV/Yul-Optimization-Tips) - 
 - [gabefair/Family-Security-Review](https://github.com/gabefair/Family-Security-Review) - Every six months I walk my family, roomates, and friends through a security and privacy review. Here is what is on my checklist
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
@@ -268,6 +269,7 @@
 
 ## Python 
 
+- [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny and minimal implementation of GPT-2 in NumPy.
 - [samim23/polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML
 - [Ackee-Blockchain/woke](https://github.com/Ackee-Blockchain/woke) - Woke is a Python-based development and testing framework for Solidity.
 - [poketwo/poketwo](https://github.com/poketwo/poketwo) - A Discord bot.
