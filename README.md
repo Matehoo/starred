@@ -269,7 +269,7 @@
 
 ## Python 
 
-- [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny and minimal implementation of GPT-2 in NumPy.
+- [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
 - [samim23/polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML
 - [Ackee-Blockchain/woke](https://github.com/Ackee-Blockchain/woke) - Woke is a Python-based development and testing framework for Solidity.
 - [poketwo/poketwo](https://github.com/poketwo/poketwo) - A Discord bot.
