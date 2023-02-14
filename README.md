@@ -21,6 +21,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [Move](#move)
 - [Nim](#nim)
 - [Others](#others)
 - [Python](#python)
@@ -220,12 +221,17 @@
 - [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running) - CDN Up and Running - Building a CDN from Scratch to Learn about CDN
 - [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
 
+## Move 
+
+- [OmniBTC/Sui-AMM-swap](https://github.com/OmniBTC/Sui-AMM-swap) - The first open source AMM swap on the Sui. @mystenLabs
+
 ## Nim 
 
 - [metacraft-labs/py2nim_deprecated](https://github.com/metacraft-labs/py2nim_deprecated) - 
 
 ## Others 
 
+- [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [shanzson/Zero-Knowledge-Proofs-Learning-Resources](https://github.com/shanzson/Zero-Knowledge-Proofs-Learning-Resources) - This repository contains Zk learning resources
 - [ControlCplusControlV/Yul-Optimization-Tips](https://github.com/ControlCplusControlV/Yul-Optimization-Tips) - 
 - [gabefair/Family-Security-Review](https://github.com/gabefair/Family-Security-Review) - Every six months I walk my family, roomates, and friends through a security and privacy review. Here is what is on my checklist
@@ -452,6 +458,8 @@
 
 ## TypeScript 
 
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
 - [qiuxiang/solidity-ls](https://github.com/qiuxiang/solidity-ls) - Solidity language server.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [Rubilmax/foundry-storage-check](https://github.com/Rubilmax/foundry-storage-check) - 🔐 Protect your Smart Contract Proxy from storage collisions upon upgrading, by running this action in a CI on each of your Pull Requests!
