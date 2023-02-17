@@ -467,6 +467,7 @@
 
 ## ethereum 
 
+- [PaulRBerg/solplate](https://github.com/PaulRBerg/solplate) - Simple utility for generating boilerplate Solidity contracts
 - [hzhu/eth-balances](https://github.com/hzhu/eth-balances) - ⟠ A tiny library to get ERC-20 token balances on EVM blockchains using the Multicall smart contract ⟠
 - [turbo-eth/turbo-slides](https://github.com/turbo-eth/turbo-slides) - 📖 Slide Decks with Web3 Capabilities
 - [lambdaclass/starknet_in_rust](https://github.com/lambdaclass/starknet_in_rust) - A Rust implementation of StarkNet
@@ -514,6 +515,7 @@
 
 ## framework 
 
+- [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [diptools/dip](https://github.com/diptools/dip) - Rust application framework focuses on composability, ECS and Web3.  Powered by Bevy game engine. From desktop apps to the Metaverse.
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
@@ -642,6 +644,7 @@
 
 ## html 
 
+- [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [sailboatui/sailboatui](https://github.com/sailboatui/sailboatui) - Sailboat UI is a modern UI component library for Tailwind CSS
@@ -687,7 +690,7 @@
 - [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight library of UI components without CSS framework dependency
 - [mourner/rbush](https://github.com/mourner/rbush) - RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
-- [paulmillr/noble-curves](https://github.com/paulmillr/noble-curves) - Minimal, auditable JS implementation of elliptic curve cryptography.
+- [paulmillr/noble-curves](https://github.com/paulmillr/noble-curves) - Audited & minimal JS implementation of elliptic curve cryptography.
 - [7PH/powerglitch](https://github.com/7PH/powerglitch) - Tiny JS library to glitch anything on the web
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
 - [thesephist/ink](https://github.com/thesephist/ink) - Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style.
@@ -803,7 +806,7 @@
 ## monitoring 
 
 - [Rubilmax/foundry-storage-check](https://github.com/Rubilmax/foundry-storage-check) - 🔐 Protect your Smart Contract Proxy from storage collisions upon upgrading, by running this action in a CI on each of your Pull Requests!
-- [fiberplane/autometrics-rs](https://github.com/fiberplane/autometrics-rs) - Easily add metrics to your system -- and actually understand them using automatically customized Prometheus queries
+- [autometrics-dev/autometrics-rs](https://github.com/autometrics-dev/autometrics-rs) - Easily add metrics to your system -- and actually understand them using automatically customized Prometheus queries
 
 ## music 
 
@@ -883,6 +886,10 @@
 
 ## others 
 
+- [lvwerra/trl](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
+- [deepmind/mctx](https://github.com/deepmind/mctx) - Monte Carlo tree search in JAX
+- [tokio-rs/tokio-uring](https://github.com/tokio-rs/tokio-uring) - An io_uring backed runtime for Rust
+- [Vectorized/multicaller](https://github.com/Vectorized/multicaller) - Efficient multicaller contract
 - [dashbitco/nimble_publisher](https://github.com/dashbitco/nimble_publisher) - A minimal filesystem-based publishing engine with Markdown support and code highlighting
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
@@ -1108,6 +1115,7 @@
 
 ## rails 
 
+- [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [karafka/karafka-web](https://github.com/karafka/karafka-web) - Web UI for monitoring Karafka consumers' activity
 - [thoughtbot/clearance](https://github.com/thoughtbot/clearance) - Rails authentication with email & password.
 - [lazaronixon/authentication-zero](https://github.com/lazaronixon/authentication-zero) - An authentication system generator for Rails applications.
@@ -1161,6 +1169,7 @@
 
 ## ruby 
 
+- [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [karafka/karafka-web](https://github.com/karafka/karafka-web) - Web UI for monitoring Karafka consumers' activity
 - [thoughtbot/clearance](https://github.com/thoughtbot/clearance) - Rails authentication with email & password.
 - [lazaronixon/authentication-zero](https://github.com/lazaronixon/authentication-zero) - An authentication system generator for Rails applications.
@@ -1175,10 +1184,11 @@
 
 ## rust 
 
+- [PaulRBerg/solplate](https://github.com/PaulRBerg/solplate) - Simple utility for generating boilerplate Solidity contracts
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [Sovereign-Labs/sovereign](https://github.com/Sovereign-Labs/sovereign) - A framework for building seamlessly scalable and interoperable rollups that can run on any blockchain
 - [sonos/tract](https://github.com/sonos/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
-- [fiberplane/autometrics-rs](https://github.com/fiberplane/autometrics-rs) - Easily add metrics to your system -- and actually understand them using automatically customized Prometheus queries
+- [autometrics-dev/autometrics-rs](https://github.com/autometrics-dev/autometrics-rs) - Easily add metrics to your system -- and actually understand them using automatically customized Prometheus queries
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
 - [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust) - 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
 - [llamafolio/evm-indexer](https://github.com/llamafolio/evm-indexer) - EVM-compatible chain indexer.
@@ -1245,6 +1255,7 @@
 
 ## solidity 
 
+- [PaulRBerg/solplate](https://github.com/PaulRBerg/solplate) - Simple utility for generating boilerplate Solidity contracts
 - [qiuxiang/solidity-ls](https://github.com/qiuxiang/solidity-ls) - Solidity language server.
 - [Ackee-Blockchain/woke](https://github.com/Ackee-Blockchain/woke) - Woke is a Python-based development and testing framework for Solidity.
 - [TheAlgorithms/Solidity](https://github.com/TheAlgorithms/Solidity) - Algorithms and data structures implemented in Solidity
@@ -1324,7 +1335,7 @@
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [privacy-scaling-explorations/zkp-app-boilerplate](https://github.com/privacy-scaling-explorations/zkp-app-boilerplate) - Build your zkp app with typescript, hardhat, circom, and snarkjs!
-- [paulmillr/noble-curves](https://github.com/paulmillr/noble-curves) - Minimal, auditable JS implementation of elliptic curve cryptography.
+- [paulmillr/noble-curves](https://github.com/paulmillr/noble-curves) - Audited & minimal JS implementation of elliptic curve cryptography.
 - [wslyvh/nexth](https://github.com/wslyvh/nexth) - A Next.js + Ethereum starter kit to quickly ship Web3 Apps ⚡
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
