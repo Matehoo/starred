@@ -344,6 +344,7 @@
 
 ## Rust 
 
+- [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course
 - [tikv/pprof-rs](https://github.com/tikv/pprof-rs) - A Rust CPU profiler implemented with the help of backtrace-rs
 - [matter-labs/zksync](https://github.com/matter-labs/zksync) - zkSync: trustless scaling and privacy engine for Ethereum
 - [tokio-rs/tokio-uring](https://github.com/tokio-rs/tokio-uring) - An io_uring backed runtime for Rust
@@ -480,7 +481,7 @@
 - [Rubilmax/foundry-storage-check](https://github.com/Rubilmax/foundry-storage-check) - 🔐 Protect your Smart Contract Proxy from storage collisions upon upgrading, by running this action in a CI on each of your Pull Requests!
 - [apoorvlathey/storage-slots](https://github.com/apoorvlathey/storage-slots) - Easily query EIP-1967 & custom storage slots for contracts on any EVM chain
 - [dabit3/gpt-travel-advisor](https://github.com/dabit3/gpt-travel-advisor) - Create a travel itinerary for any city in the world in just a few seconds
-- [hzhu/eth-balances](https://github.com/hzhu/eth-balances) - ⟠ A tiny library to get ERC-20 token balances on EVM blockchains using the Multicall smart contract ⟠
+- [hzhu/eth-balances](https://github.com/hzhu/eth-balances) - 🪙 A tiny library to get ERC-20 token balances on EVM blockchains using the Multicall smart contract ⟠
 - [nestjs/typeorm](https://github.com/nestjs/typeorm) - TypeORM module for Nest framework (node.js)  🍇
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
