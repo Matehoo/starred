@@ -21,6 +21,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [Metal](#metal)
 - [Move](#move)
 - [Nim](#nim)
 - [Others](#others)
@@ -225,6 +226,10 @@
 - [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running) - CDN Up and Running - Building a CDN from Scratch to Learn about CDN
 - [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
 
+## Metal 
+
+- [philipturner/metal-benchmarks](https://github.com/philipturner/metal-benchmarks) - Apple GPU microarchitecture
+
 ## Move 
 
 - [OmniBTC/Sui-AMM-swap](https://github.com/OmniBTC/Sui-AMM-swap) - The first open source AMM swap on the Sui. @mystenLabs
@@ -344,6 +349,7 @@
 
 ## Rust 
 
+- [nymtech/nym](https://github.com/nymtech/nym) - Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.
 - [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course
 - [tikv/pprof-rs](https://github.com/tikv/pprof-rs) - A Rust CPU profiler implemented with the help of backtrace-rs
 - [matter-labs/zksync](https://github.com/matter-labs/zksync) - zkSync: trustless scaling and privacy engine for Ethereum
@@ -429,7 +435,7 @@
 - [Vectorized/multicaller](https://github.com/Vectorized/multicaller) - Efficient multicaller contract
 - [StErMi/forge-damn-vulnerable-defi](https://github.com/StErMi/forge-damn-vulnerable-defi) - 
 - [nascentxyz/How-to-Foundry](https://github.com/nascentxyz/How-to-Foundry) - 
-- [minaminao/tornado-cats](https://github.com/minaminao/tornado-cats) - A book for learning zero-knowledge applications and decentralized mixing through the creation of a simple mixer protocol based on Tornado Cash
+- [minaminao/tornado-cats](https://github.com/minaminao/tornado-cats) - A book for learning zero-knowledge applications and decentralized mixing by creating a simple mixer protocol based on Tornado Cash
 - [lucas-manuel/invariant-examples](https://github.com/lucas-manuel/invariant-examples) - 
 - [chugsplash/chugsplash-foundry](https://github.com/chugsplash/chugsplash-foundry) - A Foundry library for deploying and managing upgradeable smart contracts
 - [circlefin/evm-cctp-contracts](https://github.com/circlefin/evm-cctp-contracts) - Official repository for all EVM-compatible smart contracts used by the Cross-Chain Transfer Protocol
