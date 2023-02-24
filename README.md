@@ -82,6 +82,7 @@
 
 ## Clojure 
 
+- [swarmpit/swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight mobile-friendly Docker Swarm management UI
 - [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen) - A framework for distributed systems verification, with fault injection
 
 ## Crystal 
@@ -481,6 +482,7 @@
 
 ## TypeScript 
 
+- [AcalaNetwork/chopsticks](https://github.com/AcalaNetwork/chopsticks) - Create parallel reality of your Substrate network.
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [kettle11/tangle](https://github.com/kettle11/tangle) - Radically simple multiplayer / networked WebAssembly
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
