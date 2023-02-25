@@ -150,6 +150,7 @@
 
 ## HTML 
 
+- [danielkummer/git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet) - A cheatsheet on the usage of git flow
 - [ephtracy/ephtracy.github.io](https://github.com/ephtracy/ephtracy.github.io) - 
 - [sailboatui/sailboatui](https://github.com/sailboatui/sailboatui) - Sailboat UI is a modern UI component library for Tailwind CSS
 - [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
@@ -176,6 +177,7 @@
 
 ## JavaScript 
 
+- [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
 - [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js) - 📊 Interactive JavaScript Charts built on SVG
@@ -242,6 +244,8 @@
 
 ## Others 
 
+- [leonardoalt/ethereum_formal_verification_overview](https://github.com/leonardoalt/ethereum_formal_verification_overview) - Overview of the formal verification projects in the Ethereum ecosystem.
+- [lambdaclass/lambdaclass_hacking_learning_path](https://github.com/lambdaclass/lambdaclass_hacking_learning_path) - LambdaClass Hobby Club, hacking learning path handbook. The journey starts here!
 - [matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [shanzson/Zero-Knowledge-Proofs-Learning-Resources](https://github.com/shanzson/Zero-Knowledge-Proofs-Learning-Resources) - This repository contains Zk learning resources
@@ -352,6 +356,8 @@
 
 ## Rust 
 
+- [spider-rs/spider](https://github.com/spider-rs/spider) - The fastest web crawler and indexer written in Rust.
+- [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [nymtech/nym](https://github.com/nymtech/nym) - Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.
 - [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course
@@ -482,6 +488,11 @@
 
 ## TypeScript 
 
+- [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
+- [emilwidlund/nodl](https://github.com/emilwidlund/nodl) - A framework for computational node graphs.
+- [awslabs/diagram-maker](https://github.com/awslabs/diagram-maker) - A library to display an interactive editor for any graph-like data.
+- [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
+- [zkfs-io/zkfs](https://github.com/zkfs-io/zkfs) - Distributed, Incentivised, Zero-Knowledge File System
 - [AcalaNetwork/chopsticks](https://github.com/AcalaNetwork/chopsticks) - Create parallel reality of your Substrate network.
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [kettle11/tangle](https://github.com/kettle11/tangle) - Radically simple multiplayer / networked WebAssembly
@@ -545,7 +556,7 @@
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [egoist/ts-lib-starter](https://github.com/egoist/ts-lib-starter) - My minimal TypeScript library starter
-- [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas
+- [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
 - [tienduy-nguyen/nestjs-graphql-prisma](https://github.com/tienduy-nguyen/nestjs-graphql-prisma) - Boilerplate backend NestJS GraphQL project using Prisma 2 & PostgreSQL
 - [squareboat/nestjs-boilerplate](https://github.com/squareboat/nestjs-boilerplate) - A production-ready  🏭 NestJS boilerplate with batteries 🔋 included. No Kidding! Now Supports NestJS V9!!
