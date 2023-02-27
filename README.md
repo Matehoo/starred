@@ -336,6 +336,7 @@
 
 ## Ruby 
 
+- [oldmoe/litestack](https://github.com/oldmoe/litestack) - 
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [karafka/karafka-web](https://github.com/karafka/karafka-web) - Web UI for monitoring Karafka consumers' activity
 - [thoughtbot/clearance](https://github.com/thoughtbot/clearance) - Rails authentication with email & password.
