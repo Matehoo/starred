@@ -1226,7 +1226,7 @@
 
 ## rust 
 
-- [spider-rs/spider](https://github.com/spider-rs/spider) - The fastest web crawler and indexer written in Rust.
+- [spider-rs/spider](https://github.com/spider-rs/spider) - The fastest web crawler and indexer
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course
