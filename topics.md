@@ -144,6 +144,7 @@
 
 ## ai 
 
+- [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 
@@ -794,6 +795,7 @@
 
 ## machine-learning 
 
+- [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
 - [samim23/polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML
 - [dabit3/gpt-travel-advisor](https://github.com/dabit3/gpt-travel-advisor) - Create a travel itinerary for any city in the world in just a few seconds
@@ -912,6 +914,12 @@
 
 ## others 
 
+- [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance
+- [ComposableSecurity/SCSVS](https://github.com/ComposableSecurity/SCSVS) - Smart Contract Security Verification Standard
+- [walnutwaldo/enhanceai-react](https://github.com/walnutwaldo/enhanceai-react) - React wrapper for EnhanceAI (enhanceai.dev), a library for enhancing web app text input with AI autocomplete.
+- [ConsenSys/gnark](https://github.com/ConsenSys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license
+- [ethereum-optimism/optimism-starter](https://github.com/ethereum-optimism/optimism-starter) - A boilerplate for getting started with optimism
+- [ZhangZhuoSJTU/Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs) - Demystifying Exploitable Bugs in Smart Contracts
 - [oldmoe/litestack](https://github.com/oldmoe/litestack) - 
 - [emilwidlund/nodl](https://github.com/emilwidlund/nodl) - A framework for computational node graphs.
 - [leonardoalt/ethereum_formal_verification_overview](https://github.com/leonardoalt/ethereum_formal_verification_overview) - Overview of the formal verification projects in the Ethereum ecosystem.
@@ -928,7 +936,7 @@
 - [lvwerra/trl](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
 - [deepmind/mctx](https://github.com/deepmind/mctx) - Monte Carlo tree search in JAX
 - [tokio-rs/tokio-uring](https://github.com/tokio-rs/tokio-uring) - An io_uring backed runtime for Rust
-- [Vectorized/multicaller](https://github.com/Vectorized/multicaller) - Efficient multicaller contract
+- [Vectorized/multicaller](https://github.com/Vectorized/multicaller) - Efficient multicaller contracts
 - [dashbitco/nimble_publisher](https://github.com/dashbitco/nimble_publisher) - A minimal filesystem-based publishing engine with Markdown support and code highlighting
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
