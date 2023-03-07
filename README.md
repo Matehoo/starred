@@ -363,6 +363,7 @@
 
 ## Rust 
 
+- [hawkw/tinymetrics](https://github.com/hawkw/tinymetrics) - a minimal, allocation-free Prometheus/OpenMetrics metrics implementation for `no-std` and embedded Rust.
 - [64bit/async-openai](https://github.com/64bit/async-openai) - Async Rust library for OpenAI
 - [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance
 - [spider-rs/spider](https://github.com/spider-rs/spider) - The fastest web crawler and indexer
@@ -451,6 +452,8 @@
 
 ## Solidity 
 
+- [jtriley-eth/sol-fun](https://github.com/jtriley-eth/sol-fun) - 
+- [nomoixyz/vulcan](https://github.com/nomoixyz/vulcan) - WIP Development framework for Foundry projects
 - [ethereum-optimism/optimism-starter](https://github.com/ethereum-optimism/optimism-starter) - A boilerplate for getting started with optimism
 - [ZhangZhuoSJTU/Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs) - Demystifying Exploitable Bugs in Smart Contracts
 - [Vectorized/multicaller](https://github.com/Vectorized/multicaller) - Efficient multicaller contracts
@@ -499,6 +502,7 @@
 
 ## TypeScript 
 
+- [Uniswap/wallet](https://github.com/Uniswap/wallet) - Uniswap Wallet is the simplest, safest, and most powerful self-custodial crypto wallet. It is developed by the Uniswap Labs team, inventors of the Uniswap Protocol.
 - [mckaywrigley/paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt) - AI search & chat for all of Paul Graham’s essays.
 - [walnutwaldo/enhanceai-react](https://github.com/walnutwaldo/enhanceai-react) - React wrapper for EnhanceAI (enhanceai.dev), a library for enhancing web app text input with AI autocomplete.
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
@@ -554,9 +558,9 @@
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
-- [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
+- [withastro/astro](https://github.com/withastro/astro) - Astro is the all-in-one web framework designed for speed 🏝️✨
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
-- [paritytech/capi](https://github.com/paritytech/capi) - [WIP] A TypeScript toolkit for crafting interactions with Substrate-based chains
+- [paritytech/capi](https://github.com/paritytech/capi) - [WIP] A framework for crafting interactions with Substrate chains
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [polkadot-js/apps](https://github.com/polkadot-js/apps) - Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains.
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
