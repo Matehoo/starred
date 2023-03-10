@@ -118,6 +118,7 @@
 
 ## Go 
 
+- [ory/dockertest](https://github.com/ory/dockertest) - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
 - [utkusen/wholeaked](https://github.com/utkusen/wholeaked) - a file-sharing tool that allows you to find the responsible person in case of a leakage
 - [ConsenSys/gnark](https://github.com/ConsenSys/gnark) - gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license
 - [huahuayu/go-transaction-decoder](https://github.com/huahuayu/go-transaction-decoder) - go ethereum transaction input decoder
@@ -195,7 +196,7 @@
 - [paulmillr/noble-curves](https://github.com/paulmillr/noble-curves) - Audited & minimal JS implementation of elliptic curve cryptography.
 - [PraneshASP/vscode-solidity-inspector](https://github.com/PraneshASP/vscode-solidity-inspector) - A VSCode extension for inspecting solidity smartcontracts using Forge
 - [raineorshine/solgraph](https://github.com/raineorshine/solgraph) - Visualize Solidity control flow for smart contract security analysis.  :dollar: ⇆ :dollar:
-- [conduit-xyz/optimism-tutorial](https://github.com/conduit-xyz/optimism-tutorial) - Build your first app on Optimism!
+- [conduitxyz/optimism-tutorial](https://github.com/conduitxyz/optimism-tutorial) - Build your first app on Optimism!
 - [kazuki-sf/YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) - YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
@@ -248,6 +249,7 @@
 
 ## Others 
 
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [yu-takagi/StableDiffusionReconstruction](https://github.com/yu-takagi/StableDiffusionReconstruction) - Takagi and Nishimoto, CVPR 2023
 - [ComposableSecurity/SCSVS](https://github.com/ComposableSecurity/SCSVS) - Smart Contract Security Verification Standard
 - [leonardoalt/ethereum_formal_verification_overview](https://github.com/leonardoalt/ethereum_formal_verification_overview) - Overview of the formal verification projects in the Ethereum ecosystem.
@@ -454,6 +456,8 @@
 
 ## Solidity 
 
+- [karmacoma-eth/gas-benchmark-anvil](https://github.com/karmacoma-eth/gas-benchmark-anvil) - a little foundry template that shows how to use anvil to run gas benchmarks
+- [exp-table/hyena](https://github.com/exp-table/hyena) - Pack data tightly together and save space.
 - [jtriley-eth/sol-fun](https://github.com/jtriley-eth/sol-fun) - 
 - [nomoixyz/vulcan](https://github.com/nomoixyz/vulcan) - WIP Development framework for Foundry projects
 - [ethereum-optimism/optimism-starter](https://github.com/ethereum-optimism/optimism-starter) - A boilerplate for getting started with optimism
@@ -504,6 +508,8 @@
 
 ## TypeScript 
 
+- [literallymarvellous/anvil-ui](https://github.com/literallymarvellous/anvil-ui) - A admin ui for foundry/anvil
+- [DefiLlama/defillama-extension](https://github.com/DefiLlama/defillama-extension) - 
 - [huggingface/huggingface.js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face hub API
 - [wagmi-dev/viem](https://github.com/wagmi-dev/viem) - TypeScript Interface for Ethereum
 - [Uniswap/wallet](https://github.com/Uniswap/wallet) - Uniswap Wallet is the simplest, safest, and most powerful self-custodial crypto wallet. It is developed by the Uniswap Labs team, inventors of the Uniswap Protocol.
