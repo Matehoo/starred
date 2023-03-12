@@ -508,7 +508,7 @@
 
 ## TypeScript 
 
-- [literallymarvellous/anvil-ui](https://github.com/literallymarvellous/anvil-ui) - A admin ui for foundry/anvil
+- [literallymarvellous/anvil-ui](https://github.com/literallymarvellous/anvil-ui) - An admin ui for foundry/anvil
 - [DefiLlama/defillama-extension](https://github.com/DefiLlama/defillama-extension) - 
 - [huggingface/huggingface.js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face hub API
 - [wagmi-dev/viem](https://github.com/wagmi-dev/viem) - TypeScript Interface for Ethereum
