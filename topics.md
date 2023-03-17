@@ -304,6 +304,7 @@
 
 ## cli 
 
+- [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression for your terminal
 - [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -634,6 +635,7 @@
 
 ## hacktoberfest 
 
+- [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression for your terminal
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
@@ -948,6 +950,10 @@
 
 ## others 
 
+- [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs) - An implementation of the diffusers api in Rust
+- [setzer22/llama-rs](https://github.com/setzer22/llama-rs) - Run LLaMA inference on CPU, with Rust 🦀🚀🦙
+- [immunefi-team/forge-poc-templates](https://github.com/immunefi-team/forge-poc-templates) - 
+- [nascentxyz/pyrometer](https://github.com/nascentxyz/pyrometer) - A tool for analyzing the security and parameters of a solidity smart contract
 - [trailofbits/on-edge](https://github.com/trailofbits/on-edge) - A library for detecting certain improper uses of the "Defer, Panic, and Recover" pattern in Go programs
 - [paradigmxyz/sinker](https://github.com/paradigmxyz/sinker) - Synchronize Postgres to Elasticsearch
 - [awesome-print/awesome_print](https://github.com/awesome-print/awesome_print) - Pretty print your Ruby objects with style -- in full color and with proper indentation
@@ -1282,6 +1288,8 @@
 
 ## rust 
 
+- [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression for your terminal
+- [sigp/superstruct](https://github.com/sigp/superstruct) - Rust library for versioned data types
 - [fereidani/kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves
 - [64bit/async-openai](https://github.com/64bit/async-openai) - Async Rust library for OpenAI
 - [spider-rs/spider](https://github.com/spider-rs/spider) - The fastest web crawler and indexer
