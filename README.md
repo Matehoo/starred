@@ -301,6 +301,7 @@
 
 ## Python 
 
+- [jankais3r/LLaMA_MPS](https://github.com/jankais3r/LLaMA_MPS) - Run LLaMA (and Stanford-Alpaca) inference on Apple Silicon GPUs.
 - [paradigmxyz/sinker](https://github.com/paradigmxyz/sinker) - Synchronize Postgres to Elasticsearch
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [qwopqwop200/GPTQ-for-LLaMa](https://github.com/qwopqwop200/GPTQ-for-LLaMa) - 4 bits quantization of LLaMa using GPTQ
