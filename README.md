@@ -43,6 +43,7 @@
 
 ## C 
 
+- [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
@@ -222,6 +223,7 @@
 
 ## Jupyter Notebook 
 
+- [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - :octopus: Guides, papers, lecture, and resources for prompt engineering
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
@@ -469,6 +471,8 @@
 
 ## Solidity 
 
+- [emo-eth/solarray](https://github.com/emo-eth/solarray) - A blazing-fast helper library for convenient Solidity dynamic arrays
+- [0xfoobar/bitsignal](https://github.com/0xfoobar/bitsignal) - 
 - [immunefi-team/forge-poc-templates](https://github.com/immunefi-team/forge-poc-templates) - 
 - [clabby/substratum](https://github.com/clabby/substratum) - An opinionated, spec-compliant, optimized version of Optimism's contracts-bedrock package.
 - [karmacoma-eth/gas-benchmark-anvil](https://github.com/karmacoma-eth/gas-benchmark-anvil) - a little foundry template that shows how to use anvil to run gas benchmarks
