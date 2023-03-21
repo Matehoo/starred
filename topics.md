@@ -149,6 +149,7 @@
 
 ## ai 
 
+- [sigoden/aichat](https://github.com/sigoden/aichat) - Chat with gpt-3.5/chatgpt in terminal.
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -290,6 +291,7 @@
 
 ## chatgpt 
 
+- [sigoden/aichat](https://github.com/sigoden/aichat) - Chat with gpt-3.5/chatgpt in terminal.
 - [jankais3r/LLaMA_MPS](https://github.com/jankais3r/LLaMA_MPS) - Run LLaMA (and Stanford-Alpaca) inference on Apple Silicon GPUs.
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -959,6 +961,7 @@
 
 ## others 
 
+- [pointnetwork/point-alpaca](https://github.com/pointnetwork/point-alpaca) - 
 - [cryptostaker2/blockchain-security-audits](https://github.com/cryptostaker2/blockchain-security-audits) - A collection of my security audits
 - [emo-eth/solarray](https://github.com/emo-eth/solarray) - A blazing-fast helper library for convenient Solidity dynamic arrays
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
@@ -1044,7 +1047,6 @@
 - [lambdaclass/lambdaworks](https://github.com/lambdaclass/lambdaworks) - The library for kids who wanna learn how to do SNARKs and learn other cryptographic stuff too
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [blunt-instruments/MevWallet](https://github.com/blunt-instruments/MevWallet) - MevWallet is a smart contract wallet that allows the user to capture MEV from Searchers, or create MEV on purpose.
-- [degatchi/calldata-decoder](https://github.com/degatchi/calldata-decoder) - A black-box raw calldata decoder using only calldata to guess types and parse parameters.
 - [Avarok-Cybersecurity/Citadel-Protocol](https://github.com/Avarok-Cybersecurity/Citadel-Protocol) - Post-quantum communications SDK
 - [google-research/t5x](https://github.com/google-research/t5x) - 
 - [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) - Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
