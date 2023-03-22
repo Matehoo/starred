@@ -183,6 +183,8 @@
 
 ## JavaScript 
 
+- [drawcall/Proton](https://github.com/drawcall/Proton) - Javascript particle animation library
+- [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
@@ -379,7 +381,8 @@
 
 ## Rust 
 
-- [sigoden/aichat](https://github.com/sigoden/aichat) - Chat with gpt-3.5/chatgpt in terminal.
+- [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz) - Release rust packages without using the command line.
+- [sigoden/aichat](https://github.com/sigoden/aichat) - Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression for your terminal
 - [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs) - An implementation of the diffusers api in Rust
 - [setzer22/llama-rs](https://github.com/setzer22/llama-rs) - Run LLaMA inference on CPU, with Rust 🦀🚀🦙
@@ -530,6 +533,7 @@
 
 ## TypeScript 
 
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [AztecProtocol/aztec-connect](https://github.com/AztecProtocol/aztec-connect) - aztec connect repository
 - [literallymarvellous/anvil-ui](https://github.com/literallymarvellous/anvil-ui) - An admin ui for foundry/anvil
 - [DefiLlama/defillama-extension](https://github.com/DefiLlama/defillama-extension) - 
