@@ -133,6 +133,7 @@
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [testing](#testing)
+- [twitter](#twitter)
 - [typescript](#typescript)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
@@ -267,7 +268,7 @@
 - [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
 - [NethermindEth/sedge](https://github.com/NethermindEth/sedge) - A one-click setup tool for PoS network/chain validators and nodes.
 - [AnshuJalan/ethML-core](https://github.com/AnshuJalan/ethML-core) - Contracts for EthML- a decentralized AI implementation
-- [0xNazgul/Blockchain-Security-Audit-List](https://github.com/0xNazgul/Blockchain-Security-Audit-List) - A list of notable Blockchain Security audit companies.
+- [0xNazgul/Blockchain-Security-Audit-List](https://github.com/0xNazgul/Blockchain-Security-Audit-List) - A list of notable Blockchain Security audit companies and location of public audits.
 - [OffcierCia/Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) - Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
 - [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
 - [ignite/cli](https://github.com/ignite/cli) - Ignite CLI is the all-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain
@@ -294,6 +295,7 @@
 
 ## chatgpt 
 
+- [npiv/chatblade](https://github.com/npiv/chatblade) - A CLI Swiss Army Knife for ChatGPT
 - [sigoden/aichat](https://github.com/sigoden/aichat) - Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
 - [jankais3r/LLaMA_MPS](https://github.com/jankais3r/LLaMA_MPS) - Run LLaMA (and Stanford-Alpaca) inference on Apple Silicon GPUs.
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
@@ -307,10 +309,12 @@
 
 ## chrome-extension 
 
+- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
 - [kazuki-sf/YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) - YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
 
 ## cli 
 
+- [npiv/chatblade](https://github.com/npiv/chatblade) - A CLI Swiss Army Knife for ChatGPT
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression for your terminal
 - [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -978,7 +982,6 @@
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - A ChatGPT clone for running locally in your browser.
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
-- [npiv/chatblade](https://github.com/npiv/chatblade) - A CLI Swiss Army Knife for ChatGPT
 - [drawcall/Proton](https://github.com/drawcall/Proton) - Javascript particle animation library
 - [pointnetwork/point-alpaca](https://github.com/pointnetwork/point-alpaca) - 
 - [cryptostaker2/blockchain-security-audits](https://github.com/cryptostaker2/blockchain-security-audits) - A collection of my security audits
@@ -1225,6 +1228,7 @@
 
 ## python 
 
+- [plasma-umass/ChatDBG](https://github.com/plasma-umass/ChatDBG) - ChatDBG - AI-assisted debugging. Uses AI to answer 'why'
 - [RyanSaxe/mtg](https://github.com/RyanSaxe/mtg) - State of the Art Magic: the Gathering Draft and DeckBuilder AI.
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
@@ -1381,7 +1385,7 @@
 - [tamjid0x01/SmartContracts-audit-checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist) - A checklist of things to look for when auditing Solidity smart contracts.
 - [harendra-shakya/smart-contract-attack-vectors](https://github.com/harendra-shakya/smart-contract-attack-vectors) - A curated list of smart contract attack vectors
 - [pcaversaccio/reentrancy-attacks](https://github.com/pcaversaccio/reentrancy-attacks) - A chronological and (hopefully) complete list of reentrancy attacks to date.
-- [0xNazgul/Blockchain-Security-Audit-List](https://github.com/0xNazgul/Blockchain-Security-Audit-List) - A list of notable Blockchain Security audit companies.
+- [0xNazgul/Blockchain-Security-Audit-List](https://github.com/0xNazgul/Blockchain-Security-Audit-List) - A list of notable Blockchain Security audit companies and location of public audits.
 - [OffcierCia/Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) - Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
 - [ConsenSys/mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
@@ -1480,6 +1484,10 @@
 - [Ackee-Blockchain/woke](https://github.com/Ackee-Blockchain/woke) - Woke is a Python-based development and testing framework for Solidity.
 - [taiki-e/cargo-hack](https://github.com/taiki-e/cargo-hack) - Cargo subcommand to provide various options useful for testing and continuous integration.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
+## twitter 
+
+- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
 
 ## typescript 
 
