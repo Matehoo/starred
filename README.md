@@ -258,6 +258,8 @@
 
 ## Others 
 
+- [frankiefab100/Blockchain-Development-Resources](https://github.com/frankiefab100/Blockchain-Development-Resources) - The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol.
+- [kodadot/loligo](https://github.com/kodadot/loligo) - Common good repository for Squid indexers in KodaDot
 - [radi-cho/awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - A curated list of prompts, tools, and resources regarding the GPT-4 language model.
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [cryptostaker2/blockchain-security-audits](https://github.com/cryptostaker2/blockchain-security-audits) - A collection of my security audits
@@ -311,6 +313,7 @@
 
 ## Python 
 
+- [kodadot/bao](https://github.com/kodadot/bao) - Repository with random hacks we wrote
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
 - [plasma-umass/ChatDBG](https://github.com/plasma-umass/ChatDBG) - ChatDBG - AI-assisted debugging. Uses AI to answer 'why'
@@ -391,6 +394,7 @@
 
 ## Rust 
 
+- [kodadot/workers](https://github.com/kodadot/workers) - Implementation of Cloudflare Workers
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz) - Release rust packages without using the command line.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
@@ -545,6 +549,8 @@
 
 ## TypeScript 
 
+- [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
+- [kodadot/rubick](https://github.com/kodadot/rubick) - Implementation SubSquid indexer for Kusama NFTs
 - [infi-pc/locatorjs](https://github.com/infi-pc/locatorjs) - 
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
