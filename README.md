@@ -19,6 +19,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Just](#just)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Metal](#metal)
@@ -100,6 +101,7 @@
 
 ## Elixir 
 
+- [DockYard-Academy/curriculum](https://github.com/DockYard-Academy/curriculum) - 
 - [dashbitco/nimble_publisher](https://github.com/dashbitco/nimble_publisher) - A minimal filesystem-based publishing engine with Markdown support and code highlighting
 - [fly-apps/live_beats](https://github.com/fly-apps/live_beats) - 
 - [TheAlgorithms/Elixir](https://github.com/TheAlgorithms/Elixir) - 
@@ -174,7 +176,7 @@
 
 ## Haskell 
 
-- [ethereum/hevm](https://github.com/ethereum/hevm) - symbolic EVM evaluator. https://hevm.dev
+- [ethereum/hevm](https://github.com/ethereum/hevm) - symbolic EVM evaluator
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 
 ## Java 
@@ -238,6 +240,10 @@
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [CADLabs/ethereum-economic-model](https://github.com/CADLabs/ethereum-economic-model) - A modular dynamical-systems model of Ethereum's validator economics
+
+## Just 
+
+- [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
 
 ## Kotlin 
 
@@ -562,6 +568,7 @@
 
 ## TypeScript 
 
+- [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) - Automate your browser with GPT-4
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
