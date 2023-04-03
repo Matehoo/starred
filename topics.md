@@ -126,6 +126,7 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
+- [software](#software)
 - [solidity](#solidity)
 - [sql](#sql)
 - [sql-server](#sql-server)
@@ -686,6 +687,7 @@
 
 ## hacktoberfest 
 
+- [world-class/REPL](https://github.com/world-class/REPL) - The Learning Hub for UoL's Online CS Students
 - [DockYard-Academy/curriculum](https://github.com/DockYard-Academy/curriculum) - 
 - [kodadot/rubick](https://github.com/kodadot/rubick) - Implementation SubSquid indexer for Kusama NFTs
 - [kodadot/workers](https://github.com/kodadot/workers) - Implementation of Cloudflare Workers
@@ -1458,6 +1460,10 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+
+## software 
+
+- [world-class/REPL](https://github.com/world-class/REPL) - The Learning Hub for UoL's Online CS Students
 
 ## solidity 
 
