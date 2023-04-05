@@ -269,6 +269,8 @@
 
 ## Others 
 
+- [mullvad/mullvad-browser](https://github.com/mullvad/mullvad-browser) - Privacy-focused browser for Linux, macOS and Windows. Made in collaboration between @torproject and @mullvad
+- [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development.
 - [cosmos/ibc-apps](https://github.com/cosmos/ibc-apps) - IBC applications and middleware for Cosmos SDK chains.
 - [frankiefab100/Blockchain-Development-Resources](https://github.com/frankiefab100/Blockchain-Development-Resources) - The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol.
 - [kodadot/loligo](https://github.com/kodadot/loligo) - Common good repository for Squid indexers in KodaDot
@@ -576,6 +578,7 @@
 
 ## TypeScript 
 
+- [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) - Automate your browser with GPT-4
