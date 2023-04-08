@@ -25,6 +25,7 @@
 - [bot](#bot)
 - [c](#c)
 - [chatgpt](#chatgpt)
+- [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -48,6 +49,7 @@
 - [discord](#discord)
 - [docker](#docker)
 - [documentation](#documentation)
+- [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
 - [emoji](#emoji)
@@ -324,6 +326,10 @@
 - [kazuki-sf/YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) - YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
+## chatgpt-api 
+
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+
 ## chrome 
 
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -506,6 +512,15 @@
 
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [Doctave/doctave](https://github.com/Doctave/doctave) - A batteries-included developer documentation site generator
+
+## education 
+
+- [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
+- [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course
+- [shanzson/Zero-Knowledge-Proofs-Learning-Resources](https://github.com/shanzson/Zero-Knowledge-Proofs-Learning-Resources) - This repository contains Zk learning resources
+- [TheAlgorithms/Solidity](https://github.com/TheAlgorithms/Solidity) - Algorithms and data structures implemented in Solidity
+- [zxq9/erlmud](https://github.com/zxq9/erlmud) - Evolutionary demonstration of Erlang/OTP development.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 
 ## electron 
 
@@ -1245,7 +1260,6 @@
 - [0xProject/protocol](https://github.com/0xProject/protocol) - 
 - [dydxprotocol/perpetual](https://github.com/dydxprotocol/perpetual) - Ethereum Smart Contracts and TypeScript library used for the dYdX Perpetual Contracts
 - [dydxprotocol/liquidator](https://github.com/dydxprotocol/liquidator) - DEPRECATED [:robot::moneybag: Bot to automatically liquidate dYdX accounts]
-- [zxq9/erlmud](https://github.com/zxq9/erlmud) - Evolutionary demonstration of Erlang/OTP development.
 - [eranyanay/1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
 - [scylladb/seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
 - [RedisLabs/redisraft](https://github.com/RedisLabs/redisraft) - A Redis Module that make it possible to create a consistent Raft cluster from multiple Redis instances.
