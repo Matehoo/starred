@@ -665,7 +665,7 @@
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
 - [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
