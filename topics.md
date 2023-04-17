@@ -321,6 +321,7 @@
 
 ## chatgpt 
 
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [npiv/chatblade](https://github.com/npiv/chatblade) - A CLI Swiss Army Knife for ChatGPT
@@ -475,6 +476,7 @@
 
 ## deep-learning 
 
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [RyanSaxe/mtg](https://github.com/RyanSaxe/mtg) - State of the Art Magic: the Gathering Draft and DeckBuilder AI.
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
@@ -744,7 +746,7 @@
 ## hacktoberfest 
 
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [kodadot/nft-gallery](https://github.com/kodadot/nft-gallery) - One Stop Shop for your Polkadot NFTs
+- [kodadot/nft-gallery](https://github.com/kodadot/nft-gallery) - One Stop Shop for Polkadot NFTs
 - [world-class/REPL](https://github.com/world-class/REPL) - The Learning Hub for UoL's Online CS Students
 - [DockYard-Academy/curriculum](https://github.com/DockYard-Academy/curriculum) - 
 - [kodadot/rubick](https://github.com/kodadot/rubick) - Implementation SubSquid indexer for Kusama NFTs
@@ -1086,6 +1088,9 @@
 
 ## others 
 
+- [karpathy/randomfun](https://github.com/karpathy/randomfun) - Notebooks and various random fun
+- [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
+- [ChainAccelOrg/foundry-devops](https://github.com/ChainAccelOrg/foundry-devops) - 
 - [max-taylor/Chisel-GPT](https://github.com/max-taylor/Chisel-GPT) - AI-Boosted Solidity REPL
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [zigtur/Rareskills-Solidity-Bootcamp](https://github.com/zigtur/Rareskills-Solidity-Bootcamp) - This repository contains my Rareskills Solidity Bootcamp work.
