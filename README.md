@@ -240,6 +240,7 @@
 
 ## Jupyter Notebook 
 
+- [karpathy/randomfun](https://github.com/karpathy/randomfun) - Notebooks and various random fun
 - [paradigmxyz/paradigm-data-portal](https://github.com/paradigmxyz/paradigm-data-portal) - a collection of open source crypto datasets for researchers and tool builders
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
@@ -335,6 +336,8 @@
 
 ## Python 
 
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
+- [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
 - [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -529,6 +532,7 @@
 
 ## Solidity 
 
+- [ChainAccelOrg/foundry-devops](https://github.com/ChainAccelOrg/foundry-devops) - 
 - [zigtur/Rareskills-Solidity-Bootcamp](https://github.com/zigtur/Rareskills-Solidity-Bootcamp) - This repository contains my Rareskills Solidity Bootcamp work.
 - [emo-eth/solarray](https://github.com/emo-eth/solarray) - A blazing-fast helper library for convenient Solidity dynamic arrays
 - [0xfoobar/bitsignal](https://github.com/0xfoobar/bitsignal) - 
@@ -713,7 +717,7 @@
 
 ## Vue 
 
-- [kodadot/nft-gallery](https://github.com/kodadot/nft-gallery) - One Stop Shop for your Polkadot NFTs
+- [kodadot/nft-gallery](https://github.com/kodadot/nft-gallery) - One Stop Shop for Polkadot NFTs
 - [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight library of UI components without CSS framework dependency
 - [jordihales/hypercolor](https://github.com/jordihales/hypercolor) - A curated collection of beautiful premade gradients using default colors from the Tailwind palette as well as a selection of custom color gradients.
 - [vue-polkadot/apps](https://github.com/vue-polkadot/apps) - wallet & governance dashboard for Polkadot & substrate-based networks in VueJS
