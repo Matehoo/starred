@@ -247,6 +247,7 @@
 
 ## awesome-list 
 
+- [auditless/awesome-cairo](https://github.com/auditless/awesome-cairo) - Resources for Cairo 1.0 development.
 - [OffcierCia/non-typical-OSINT-guide](https://github.com/OffcierCia/non-typical-OSINT-guide) - The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome!
 - [frankiefab100/Blockchain-Development-Resources](https://github.com/frankiefab100/Blockchain-Development-Resources) - The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol.
 - [radi-cho/awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - A curated list of prompts, tools, and resources regarding the GPT-4 language model.
@@ -1090,6 +1091,8 @@
 
 ## others 
 
+- [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
+- [RareSkills/solidity-riddles](https://github.com/RareSkills/solidity-riddles) - A collection of Solidity security exercises and puzzles to test your knowledge of Solidity's more esoteric features.
 - [JSeam2/PPSwap-Contracts](https://github.com/JSeam2/PPSwap-Contracts) - Privacy Preserving Swaps
 - [karpathy/randomfun](https://github.com/karpathy/randomfun) - Notebooks and various random fun
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
