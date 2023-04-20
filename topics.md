@@ -1091,6 +1091,7 @@
 
 ## others 
 
+- [houseofsecrets/SdPaint](https://github.com/houseofsecrets/SdPaint) - Stable Diffusion Painting
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 - [RareSkills/solidity-riddles](https://github.com/RareSkills/solidity-riddles) - A collection of Solidity security exercises and puzzles to test your knowledge of Solidity's more esoteric features.
 - [JSeam2/PPSwap-Contracts](https://github.com/JSeam2/PPSwap-Contracts) - Privacy Preserving Swaps
@@ -1109,7 +1110,6 @@
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [cosmos/ibc-apps](https://github.com/cosmos/ibc-apps) - IBC applications and middleware for Cosmos SDK chains.
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
-- [TaxyAI/browser-extension](https://github.com/TaxyAI/browser-extension) - Automate your browser with GPT-4
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
 - [transmissions11/flux](https://github.com/transmissions11/flux) - LLM Power Tool
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
