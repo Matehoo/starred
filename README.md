@@ -241,6 +241,7 @@
 
 ## Jupyter Notebook 
 
+- [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [karpathy/randomfun](https://github.com/karpathy/randomfun) - Notebooks and various random fun
 - [paradigmxyz/paradigm-data-portal](https://github.com/paradigmxyz/paradigm-data-portal) - a collection of open source crypto datasets for researchers and tool builders
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
@@ -337,6 +338,7 @@
 
 ## Python 
 
+- [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - 
 - [sigp/public-audits](https://github.com/sigp/public-audits) - Collection of public security reviews
 - [houseofsecrets/SdPaint](https://github.com/houseofsecrets/SdPaint) - Stable Diffusion Painting
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
@@ -430,12 +432,14 @@
 
 ## Rust 
 
+- [paritytech/ink](https://github.com/paritytech/ink) - Parity's ink! to write smart contracts.
 - [iFrostizz/solhunt](https://github.com/iFrostizz/solhunt) - Hunt for common bad practices in Solidity smart contracts !
 - [tui-rs-revival/ratatui](https://github.com/tui-rs-revival/ratatui) - tui-rs revival project
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [max-taylor/Chisel-GPT](https://github.com/max-taylor/Chisel-GPT) - AI-Boosted Solidity REPL
 - [osmosis-labs/beaker](https://github.com/osmosis-labs/beaker) - Beaker helps streamlining CosmWasm development workflow.
 - [galacticcouncil/HydraDX-node](https://github.com/galacticcouncil/HydraDX-node) - HydraDX node - cross-chain liquidity protocol built on Substrate
+- [kodadot/workers](https://github.com/kodadot/workers) - Implementation of Cloudflare Workers
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz) - Release Rust packages without using the command line.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
@@ -614,7 +618,6 @@
 - [transmissions11/flux](https://github.com/transmissions11/flux) - LLM Power Tool
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [kodadot/rubick](https://github.com/kodadot/rubick) - Implementation SubSquid indexer for Kusama NFTs
-- [kodadot/workers](https://github.com/kodadot/workers) - Implementation of Cloudflare Workers
 - [infi-pc/locatorjs](https://github.com/infi-pc/locatorjs) - 
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
