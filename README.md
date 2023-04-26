@@ -243,6 +243,7 @@
 ## Jupyter Notebook 
 
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
+- [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - 
 - [karpathy/randomfun](https://github.com/karpathy/randomfun) - Notebooks and various random fun
 - [paradigmxyz/paradigm-data-portal](https://github.com/paradigmxyz/paradigm-data-portal) - a collection of open source crypto datasets for researchers and tool builders
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
@@ -339,8 +340,9 @@
 
 ## Python 
 
+- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...
 - [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!
-- [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - 
 - [sigp/public-audits](https://github.com/sigp/public-audits) - Collection of public security reviews
 - [houseofsecrets/SdPaint](https://github.com/houseofsecrets/SdPaint) - Stable Diffusion Painting
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
@@ -607,6 +609,8 @@
 
 ## TypeScript 
 
+- [whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt) - AI tool to build charts based on text input
+- [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for connecting custom data to large language models
 - [open-source-labs/ReacType](https://github.com/open-source-labs/ReacType) - 🧪 Prototyping Tool for exporting React/Typescript Applications!
 - [amannn/next-intl](https://github.com/amannn/next-intl) - Internationalization (i18n) for Next.js that gets out of your way. 🌐
 - [open-source-labs/obsidian](https://github.com/open-source-labs/obsidian) - GraphQL, built for Deno - a native GraphQL caching client and server module
@@ -624,7 +628,7 @@
 - [transmissions11/flux](https://github.com/transmissions11/flux) - LLM Power Tool
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [kodadot/rubick](https://github.com/kodadot/rubick) - Implementation SubSquid indexer for Kusama NFTs
-- [kodadot/workers](https://github.com/kodadot/workers) - Implementation of Cloudflare Workers
+- [kodadot/workers](https://github.com/kodadot/workers) - Implementation of Cloudflare Workers in KodaDot
 - [infi-pc/locatorjs](https://github.com/infi-pc/locatorjs) - 
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
