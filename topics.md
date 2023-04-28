@@ -224,7 +224,7 @@
 - [sonos/tract](https://github.com/sonos/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 
 ## automation 
 
@@ -309,7 +309,7 @@
 - [polkadot-js/apps](https://github.com/polkadot-js/apps) - Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains.
 - [substrate-developer-hub/awesome-substrate](https://github.com/substrate-developer-hub/awesome-substrate) - A curated list of awesome projects and resources related to the Substrate blockchain development framework.
 - [paritytech/substrate](https://github.com/paritytech/substrate) - Substrate: The platform for blockchain innovators
-- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
+- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [manojpramesh/solidity-cheatsheet](https://github.com/manojpramesh/solidity-cheatsheet) - Cheat sheet and best practices for solidity. Write smart contracts for Ethereum.
 - [OpenZeppelin/awesome-openzeppelin](https://github.com/OpenZeppelin/awesome-openzeppelin) - Blockchain educational resources curated by the OpenZeppelin team
@@ -327,7 +327,7 @@
 
 ## chatgpt 
 
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...)
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for connecting custom data to large language models
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
@@ -344,7 +344,7 @@
 
 ## chatgpt-api 
 
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## chrome 
@@ -395,7 +395,7 @@
 - [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
 - [OffcierCia/Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) - Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
 - [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [substrate-developer-hub/awesome-substrate](https://github.com/substrate-developer-hub/awesome-substrate) - A curated list of awesome projects and resources related to the Substrate blockchain development framework.
 - [Haehnchen/crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition)
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
@@ -595,6 +595,7 @@
 
 ## ethereum 
 
+- [pessimistic-io/slitherin](https://github.com/pessimistic-io/slitherin) - Slither Detectors by Pessimistic.io
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [frankiefab100/Blockchain-Development-Resources](https://github.com/frankiefab100/Blockchain-Development-Resources) - The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol.
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
@@ -623,7 +624,7 @@
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [CADLabs/ethereum-economic-model](https://github.com/CADLabs/ethereum-economic-model) - A modular dynamical-systems model of Ethereum's validator economics
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
-- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
+- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [manojpramesh/solidity-cheatsheet](https://github.com/manojpramesh/solidity-cheatsheet) - Cheat sheet and best practices for solidity. Write smart contracts for Ethereum.
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
@@ -637,7 +638,7 @@
 
 ## finance 
 
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 130+ Indicators
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 
@@ -890,7 +891,7 @@
 - [Haehnchen/crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition)
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript
-- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
+- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [single-spa/single-spa](https://github.com/single-spa/single-spa) - The router for easy microfrontends
@@ -979,7 +980,7 @@
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 
 ## macos 
 
@@ -1386,7 +1387,7 @@
 
 ## python 
 
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...)
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
 - [plasma-umass/ChatDBG](https://github.com/plasma-umass/ChatDBG) - ChatDBG - AI-assisted debugging. Uses AI to answer 'why'
@@ -1399,7 +1400,7 @@
 - [OpenGenus/vidsum](https://github.com/OpenGenus/vidsum) - Generate summary of any video :tv: anywhere and anytime
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [CADLabs/ethereum-economic-model](https://github.com/CADLabs/ethereum-economic-model) - A modular dynamical-systems model of Ethereum's validator economics
 - [CADLabs/radCAD](https://github.com/CADLabs/radCAD) - A framework for generalised dynamical systems modelling & simulation (inspired by and compatible with cadCAD.org)
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -1482,7 +1483,7 @@
 
 ## reverse-engineering 
 
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...)
 
 ## ruby 
 
@@ -1597,6 +1598,7 @@
 
 ## solidity 
 
+- [pessimistic-io/slitherin](https://github.com/pessimistic-io/slitherin) - Slither Detectors by Pessimistic.io
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [frankiefab100/Blockchain-Development-Resources](https://github.com/frankiefab100/Blockchain-Development-Resources) - The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol.
 - [exp-table/hyena](https://github.com/exp-table/hyena) - Pack data tightly together and save space.
@@ -1616,7 +1618,7 @@
 - [raineorshine/solgraph](https://github.com/raineorshine/solgraph) - Visualize Solidity control flow for smart contract security analysis.  :dollar: ⇆ :dollar:
 - [wslyvh/nexth](https://github.com/wslyvh/nexth) - A Next.js + Ethereum starter kit to quickly ship Web3 Apps ⚡
 - [0xcacti/awesome-oracle-manipulation](https://github.com/0xcacti/awesome-oracle-manipulation) - Awesome list of all things oracle manipulation. Creating to help spread a better understanding of oracles and oracle manipulation.
-- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
+- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - A tool for developing smart contracts. Crafted with the finest cacaos.
 - [manojpramesh/solidity-cheatsheet](https://github.com/manojpramesh/solidity-cheatsheet) - Cheat sheet and best practices for solidity. Write smart contracts for Ethereum.
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
@@ -1723,7 +1725,7 @@
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [vuesion/vuesion](https://github.com/vuesion/vuesion) - Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.
-- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. Get Solidity stack traces & console.log.
+- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [graphile/postgraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
