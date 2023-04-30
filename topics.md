@@ -354,7 +354,7 @@
 ## chrome-extension 
 
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
-- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
+- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A web extension that redirects popular sites to alternative frontends and backends
 - [kazuki-sf/YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) - YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
 
 ## cli 
@@ -1684,7 +1684,7 @@
 
 ## twitter 
 
-- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
+- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A web extension that redirects popular sites to alternative frontends and backends
 
 ## typescript 
 
