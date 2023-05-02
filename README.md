@@ -243,6 +243,7 @@
 
 ## Jupyter Notebook 
 
+- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - 
 - [karpathy/randomfun](https://github.com/karpathy/randomfun) - Notebooks and various random fun
@@ -280,6 +281,7 @@
 
 ## Others 
 
+- [YAcademy-Residents/defi-fork-bugs](https://github.com/YAcademy-Residents/defi-fork-bugs) - Bugs in commonly forked DeFi protocols
 - [auditless/awesome-cairo](https://github.com/auditless/awesome-cairo) - Resources for Cairo 1.0 development.
 - [OffcierCia/non-typical-OSINT-guide](https://github.com/OffcierCia/non-typical-OSINT-guide) - The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome!
 - [mullvad/mullvad-browser](https://github.com/mullvad/mullvad-browser) - Privacy-focused browser for Linux, macOS and Windows. Made in collaboration between @torproject and @mullvad
@@ -340,8 +342,8 @@
 
 ## Python 
 
+- [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [pessimistic-io/slitherin](https://github.com/pessimistic-io/slitherin) - Slither Detectors by Pessimistic.io
-- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!
 - [sigp/public-audits](https://github.com/sigp/public-audits) - Collection of public security reviews
