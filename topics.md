@@ -1112,6 +1112,9 @@
 
 ## others 
 
+- [microsoft/BioGPT](https://github.com/microsoft/BioGPT) - 
+- [hzysvilla/Academic_Smart_Contract_Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers) - Academic Smart Contract Papers, Welcome to add this list.
+- [paradigmxyz/artemis](https://github.com/paradigmxyz/artemis) - A simple, modular, and fast framework for writing MEV bots in Rust.
 - [YAcademy-Residents/defi-fork-bugs](https://github.com/YAcademy-Residents/defi-fork-bugs) - Bugs in commonly forked DeFi protocols
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt) - AI tool to build charts based on text input
