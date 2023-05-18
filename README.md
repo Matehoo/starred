@@ -170,6 +170,7 @@
 
 ## HTML 
 
+- [open-source-labs/ReacType](https://github.com/open-source-labs/ReacType) - 🧪 Prototyping Tool for exporting React/Typescript Applications!
 - [danielkummer/git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet) - A cheatsheet on the usage of git flow
 - [ephtracy/ephtracy.github.io](https://github.com/ephtracy/ephtracy.github.io) - 
 - [sailboatui/sailboatui](https://github.com/sailboatui/sailboatui) - Sailboat UI is a modern UI component library for Tailwind CSS
@@ -575,7 +576,7 @@
 
 - [RareSkills/solidity-riddles](https://github.com/RareSkills/solidity-riddles) - A collection of Solidity security exercises and puzzles to test your knowledge of Solidity's more esoteric features. Some are easy, and some are exceptionally challenging.
 - [JSeam2/PPSwap-Contracts](https://github.com/JSeam2/PPSwap-Contracts) - Privacy Preserving Swaps
-- [ChainAccelOrg/foundry-devops](https://github.com/ChainAccelOrg/foundry-devops) - 
+- [Cyfrin/foundry-devops](https://github.com/Cyfrin/foundry-devops) - 
 - [zigtur/Rareskills-Solidity-Bootcamp](https://github.com/zigtur/Rareskills-Solidity-Bootcamp) - This repository contains my Rareskills Solidity Bootcamp work.
 - [emo-eth/solarray](https://github.com/emo-eth/solarray) - A blazing-fast helper library for convenient Solidity dynamic arrays
 - [0xfoobar/bitsignal](https://github.com/0xfoobar/bitsignal) - 
@@ -642,7 +643,6 @@
 - [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for faster reading on ANY website!
 - [whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt) - AI tool to build charts based on text input
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
-- [open-source-labs/ReacType](https://github.com/open-source-labs/ReacType) - 🧪 Prototyping Tool for exporting React/Typescript Applications!
 - [amannn/next-intl](https://github.com/amannn/next-intl) - Internationalization (i18n) for Next.js that gets out of your way. 🌐
 - [open-source-labs/obsidian](https://github.com/open-source-labs/obsidian) - GraphQL, built for Deno - a native GraphQL caching client and server module
 - [partykit/partykit](https://github.com/partykit/partykit) - Everything's better with friends.
