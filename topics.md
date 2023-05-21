@@ -173,6 +173,7 @@
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [sigoden/aichat](https://github.com/sigoden/aichat) - Using ChatGPT/GPT-3.5/GPT-4 in the terminal.
+- [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -1205,7 +1206,6 @@
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [0xfoobar/bitsignal](https://github.com/0xfoobar/bitsignal) - 
 - [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs) - An implementation of the diffusers api in Rust
-- [rustformers/llm](https://github.com/rustformers/llm) - Run inference for Large Language Models on CPU, with Rust 🦀🚀🦙
 - [immunefi-team/forge-poc-templates](https://github.com/immunefi-team/forge-poc-templates) - 
 - [nascentxyz/pyrometer](https://github.com/nascentxyz/pyrometer) - A tool for analyzing the security and parameters of a solidity smart contract
 - [trailofbits/on-edge](https://github.com/trailofbits/on-edge) - A library for detecting certain improper uses of the "Defer, Panic, and Recover" pattern in Go programs
@@ -1590,6 +1590,7 @@
 - [kodadot/workers](https://github.com/kodadot/workers) - Implementation of Cloudflare Workers in KodaDot
 - [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz) - Release Rust packages without using the command line.
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression for your terminal
+- [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
 - [sigp/superstruct](https://github.com/sigp/superstruct) - Rust library for versioned data types
 - [fereidani/kanal](https://github.com/fereidani/kanal) - The fast sync and async channel that Rust deserves
 - [64bit/async-openai](https://github.com/64bit/async-openai) - Async Rust library for OpenAI
