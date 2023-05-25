@@ -134,6 +134,7 @@
 - [rust](#rust)
 - [sass](#sass)
 - [security](#security)
+- [self-hosted](#self-hosted)
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
@@ -625,6 +626,7 @@
 
 ## ethereum 
 
+- [0xJuancito/multichain-auditor](https://github.com/0xJuancito/multichain-auditor) - Observations and tips for auditing protocols on multiple chains 🧐
 - [OffcierCia/ultimate-defi-research-base](https://github.com/OffcierCia/ultimate-defi-research-base) - Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request.
 - [Quillhash/Solidity-Attack-Vectors](https://github.com/Quillhash/Solidity-Attack-Vectors) - This Repository contains list of Common Solidity SmartContract Attack Vectors. If you find any attack vectors missing, you can create a pull request and be a contributor of the project.
 - [allada/eth-archive-snapshot](https://github.com/allada/eth-archive-snapshot) - Free public Ethereum Archive Snapshot
@@ -640,7 +642,7 @@
 - [PaulRBerg/solplate](https://github.com/PaulRBerg/solplate) - Simple utility for generating boilerplate Solidity contracts
 - [hzhu/eth-balances](https://github.com/hzhu/eth-balances) - 🪙 A tiny library to get ERC-20 token balances on EVM blockchains using the Multicall smart contract ⟠
 - [turbo-eth/turbo-slides](https://github.com/turbo-eth/turbo-slides) - 📖 Slide Decks with Web3 Capabilities
-- [lambdaclass/starknet_in_rust](https://github.com/lambdaclass/starknet_in_rust) - A Rust implementation of StarkNet
+- [lambdaclass/starknet_in_rust](https://github.com/lambdaclass/starknet_in_rust) - A Rust implementation of Starknet execution logic
 - [tamjid0x01/SmartContracts-audit-checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist) - A checklist of things to look for when auditing Solidity smart contracts.
 - [4337Mafia/awesome-account-abstraction](https://github.com/4337Mafia/awesome-account-abstraction) - 📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)
 - [exp-table/pigeon](https://github.com/exp-table/pigeon) - Simulate cross-chain protocols txs, easily.
@@ -1150,6 +1152,7 @@
 
 ## others 
 
+- [lcfr-eth/FlashbotsBundlerUI](https://github.com/lcfr-eth/FlashbotsBundlerUI) - 
 - [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
 - [thor314/obsidian-setup](https://github.com/thor314/obsidian-setup) - A template repo, with instructions for getting started with Obsidian
 - [markqvist/NomadNet](https://github.com/markqvist/NomadNet) - Communicate Freely
@@ -1620,7 +1623,7 @@
 - [autometrics-dev/autometrics-rs](https://github.com/autometrics-dev/autometrics-rs) - Easily add metrics to your code that actually help you spot and debug issues in production. Built on Prometheus and OpenTelemetry.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
 - [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust) - 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
-- [lambdaclass/starknet_in_rust](https://github.com/lambdaclass/starknet_in_rust) - A Rust implementation of StarkNet
+- [lambdaclass/starknet_in_rust](https://github.com/lambdaclass/starknet_in_rust) - A Rust implementation of Starknet execution logic
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
 - [taiki-e/cargo-hack](https://github.com/taiki-e/cargo-hack) - Cargo subcommand to provide various options useful for testing and continuous integration.
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
@@ -1668,6 +1671,12 @@
 - [0xcacti/awesome-oracle-manipulation](https://github.com/0xcacti/awesome-oracle-manipulation) - Awesome list of all things oracle manipulation. Creating to help spread a better understanding of oracles and oracle manipulation.
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 
+## self-hosted 
+
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.
+- [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
+
 ## server 
 
 - [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
@@ -1697,6 +1706,7 @@
 
 ## solidity 
 
+- [0xJuancito/multichain-auditor](https://github.com/0xJuancito/multichain-auditor) - Observations and tips for auditing protocols on multiple chains 🧐
 - [Quillhash/Solidity-Attack-Vectors](https://github.com/Quillhash/Solidity-Attack-Vectors) - This Repository contains list of Common Solidity SmartContract Attack Vectors. If you find any attack vectors missing, you can create a pull request and be a contributor of the project.
 - [pessimistic-io/slitherin](https://github.com/pessimistic-io/slitherin) - Slither Detectors by Pessimistic.io
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
