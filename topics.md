@@ -318,6 +318,7 @@
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [hzhu/eth-balances](https://github.com/hzhu/eth-balances) - 🪙 A tiny library to get ERC-20 token balances on EVM blockchains using the Multicall smart contract ⟠
 - [cometbft/cometbft](https://github.com/cometbft/cometbft) - CometBFT (fork of Tendermint Core): A distributed, Byzantine fault-tolerant, deterministic state machine replication engine
+- [Sovereign-Labs/sovereign](https://github.com/Sovereign-Labs/sovereign) - A framework for building seamlessly scalable and interoperable rollups that can run on any blockchain
 - [4337Mafia/awesome-account-abstraction](https://github.com/4337Mafia/awesome-account-abstraction) - 📖 A curated list of resources dedicated to Account Abstraction (EIP-4337)
 - [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
 - [NethermindEth/sedge](https://github.com/NethermindEth/sedge) - A one-click setup tool for PoS network/chain validators and nodes.
