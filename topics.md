@@ -170,6 +170,7 @@
 
 ## ai 
 
+- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap)
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
 - [aress31/burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -261,6 +262,7 @@
 
 ## awesome-list 
 
+- [0xcacti/awesome-solidity-dev-tools](https://github.com/0xcacti/awesome-solidity-dev-tools) - Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here!
 - [OffcierCia/ultimate-defi-research-base](https://github.com/OffcierCia/ultimate-defi-research-base) - Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request.
 - [auditless/awesome-cairo](https://github.com/auditless/awesome-cairo) - Resources for Cairo 1.0 development.
 - [OffcierCia/non-typical-OSINT-guide](https://github.com/OffcierCia/non-typical-OSINT-guide) - The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome!
@@ -399,6 +401,7 @@
 
 ## compiler 
 
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
@@ -1095,6 +1098,8 @@
 
 ## nextjs 
 
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+- [dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - Embeds text files into vectors, stores them on Pinecone, and enables semantic search using GPT3 and Langchain in a Next.js UI
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
@@ -1115,6 +1120,7 @@
 
 ## node 
 
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
 - [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
@@ -1166,6 +1172,8 @@
 
 ## others 
 
+- [0xprinc/checks-while-hacks](https://github.com/0xprinc/checks-while-hacks) - 
+- [hoodie/awesome-rust-testing](https://github.com/hoodie/awesome-rust-testing) - 😎 Curated list of awesome things regarding Rust Testing
 - [polytope-labs/substrate-ismp](https://github.com/polytope-labs/substrate-ismp) - Substrate implementation of the Interoperable State Machine Protocol
 - [sinedie/SRTranslator](https://github.com/sinedie/SRTranslator) - SRT files translator
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -1533,6 +1541,7 @@
 
 ## react 
 
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [downshift-js/downshift](https://github.com/downshift-js/downshift) - 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.
 - [open-source-labs/ReacType](https://github.com/open-source-labs/ReacType) - 🧪 Prototyping Tool for exporting React/Typescript Applications!
@@ -1557,7 +1566,7 @@
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
-- [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of Server Component safe React Hooks – from the ui.dev team
+- [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [mac-s-g/react-json-view](https://github.com/mac-s-g/react-json-view) - JSON viewer for react
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
@@ -1726,6 +1735,7 @@
 
 ## solidity 
 
+- [0xcacti/awesome-solidity-dev-tools](https://github.com/0xcacti/awesome-solidity-dev-tools) - Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here!
 - [0xJuancito/multichain-auditor](https://github.com/0xJuancito/multichain-auditor) - Observations and tips for auditing protocols on multiple chains 🧐
 - [Quillhash/Solidity-Attack-Vectors](https://github.com/Quillhash/Solidity-Attack-Vectors) - This Repository contains list of Common Solidity SmartContract Attack Vectors. If you find any attack vectors missing, you can create a pull request and be a contributor of the project.
 - [pessimistic-io/slitherin](https://github.com/pessimistic-io/slitherin) - Slither Detectors by Pessimistic.io
