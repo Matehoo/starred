@@ -1181,6 +1181,7 @@
 
 ## others 
 
+- [Cyfrin/audit-report-templating](https://github.com/Cyfrin/audit-report-templating) - 
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [pxsocs/nakamoto_code](https://github.com/pxsocs/nakamoto_code) - Code Snippets Open Sourced from Nakamoto Portfolio
 - [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
