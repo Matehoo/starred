@@ -816,6 +816,7 @@
 
 ## hacktoberfest 
 
+- [oracle/truffleruby](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language, built on GraalVM.
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [braintree/pg_column_byte_packer](https://github.com/braintree/pg_column_byte_packer) - Auto-order table columns for optimize disk space usage
@@ -1114,6 +1115,8 @@
 
 ## nextjs 
 
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Experience Management Solution
+- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 - [documenso/documenso](https://github.com/documenso/documenso) - Document Signing as it should be - open and shaped by its community.
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
@@ -1177,6 +1180,7 @@
 
 ## open-source 
 
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Experience Management Solution
 - [documenso/documenso](https://github.com/documenso/documenso) - Document Signing as it should be - open and shaped by its community.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -1568,6 +1572,7 @@
 
 ## react 
 
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Experience Management Solution
 - [rtivital/omatsuri](https://github.com/rtivital/omatsuri) - PWA with 12 open source frontend focused tools
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
@@ -1615,6 +1620,7 @@
 
 ## reactjs 
 
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Experience Management Solution
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [open-source-labs/ReacType](https://github.com/open-source-labs/ReacType) - 🧪 Prototyping Tool for exporting React/Typescript Applications!
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
@@ -1637,6 +1643,7 @@
 
 ## ruby 
 
+- [oracle/truffleruby](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language, built on GraalVM.
 - [ElMassimo/types_from_serializers](https://github.com/ElMassimo/types_from_serializers) - ✅ Generate TypeScript interfaces from your JSON serializers
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [karafka/karafka-web](https://github.com/karafka/karafka-web) - Web UI for monitoring Karafka consumers' activity
@@ -1861,6 +1868,7 @@
 
 ## typescript 
 
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Experience Management Solution
 - [documenso/documenso](https://github.com/documenso/documenso) - Document Signing as it should be - open and shaped by its community.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code structrual search, lint and rewriting at large scale. Written in Rust
