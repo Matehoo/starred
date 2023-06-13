@@ -372,6 +372,7 @@
 
 ## Python 
 
+- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap)
@@ -486,6 +487,8 @@
 
 ## Rust 
 
+- [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
+- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
 - [plotchy/evm-cfg](https://github.com/plotchy/evm-cfg) - Symbolic stack CFG generator for EVM
 - [polytope-labs/substrate-ismp](https://github.com/polytope-labs/substrate-ismp) - Substrate implementation of the Interoperable State Machine Protocol
