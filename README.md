@@ -22,6 +22,7 @@
 - [Just](#just)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [Makefile](#makefile)
 - [Metal](#metal)
 - [Move](#move)
 - [Nim](#nim)
@@ -281,6 +282,10 @@
 
 - [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running) - CDN Up and Running - Building a CDN from Scratch to Learn about CDN
 - [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
+
+## Makefile 
+
+- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 
 ## Metal 
 
