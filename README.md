@@ -187,7 +187,7 @@
 - [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - A plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [go101/go101](https://github.com/go101/go101) - An up-to-date (unofficial) knowledge base for Go programming self learning
-- [h-enk/doks](https://github.com/h-enk/doks) - Build a custom, production-ready documentation website in no time.
+- [h-enk/doks](https://github.com/h-enk/doks) - Build beautiful, high-performance documentation websites with Doks
 
 ## Haskell 
 
@@ -413,7 +413,7 @@
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [pessimistic-io/slitherin](https://github.com/pessimistic-io/slitherin) - Slither Detectors by Pessimistic.io
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!
 - [sigp/public-audits](https://github.com/sigp/public-audits) - Collection of public security reviews
 - [houseofsecrets/SdPaint](https://github.com/houseofsecrets/SdPaint) - Stable Diffusion Painting
@@ -452,7 +452,7 @@
 - [Owez/yark](https://github.com/Owez/yark) - YouTube archiving made simple.
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run large language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
 - [ConsenSys/mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.
 - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
@@ -574,7 +574,7 @@
 - [lambdaclass/lambdaworks](https://github.com/lambdaclass/lambdaworks) - The library for kids who wanna learn how to do SNARKs and learn other cryptographic stuff too
 - [blunt-instruments/MevWallet](https://github.com/blunt-instruments/MevWallet) - MevWallet is a smart contract wallet that allows the user to capture MEV from Searchers, or create MEV on purpose.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
-- [Avarok-Cybersecurity/Citadel-Protocol](https://github.com/Avarok-Cybersecurity/Citadel-Protocol) - Post-quantum communications SDK
+- [Avarok-Cybersecurity/Citadel-Protocol](https://github.com/Avarok-Cybersecurity/Citadel-Protocol) - Post-quantum networking SDK
 - [taiki-e/cargo-hack](https://github.com/taiki-e/cargo-hack) - Cargo subcommand to provide various options useful for testing and continuous integration.
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
