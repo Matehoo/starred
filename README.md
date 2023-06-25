@@ -31,7 +31,6 @@
 - [Others](#others)
 - [Perl](#perl)
 - [Python](#python)
-- [ReScript](#rescript)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -290,6 +289,7 @@
 ## MDX 
 
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+- [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org) - Official documentation website for the ReScript programming language
 
 ## Makefile 
 
@@ -471,10 +471,6 @@
 - [binance/binance-public-data](https://github.com/binance/binance-public-data) - Details on how to get Binance public data
 - [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
 - [dokku/ansible-dokku](https://github.com/dokku/ansible-dokku) - Ansible modules for installing and configuring Dokku
-
-## ReScript 
-
-- [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org) - Official documentation website for the ReScript programming language
 
 ## Roff 
 
