@@ -433,6 +433,7 @@
 
 ## cryptocurrency 
 
+- [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Hummingbot is open source software that helps you build trading bots that run on any exchange or blockchain
 - [OffcierCia/ultimate-defi-research-base](https://github.com/OffcierCia/ultimate-defi-research-base) - Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request.
 - [paradigmxyz/paradigm-data-portal](https://github.com/paradigmxyz/paradigm-data-portal) - a collection of open source crypto datasets for researchers and tool builders
 - [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
@@ -616,6 +617,7 @@
 
 ## elixir 
 
+- [rrrene/credo](https://github.com/rrrene/credo) - A static code analysis tool for the Elixir language with a focus on code consistency and teaching.
 - [DockYard-Academy/curriculum](https://github.com/DockYard-Academy/curriculum) - 
 - [TheAlgorithms/Elixir](https://github.com/TheAlgorithms/Elixir) - 
 - [commanded/commanded](https://github.com/commanded/commanded) - Use Commanded to build Elixir CQRS/ES applications
@@ -1227,6 +1229,7 @@
 
 ## open-source 
 
+- [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Hummingbot is open source software that helps you build trading bots that run on any exchange or blockchain
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Surveys & Experience Management Solution
 - [documenso/documenso](https://github.com/documenso/documenso) - Document Signing as it should be - open and shaped by its community.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
@@ -1244,9 +1247,11 @@
 
 ## others 
 
+- [chinmay-farkya/solidity-notes](https://github.com/chinmay-farkya/solidity-notes) - 
+- [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system
 - [mycelial/mycelite](https://github.com/mycelial/mycelite) - Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.
-- [maaslalani/invoice](https://github.com/maaslalani/invoice) - Generate invoices from the command line
+- [maaslalani/invoice](https://github.com/maaslalani/invoice) - Command line invoice generator
 - [geohot/fromthetransistor](https://github.com/geohot/fromthetransistor) - From the Transistor to the Web Browser, a rough outline for a 12 week course
 - [tintinweb/smart-contract-vulndb](https://github.com/tintinweb/smart-contract-vulndb) - 🍋 An open dataset containing smart contract audit issues from various sources.
 - [eradman/pg-safeupdate](https://github.com/eradman/pg-safeupdate) - A simple extension to PostgreSQL that requires criteria for UPDATE and DELETE
@@ -1864,6 +1869,7 @@
 
 ## solidity 
 
+- [evmts/evmts-monorepo](https://github.com/evmts/evmts-monorepo) - Execute solidity scripts in the browser
 - [0xcacti/awesome-solidity-dev-tools](https://github.com/0xcacti/awesome-solidity-dev-tools) - Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here!
 - [0xJuancito/multichain-auditor](https://github.com/0xJuancito/multichain-auditor) - Observations and tips checklist for auditing protocols on multiple chains 🧐
 - [Quillhash/Solidity-Attack-Vectors](https://github.com/Quillhash/Solidity-Attack-Vectors) - This Repository contains list of Common Solidity SmartContract Attack Vectors. If you find any attack vectors missing, you can create a pull request and be a contributor of the project.
@@ -1940,6 +1946,7 @@
 
 ## terminal 
 
+- [slok/grafterm](https://github.com/slok/grafterm) - Metrics dashboards on terminal (a grafana inspired terminal version)
 - [tui-rs-revival/ratatui](https://github.com/tui-rs-revival/ratatui) - Ratatui is a Rust library to build rich terminal user interfaces (TUIs) and dashboards. It is a community fork of the original tui-rs created to maintain and improve the project.
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -1962,6 +1969,7 @@
 
 ## typescript 
 
+- [evmts/evmts-monorepo](https://github.com/evmts/evmts-monorepo) - Execute solidity scripts in the browser
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [thisismydesign/nestjs-starter](https://github.com/thisismydesign/nestjs-starter) - NestJS MVC boilerplate for rapid development with battle-tested standards.
