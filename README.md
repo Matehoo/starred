@@ -109,6 +109,7 @@
 
 ## Elixir 
 
+- [rrrene/credo](https://github.com/rrrene/credo) - A static code analysis tool for the Elixir language with a focus on code consistency and teaching.
 - [DockYard-Academy/curriculum](https://github.com/DockYard-Academy/curriculum) - 
 - [dashbitco/nimble_publisher](https://github.com/dashbitco/nimble_publisher) - A minimal filesystem-based publishing engine with Markdown support and code highlighting
 - [fly-apps/live_beats](https://github.com/fly-apps/live_beats) - 
@@ -133,7 +134,8 @@
 
 ## Go 
 
-- [maaslalani/invoice](https://github.com/maaslalani/invoice) - Generate invoices from the command line
+- [slok/grafterm](https://github.com/slok/grafterm) - Metrics dashboards on terminal (a grafana inspired terminal version)
+- [maaslalani/invoice](https://github.com/maaslalani/invoice) - Command line invoice generator
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [cosmos/ibc-apps](https://github.com/cosmos/ibc-apps) - IBC applications and middleware for Cosmos SDK chains.
@@ -316,6 +318,7 @@
 
 ## Others 
 
+- [chinmay-farkya/solidity-notes](https://github.com/chinmay-farkya/solidity-notes) - 
 - [geohot/fromthetransistor](https://github.com/geohot/fromthetransistor) - From the Transistor to the Web Browser, a rough outline for a 12 week course
 - [qosf/awesome-quantum-software](https://github.com/qosf/awesome-quantum-software) - Curated list of open-source quantum software projects.
 - [Cyfrin/foundry-full-course-f23](https://github.com/Cyfrin/foundry-full-course-f23) - 
@@ -396,6 +399,9 @@
 
 ## Python 
 
+- [0hq/tinyvector](https://github.com/0hq/tinyvector) - A tiny nearest-neighbor embedding database built with SQLite and Pytorch. (In development!)
+- [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
+- [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Hummingbot is open source software that helps you build trading bots that run on any exchange or blockchain
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for building simpler and faster AI-powered applications
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
@@ -511,6 +517,7 @@
 
 ## Rust 
 
+- [m1guelpf/tinyvector](https://github.com/m1guelpf/tinyvector) - A tiny embedding database in pure Rust.
 - [mycelial/mycelite](https://github.com/mycelial/mycelite) - Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.
 - [supabase/pg_jsonschema](https://github.com/supabase/pg_jsonschema) - PostgreSQL extension providing JSON Schema validation
 - [supabase/pg_graphql](https://github.com/supabase/pg_graphql) - GraphQL support for PostgreSQL
@@ -643,6 +650,7 @@
 
 ## Solidity 
 
+- [evmts/evmts-monorepo](https://github.com/evmts/evmts-monorepo) - Execute solidity scripts in the browser
 - [RareSkills/solidity-riddles](https://github.com/RareSkills/solidity-riddles) - A collection of Solidity security exercises and puzzles to test your knowledge of Solidity's more esoteric features. Some are easy, and some are exceptionally challenging.
 - [JSeam2/PPSwap-Contracts](https://github.com/JSeam2/PPSwap-Contracts) - Privacy Preserving Swaps
 - [Cyfrin/foundry-devops](https://github.com/Cyfrin/foundry-devops) - 
@@ -706,6 +714,9 @@
 
 ## TypeScript 
 
+- [santoshshinde2012/node-boilerplate](https://github.com/santoshshinde2012/node-boilerplate) - Node Typescript Boilerplate for Microservices. Skeleton for Node.js Apps written in TypeScript (with Setup Instructions for ESLint, Prettier, and Husky)
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
+- [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [TalismanSociety/talisman](https://github.com/TalismanSociety/talisman) - Unlock the Paraverse. The Talisman monorepo.
@@ -868,7 +879,7 @@
 
 ## Vue 
 
-- [kodadot/nft-gallery](https://github.com/kodadot/nft-gallery) - One Stop Shop for Polkadot NFTs
+- [kodadot/nft-gallery](https://github.com/kodadot/nft-gallery) - Polkadot NFT marketplace
 - [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight library of UI components without CSS framework dependency
 - [jordihales/hypercolor](https://github.com/jordihales/hypercolor) - A curated collection of beautiful premade gradients using default colors from the Tailwind palette as well as a selection of custom color gradients.
 - [vue-polkadot/apps](https://github.com/vue-polkadot/apps) - wallet & governance dashboard for Polkadot & substrate-based networks in VueJS
