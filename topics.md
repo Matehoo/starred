@@ -1904,7 +1904,7 @@
 ## solidity 
 
 - [dcbuild3r/blockchain-development-guide](https://github.com/dcbuild3r/blockchain-development-guide) - Devpill.me - A Public Good Blockchain Development Guide
-- [evmts/evmts-monorepo](https://github.com/evmts/evmts-monorepo) - Execute solidity scripts in the browser
+- [evmts/evmts-monorepo](https://github.com/evmts/evmts-monorepo) - Bundler and LSP for Solidity and TypeScript
 - [0xcacti/awesome-solidity-dev-tools](https://github.com/0xcacti/awesome-solidity-dev-tools) - Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here!
 - [0xJuancito/multichain-auditor](https://github.com/0xJuancito/multichain-auditor) - Observations and tips checklist for auditing protocols on multiple chains 🧐
 - [Quillhash/Solidity-Attack-Vectors](https://github.com/Quillhash/Solidity-Attack-Vectors) - This Repository contains list of Common Solidity SmartContract Attack Vectors. If you find any attack vectors missing, you can create a pull request and be a contributor of the project.
@@ -2006,7 +2006,7 @@
 
 - [santoshshinde2012/node-boilerplate](https://github.com/santoshshinde2012/node-boilerplate) - Node Typescript Boilerplate for Microservices. Skeleton for Node.js Apps written in TypeScript (with Setup Instructions for ESLint, Prettier, and Husky)
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
-- [evmts/evmts-monorepo](https://github.com/evmts/evmts-monorepo) - Execute solidity scripts in the browser
+- [evmts/evmts-monorepo](https://github.com/evmts/evmts-monorepo) - Bundler and LSP for Solidity and TypeScript
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [thisismydesign/nestjs-starter](https://github.com/thisismydesign/nestjs-starter) - NestJS MVC boilerplate for rapid development with battle-tested standards.
