@@ -1278,6 +1278,7 @@
 
 ## others 
 
+- [a16z-infra/companion-app](https://github.com/a16z-infra/companion-app) - AI companions with memory: a lightweight stack to create and host your own AI companions
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [sdan/vlite](https://github.com/sdan/vlite) - simple vector database made in numpy
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
