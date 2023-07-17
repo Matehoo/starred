@@ -1278,6 +1278,7 @@
 
 ## others 
 
+- [seattlerb/flog](https://github.com/seattlerb/flog) - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
 - [a16z-infra/companion-app](https://github.com/a16z-infra/companion-app) - AI companions with memory: a lightweight stack to create and host your own AI companions
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [sdan/vlite](https://github.com/sdan/vlite) - simple vector database made in numpy
