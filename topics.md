@@ -68,6 +68,7 @@
 - [game-development](#game-development)
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
+- [games](#games)
 - [git](#git)
 - [go](#go)
 - [godot](#godot)
@@ -206,7 +207,7 @@
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 
 ## angular 
 
@@ -474,7 +475,7 @@
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight library of UI components without CSS framework dependency
 - [sailboatui/sailboatui](https://github.com/sailboatui/sailboatui) - Sailboat UI is a modern UI component library for Tailwind CSS
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [7PH/powerglitch](https://github.com/7PH/powerglitch) - Tiny JS library to glitch anything on the web
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 - [Famolus/awesome-sass](https://github.com/Famolus/awesome-sass) - 🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.
@@ -779,6 +780,10 @@
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [love2d/love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 
+## games 
+
+- [partykit/partykit](https://github.com/partykit/partykit) - Everything's better with friends.
+
 ## git 
 
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
@@ -938,7 +943,7 @@
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [sailboatui/sailboatui](https://github.com/sailboatui/sailboatui) - Sailboat UI is a modern UI component library for Tailwind CSS
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 
 ## html5 
@@ -954,7 +959,7 @@
 
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 
 ## iot 
 
@@ -1193,7 +1198,7 @@
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 - [documenso/documenso](https://github.com/documenso/documenso) - Document Signing as it should be - open and shaped by its community.
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
-- [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt](https://github.com/dabit3/semantic-search-nextjs-pinecone-langchain-chatgpt) - Embeds text files into vectors, stores them on Pinecone, and enables semantic search using GPT3 and Langchain in a Next.js UI
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
@@ -1279,6 +1284,8 @@
 
 ## others 
 
+- [doyensec/wsrepl](https://github.com/doyensec/wsrepl) - WebSocket REPL for pentesters
+- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [seattlerb/flog](https://github.com/seattlerb/flog) - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
 - [a16z-infra/companion-app](https://github.com/a16z-infra/companion-app) - AI companions with memory: a lightweight stack to create and host your own AI companions
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
@@ -1344,7 +1351,6 @@
 - [whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt) - AI tool to build charts based on text input
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!
-- [partykit/partykit](https://github.com/partykit/partykit) - Everything's better with friends.
 - [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [sigp/public-audits](https://github.com/sigp/public-audits) - Collection of public security reviews
@@ -1454,7 +1460,7 @@
 - [Mokshit06/typewind](https://github.com/Mokshit06/typewind) - The safety of Typescript with the magic of Tailwind.
 - [openchainxyz/openchain-monorepo](https://github.com/openchainxyz/openchain-monorepo) - 
 - [mektigboy/evm-chad](https://github.com/mektigboy/evm-chad) - A curated list of the hottest and most fresh resources to become an EVM chad
-- [chugsplash/chugsplash-foundry](https://github.com/chugsplash/chugsplash-foundry) - A Foundry library for deploying and managing upgradeable smart contracts
+- [sphinx-labs/chugsplash-foundry](https://github.com/sphinx-labs/chugsplash-foundry) - A Foundry library for deploying and managing upgradeable smart contracts
 - [emilybache/GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) - Starting code for the GildedRose Refactoring Kata in many programming languages.
 - [circlefin/evm-cctp-contracts](https://github.com/circlefin/evm-cctp-contracts) - Official repository for all EVM-compatible smart contracts used by the Cross-Chain Transfer Protocol
 - [llamafolio/evm-indexer](https://github.com/llamafolio/evm-indexer) - EVM-compatible chain indexer.
@@ -1547,7 +1553,7 @@
 - [Callum-A/cosmwasm-zero-to-hero](https://github.com/Callum-A/cosmwasm-zero-to-hero) - 
 - [ryyppy/rescript-nextjs-template](https://github.com/ryyppy/rescript-nextjs-template) - Opinionated Boilerplate for NextJS, Tailwind and ReScript
 - [tienduy-nguyen/nestjs-graphql-prisma](https://github.com/tienduy-nguyen/nestjs-graphql-prisma) - Boilerplate backend NestJS GraphQL project using Prisma 2 & PostgreSQL
-- [squareboat/nestjs-boilerplate](https://github.com/squareboat/nestjs-boilerplate) - A production-ready  🏭 NestJS boilerplate with batteries 🔋 included. No Kidding! Now Supports NestJS V9!!
+- [squareboat/nestjs-boilerplate](https://github.com/squareboat/nestjs-boilerplate) - A production-ready  🏭 NestJS boilerplate with batteries 🔋 included. No Kidding! Now Supports NestJS V10!!
 - [rokket-labs/nestjs-template](https://github.com/rokket-labs/nestjs-template) - Nest.js template for backend projects
 - [verata-veritatis/pybit](https://github.com/verata-veritatis/pybit) - Python3 API connector for Bybit's HTTP and Websockets APIs.
 - [binance/binance-public-data](https://github.com/binance/binance-public-data) - Details on how to get Binance public data
@@ -1583,7 +1589,7 @@
 
 ## p2p 
 
-- [Avarok-Cybersecurity/Citadel-Protocol](https://github.com/Avarok-Cybersecurity/Citadel-Protocol) - Post-quantum networking SDK
+- [Avarok-Cybersecurity/Citadel-Protocol](https://github.com/Avarok-Cybersecurity/Citadel-Protocol) - Post-quantum endpoint encryption for messaging and file-sharing SDK
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 
 ## package-manager 
@@ -1700,7 +1706,7 @@
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Surveys & Experience Management Solution
 - [rtivital/omatsuri](https://github.com/rtivital/omatsuri) - PWA with 12 open source frontend focused tools
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
-- [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [downshift-js/downshift](https://github.com/downshift-js/downshift) - 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.
@@ -1716,7 +1722,7 @@
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [privacy-scaling-explorations/zkp-app-boilerplate](https://github.com/privacy-scaling-explorations/zkp-app-boilerplate) - Build your zkp app with typescript, hardhat, circom, and snarkjs!
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
@@ -1827,7 +1833,7 @@
 - [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust) - 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
 - [lambdaclass/starknet_in_rust](https://github.com/lambdaclass/starknet_in_rust) - A Rust implementation of Starknet execution logic
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
-- [Avarok-Cybersecurity/Citadel-Protocol](https://github.com/Avarok-Cybersecurity/Citadel-Protocol) - Post-quantum networking SDK
+- [Avarok-Cybersecurity/Citadel-Protocol](https://github.com/Avarok-Cybersecurity/Citadel-Protocol) - Post-quantum endpoint encryption for messaging and file-sharing SDK
 - [taiki-e/cargo-hack](https://github.com/taiki-e/cargo-hack) - Cargo subcommand to provide various options useful for testing and continuous integration.
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
@@ -1835,7 +1841,7 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
 - [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [tfpk/macrokata](https://github.com/tfpk/macrokata) - Learn Macros In Rust
 - [nomadiz/edma](https://github.com/nomadiz/edma) - EDMA is an interactive terminal app for managing multiple embedded databases system at once with powerful byte deserializer support.
@@ -2083,6 +2089,7 @@
 
 ## vue 
 
+- [vercel-labs/ai](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, and Vue
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
@@ -2104,7 +2111,7 @@
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
