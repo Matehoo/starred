@@ -535,7 +535,7 @@
 ## Rust 
 
 - [ferrumfix/ferrumfix](https://github.com/ferrumfix/ferrumfix) - Financial Information eXchange protocol implemented in Rust
-- [paradigmxyz/cryo](https://github.com/paradigmxyz/cryo) - cryo is the easiest way to extract blockchain data to parquet, csv, or json
+- [paradigmxyz/cryo](https://github.com/paradigmxyz/cryo) - cryo is the easiest way to extract blockchain data to parquet, csv, json, or python dataframes
 - [m1guelpf/tinyvector](https://github.com/m1guelpf/tinyvector) - A tiny embedding database in pure Rust.
 - [mycelial/mycelite](https://github.com/mycelial/mycelite) - Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another.
 - [supabase/pg_jsonschema](https://github.com/supabase/pg_jsonschema) - PostgreSQL extension providing JSON Schema validation
