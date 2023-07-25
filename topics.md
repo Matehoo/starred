@@ -1417,7 +1417,7 @@
 - [ethereum-optimism/optimism-starter](https://github.com/ethereum-optimism/optimism-starter) - A boilerplate for getting started with optimism
 - [ZhangZhuoSJTU/Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs) - Demystifying Exploitable Bugs in Smart Contracts
 - [oldmoe/litestack](https://github.com/oldmoe/litestack) - 
-- [emilwidlund/nodl](https://github.com/emilwidlund/nodl) - A framework for computational node graphs.
+- [newfrgmnt/nodl](https://github.com/newfrgmnt/nodl) - A framework for computational node graphs.
 - [leonardoalt/ethereum_formal_verification_overview](https://github.com/leonardoalt/ethereum_formal_verification_overview) - Overview of the formal verification projects in the Ethereum ecosystem.
 - [lambdaclass/lambdaclass_hacking_learning_path](https://github.com/lambdaclass/lambdaclass_hacking_learning_path) - LambdaClass Hobby Club, hacking learning path handbook. The journey starts here!
 - [danielkummer/git-flow-cheatsheet](https://github.com/danielkummer/git-flow-cheatsheet) - A cheatsheet on the usage of git flow
