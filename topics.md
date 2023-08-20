@@ -173,12 +173,12 @@
 
 ## ai 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your Second Brain powered by Generative AI 🧠 Dump all your files and chat with it  ( GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...) & Embeddings
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to databases.
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for building simpler and faster AI-powered applications
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap)
+- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
 - [aress31/burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -370,7 +370,7 @@
 
 ## chatgpt 
 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your Second Brain powered by Generative AI 🧠 Dump all your files and chat with it  ( GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...) & Embeddings
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for building simpler and faster AI-powered applications
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
