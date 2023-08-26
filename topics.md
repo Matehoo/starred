@@ -1304,6 +1304,7 @@
 
 ## others 
 
+- [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
 - [terraforming-mars/terraforming-mars](https://github.com/terraforming-mars/terraforming-mars) - Terraforming Mars Boardgame
 - [muaz-khan/WebRTC-Experiment](https://github.com/muaz-khan/WebRTC-Experiment) - WebRTC, WebRTC and WebRTC. Everything here is all about WebRTC!!
 - [haoheliu/AudioLDM2](https://github.com/haoheliu/AudioLDM2) - Text-to-Audio/Music Generation
