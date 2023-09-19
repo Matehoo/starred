@@ -347,7 +347,7 @@
 - [tendermint/tendermint](https://github.com/tendermint/tendermint) - ⟁ Tendermint Core (BFT Consensus) in Go
 - [NethermindEth/sedge](https://github.com/NethermindEth/sedge) - A one-click setup tool for PoS network/chain validators and nodes.
 - [AnshuJalan/ethML-core](https://github.com/AnshuJalan/ethML-core) - Contracts for EthML- a decentralized AI implementation
-- [0xNazgul/Blockchain-Security-Audit-List](https://github.com/0xNazgul/Blockchain-Security-Audit-List) - A list of Blockchain Security audit companies and location of public audits.
+- [0xNazgul/Blockchain-Security-Audit-List](https://github.com/0xNazgul/Blockchain-Security-Audit-List) - A list of Blockchain Security audit companies, solo auditors and location of public audits.
 - [OffcierCia/Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) - Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
 - [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
 - [ignite/cli](https://github.com/ignite/cli) - Ignite CLI is the all-in-one platform to build, launch, and maintain any crypto application on a sovereign and secured blockchain
@@ -1863,6 +1863,7 @@
 
 ## rust 
 
+- [sarah-ek/faer-rs](https://github.com/sarah-ek/faer-rs) - Linear algebra foundation for the Rust programming language
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - ⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.
 - [andrewmilson/ministark](https://github.com/andrewmilson/ministark) - 🏃‍♂️💨 GPU accelerated STARK prover built on @arkworks-rs
 - [paradigmxyz/cryo](https://github.com/paradigmxyz/cryo) - cryo is the easiest way to extract blockchain data to parquet, csv, json, or python dataframes
@@ -1947,7 +1948,7 @@
 - [tamjid0x01/SmartContracts-audit-checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist) - A checklist of things to look for when auditing Solidity smart contracts.
 - [harendra-shakya/smart-contract-attack-vectors](https://github.com/harendra-shakya/smart-contract-attack-vectors) - A curated list of smart contract attack vectors
 - [pcaversaccio/reentrancy-attacks](https://github.com/pcaversaccio/reentrancy-attacks) - A chronological and (hopefully) complete list of reentrancy attacks to date.
-- [0xNazgul/Blockchain-Security-Audit-List](https://github.com/0xNazgul/Blockchain-Security-Audit-List) - A list of Blockchain Security audit companies and location of public audits.
+- [0xNazgul/Blockchain-Security-Audit-List](https://github.com/0xNazgul/Blockchain-Security-Audit-List) - A list of Blockchain Security audit companies, solo auditors and location of public audits.
 - [OffcierCia/Crypto-OpSec-SelfGuard-RoadMap](https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap) - Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.
 - [Consensys/mythril](https://github.com/Consensys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.
 - [0xcacti/awesome-oracle-manipulation](https://github.com/0xcacti/awesome-oracle-manipulation) - Awesome list of all things oracle manipulation. Creating to help spread a better understanding of oracles and oracle manipulation.
