@@ -140,7 +140,7 @@
 
 ## Go 
 
-- [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure.
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTF lets you declaratively manage your cloud infrastructure.
 - [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
 - [slok/grafterm](https://github.com/slok/grafterm) - Metrics dashboards on terminal (a grafana inspired terminal version)
 - [maaslalani/invoice](https://github.com/maaslalani/invoice) - Command line invoice generator
@@ -184,7 +184,7 @@
 
 ## HTML 
 
-- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
+- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [supertestnet/superstore](https://github.com/supertestnet/superstore) - A simple bitcoin webstore with whisper addresses for enhanced privacy
 - [WADComs/WADComs.github.io](https://github.com/WADComs/WADComs.github.io) - WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.
@@ -200,7 +200,7 @@
 - [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - A plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [go101/go101](https://github.com/go101/go101) - An up-to-date (unofficial) knowledge base for Go programming self learning
-- [h-enk/doks](https://github.com/h-enk/doks) - Build beautiful, high-performance documentation websites with Doks
+- [h-enk/doks](https://github.com/h-enk/doks) - Everything you need to build an outstanding documentation website. Fast, accessible, and easy-to-use.
 
 ## Haskell 
 
@@ -237,6 +237,7 @@
 - [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.
 - [sigp/public-audits](https://github.com/sigp/public-audits) - Collection of public security reviews
 - [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and ca
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [metafizzy/zdog](https://github.com/metafizzy/zdog) - Flat, round, designer-friendly pseudo-3D engine for canvas & SVG
 - [hammerjs/hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
@@ -469,7 +470,6 @@
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
 - [project-baize/baize-chatbot](https://github.com/project-baize/baize-chatbot) - Let ChatGPT teach your own chatbot in hours with a single GPU!
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [kodadot/bao](https://github.com/kodadot/bao) - Repository with random hacks we wrote
