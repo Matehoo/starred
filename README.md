@@ -140,11 +140,12 @@
 
 ## Go 
 
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTF lets you declaratively manage your cloud infrastructure.
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
 - [slok/grafterm](https://github.com/slok/grafterm) - Metrics dashboards on terminal (a grafana inspired terminal version)
 - [maaslalani/invoice](https://github.com/maaslalani/invoice) - Command line invoice generator
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
 - [cosmos/ibc-apps](https://github.com/cosmos/ibc-apps) - IBC applications and middleware for Cosmos SDK chains.
 - [trailofbits/on-edge](https://github.com/trailofbits/on-edge) - A library for detecting certain improper uses of the "Defer, Panic, and Recover" pattern in Go programs
@@ -200,7 +201,7 @@
 - [tailwindlabs/tailwindcss-forms](https://github.com/tailwindlabs/tailwindcss-forms) - A plugin that provides a basic reset for form styles that makes form elements easy to override with utilities.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [go101/go101](https://github.com/go101/go101) - An up-to-date (unofficial) knowledge base for Go programming self learning
-- [h-enk/doks](https://github.com/h-enk/doks) - Everything you need to build an outstanding documentation website. Fast, accessible, and easy-to-use.
+- [h-enk/doks](https://github.com/h-enk/doks) - Build beautiful, accessible, high-performance documentation websites
 
 ## Haskell 
 
@@ -308,7 +309,6 @@
 
 ## MDX 
 
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [rescript-association/rescript-lang.org](https://github.com/rescript-association/rescript-lang.org) - Official documentation website for the ReScript programming language
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
