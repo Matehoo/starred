@@ -126,7 +126,7 @@
 - [witchcrafters/witchcraft](https://github.com/witchcrafters/witchcraft) - Monads and other dark magic for Elixir
 - [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.
 - [mirego/elixir-boilerplate](https://github.com/mirego/elixir-boilerplate) - ⚗ The stable base upon which we build our Elixir projects at Mirego.
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [angelikatyborska/mazes](https://github.com/angelikatyborska/mazes) - A maze generator made with PhoenixLiveView.
 - [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
 - [mojotech/torch](https://github.com/mojotech/torch) - A rapid admin generator for Elixir & Phoenix
