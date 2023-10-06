@@ -92,7 +92,6 @@
 - [robinpokorny/git3moji](https://github.com/robinpokorny/git3moji) - :zap::bug::tv::cop::abc: A simple three-letter (or less) emoji standard for expressive commit messages
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-- [aesmail/kaffy](https://github.com/aesmail/kaffy) - Powerfully simple admin package for phoenix applications
 
 ## Cairo 
 
@@ -130,6 +129,7 @@
 - [angelikatyborska/mazes](https://github.com/angelikatyborska/mazes) - A maze generator made with PhoenixLiveView.
 - [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
 - [mojotech/torch](https://github.com/mojotech/torch) - A rapid admin generator for Elixir & Phoenix
+- [aesmail/kaffy](https://github.com/aesmail/kaffy) - Powerfully simple admin package for phoenix applications
 - [ash-project/ash](https://github.com/ash-project/ash) - A declarative and extensible framework for building Elixir applications.
 - [astarte-platform/astarte](https://github.com/astarte-platform/astarte) - Core Astarte Repository
 - [nerves-project/nerves](https://github.com/nerves-project/nerves) - Craft and deploy bulletproof embedded software in Elixir
