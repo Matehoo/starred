@@ -899,6 +899,7 @@
 
 ## hacktoberfest 
 
+- [google/zerocopy](https://github.com/google/zerocopy) - 
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to datasources.
@@ -1893,6 +1894,8 @@
 
 ## rust 
 
+- [google/zerocopy](https://github.com/google/zerocopy) - 
+- [nvzqz/divan](https://github.com/nvzqz/divan) - Fast and simple benchmarking for Rust projects
 - [sarah-ek/faer-rs](https://github.com/sarah-ek/faer-rs) - Linear algebra foundation for the Rust programming language
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [andrewmilson/ministark](https://github.com/andrewmilson/ministark) - 🏃‍♂️💨 GPU accelerated STARK prover built on @arkworks-rs
