@@ -20,7 +20,6 @@
 - [aws](#aws)
 - [azure](#azure)
 - [babel](#babel)
-- [backend](#backend)
 - [bash](#bash)
 - [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
@@ -318,12 +317,6 @@
 ## babel 
 
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structrual search, lint and rewriting. Written in Rust
-
-## backend 
-
-- [santoshshinde2012/node-boilerplate](https://github.com/santoshshinde2012/node-boilerplate) - Node Typescript Boilerplate for Microservices. Skeleton for Node.js Apps written in TypeScript (with Setup Instructions for ESLint, Prettier, and Husky)
-- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [encoredev/encore](https://github.com/encoredev/encore) - Encore is the end-to-end Backend Development Platform that lets you escape cloud complexity.
 
 ## bash 
 
@@ -930,6 +923,7 @@
 - [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz) - Publish Rust crates from CI with a Release PR.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
+- [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -1349,6 +1343,7 @@
 
 ## others 
 
+- [leap-ai/headshots-starter](https://github.com/leap-ai/headshots-starter) - 
 - [abacaj/fine-tune-mistral](https://github.com/abacaj/fine-tune-mistral) - Fine-tune mistral-7B on 3090s, a100s, h100s
 - [proto-kit/framework](https://github.com/proto-kit/framework) - 
 - [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit) - Starter kit for privacy enabled application chains
