@@ -24,6 +24,7 @@
 - [bash](#bash)
 - [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
+- [bootstrap](#bootstrap)
 - [bot](#bot)
 - [c](#c)
 - [chatgpt](#chatgpt)
@@ -268,6 +269,7 @@
 
 ## awesome 
 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [OffcierCia/ultimate-defi-research-base](https://github.com/OffcierCia/ultimate-defi-research-base) - Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request.
 - [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev) - Awesome materials about database development.
 - [radi-cho/awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - A curated list of prompts, tools, and resources regarding the GPT-4 language model.
@@ -284,6 +286,7 @@
 
 ## awesome-list 
 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [Vid201/awesome-ethereum-rust](https://github.com/Vid201/awesome-ethereum-rust) - Awesome Ethereum Rust repos
 - [lurk-lab/awesome-folding](https://github.com/lurk-lab/awesome-folding) - A curated list of zero-knowledge folding schemes
 - [0xcacti/awesome-solidity-dev-tools](https://github.com/0xcacti/awesome-solidity-dev-tools) - Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here!
@@ -374,6 +377,10 @@
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [manojpramesh/solidity-cheatsheet](https://github.com/manojpramesh/solidity-cheatsheet) - Cheat sheet and best practices for solidity. Write smart contracts for Ethereum.
 - [OpenZeppelin/awesome-openzeppelin](https://github.com/OpenZeppelin/awesome-openzeppelin) - Blockchain educational resources curated by the OpenZeppelin team
+
+## bootstrap 
+
+- [tarunvelli/rails-tabler-starter](https://github.com/tarunvelli/rails-tabler-starter) - Free and open source Ruby on Rails starter kit built using Tabler
 
 ## bot 
 
@@ -1702,7 +1709,7 @@
 
 - [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [Vid201/awesome-ethereum-rust](https://github.com/Vid201/awesome-ethereum-rust) - Awesome Ethereum Rust repos
-- [Avarok-Cybersecurity/Citadel-Protocol](https://github.com/Avarok-Cybersecurity/Citadel-Protocol) - Post-quantum endpoint encryption for messaging and file-sharing SDK
+- [Avarok-Cybersecurity/Citadel-Protocol](https://github.com/Avarok-Cybersecurity/Citadel-Protocol) - Post-quantum endpoint-to-endpoint encryption for messaging and file-sharing SDK
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 
 ## package-manager 
@@ -1798,6 +1805,7 @@
 
 ## rails 
 
+- [tarunvelli/rails-tabler-starter](https://github.com/tarunvelli/rails-tabler-starter) - Free and open source Ruby on Rails starter kit built using Tabler
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [karafka/karafka-web](https://github.com/karafka/karafka-web) - Web UI for monitoring Karafka consumers' activity
 - [thoughtbot/clearance](https://github.com/thoughtbot/clearance) - Rails authentication with email & password.
@@ -1899,6 +1907,7 @@
 
 ## ruby 
 
+- [tarunvelli/rails-tabler-starter](https://github.com/tarunvelli/rails-tabler-starter) - Free and open source Ruby on Rails starter kit built using Tabler
 - [oracle/truffleruby](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language, built on GraalVM.
 - [ElMassimo/types_from_serializers](https://github.com/ElMassimo/types_from_serializers) - ✅ Generate TypeScript interfaces from your JSON serializers
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
@@ -1961,7 +1970,7 @@
 - [mre/idiomatic-rust](https://github.com/mre/idiomatic-rust) - 🦀 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
 - [lambdaclass/starknet_in_rust](https://github.com/lambdaclass/starknet_in_rust) - A Rust implementation of Starknet execution logic
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
-- [Avarok-Cybersecurity/Citadel-Protocol](https://github.com/Avarok-Cybersecurity/Citadel-Protocol) - Post-quantum endpoint encryption for messaging and file-sharing SDK
+- [Avarok-Cybersecurity/Citadel-Protocol](https://github.com/Avarok-Cybersecurity/Citadel-Protocol) - Post-quantum endpoint-to-endpoint encryption for messaging and file-sharing SDK
 - [taiki-e/cargo-hack](https://github.com/taiki-e/cargo-hack) - Cargo subcommand to provide various options useful for testing and continuous integration.
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
 - [Canop/bacon](https://github.com/Canop/bacon) - background rust code check
