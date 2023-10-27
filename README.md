@@ -672,7 +672,7 @@
 - [trickster0/OffensiveRust](https://github.com/trickster0/OffensiveRust) - Rust Weaponization for Red Team Engagements.
 - [mhogrefe/malachite](https://github.com/mhogrefe/malachite) - An arbitrary-precision arithmetic library for Rust.
 - [lowlevelers/edma](https://github.com/lowlevelers/edma) - EDMA is an interactive terminal app for managing multiple embedded databases system at once with powerful byte deserializer support.
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [microsoft/Nova](https://github.com/microsoft/Nova) - Nova: Recursive SNARKs without trusted setup
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [diptools/dip](https://github.com/diptools/dip) - Rust application framework focuses on composability, ECS and Web3.  Powered by Bevy game engine. From desktop apps to the Metaverse.
