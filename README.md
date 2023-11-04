@@ -145,7 +145,7 @@
 ## Go 
 
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
-- [dagger/dagger](https://github.com/dagger/dagger) - Dagger is an integrated platform to orchestrate the delivery of applications
+- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
 - [slok/grafterm](https://github.com/slok/grafterm) - Metrics dashboards on terminal (a grafana inspired terminal version)
 - [maaslalani/invoice](https://github.com/maaslalani/invoice) - Command line invoice generator
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
