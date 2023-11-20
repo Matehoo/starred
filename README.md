@@ -782,6 +782,7 @@
 
 ## TypeScript 
 
+- [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [leap-ai/headshots-starter](https://github.com/leap-ai/headshots-starter) - 
 - [proto-kit/framework](https://github.com/proto-kit/framework) - 
