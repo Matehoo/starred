@@ -506,7 +506,7 @@
 - [google-deepmind/mctx](https://github.com/google-deepmind/mctx) - Monte Carlo tree search in JAX
 - [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
 - [samim23/polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML
-- [Ackee-Blockchain/woke](https://github.com/Ackee-Blockchain/woke) - Woke is a Python-based Solidity development and testing framework with built-in vulnerability detectors
+- [Ackee-Blockchain/wake](https://github.com/Ackee-Blockchain/wake) - Wake is a Python-based Solidity development and testing framework with built-in vulnerability detectors
 - [poketwo/poketwo](https://github.com/poketwo/poketwo) - A Discord bot.
 - [unlobito/pytravelcard](https://github.com/unlobito/pytravelcard) - python tools for interacting with ITSO-compliant smartcards
 - [OpenGenus/vidsum](https://github.com/OpenGenus/vidsum) - Generate summary of any video :tv: anywhere and anytime
@@ -782,6 +782,7 @@
 
 ## TypeScript 
 
+- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [leap-ai/headshots-starter](https://github.com/leap-ai/headshots-starter) - 
