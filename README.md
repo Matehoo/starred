@@ -506,7 +506,7 @@
 - [google-deepmind/mctx](https://github.com/google-deepmind/mctx) - Monte Carlo tree search in JAX
 - [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
 - [samim23/polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML
-- [Ackee-Blockchain/woke](https://github.com/Ackee-Blockchain/woke) - Woke is a Python-based Solidity development and testing framework with built-in vulnerability detectors
+- [Ackee-Blockchain/wake](https://github.com/Ackee-Blockchain/wake) - Wake is a Python-based Solidity development and testing framework with built-in vulnerability detectors
 - [poketwo/poketwo](https://github.com/poketwo/poketwo) - A (not so) small Pokécord clone.
 - [unlobito/pytravelcard](https://github.com/unlobito/pytravelcard) - python tools for interacting with ITSO-compliant smartcards
 - [OpenGenus/vidsum](https://github.com/OpenGenus/vidsum) - Generate summary of any video :tv: anywhere and anytime
@@ -615,7 +615,7 @@
 - [galacticcouncil/HydraDX-node](https://github.com/galacticcouncil/HydraDX-node) - HydraDX node - cross-chain liquidity protocol built on Substrate
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz) - Publish Rust crates from CI with a Release PR.
-- [sigoden/aichat](https://github.com/sigoden/aichat) - Use ChatGPT, LocalAI and other LLMs in the terminal.
+- [sigoden/aichat](https://github.com/sigoden/aichat) - Use GPT-4(V), LocalAI and other LLMs in the terminal.
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs) - An implementation of the diffusers api in Rust
 - [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
