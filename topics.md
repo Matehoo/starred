@@ -1399,6 +1399,7 @@
 
 ## others 
 
+- [rails/web-console](https://github.com/rails/web-console) - Rails Console on the Browser.
 - [c6fc/npk](https://github.com/c6fc/npk) - A mostly-serverless distributed hash cracking platform
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI with a graph/nodes interface.
@@ -1512,7 +1513,7 @@
 - [sigp/public-audits](https://github.com/sigp/public-audits) - Collection of public security reviews
 - [iFrostizz/solhunt](https://github.com/iFrostizz/solhunt) - Hunt for common bad practices in Solidity smart contracts !
 - [houseofsecrets/SdPaint](https://github.com/houseofsecrets/SdPaint) - Stable Diffusion Painting
-- [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2
+- [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
 - [RareSkills/solidity-riddles](https://github.com/RareSkills/solidity-riddles) - A collection of Solidity security exercises and puzzles to test your knowledge of Solidity's more esoteric features. Some are easy, and some are exceptionally challenging.
 - [JSeam2/PPSwap-Contracts](https://github.com/JSeam2/PPSwap-Contracts) - Privacy Preserving Swaps
 - [karpathy/randomfun](https://github.com/karpathy/randomfun) - Notebooks and various random fun
@@ -1652,7 +1653,6 @@
 - [dabit3/biconomy-social-login-gas-relayer](https://github.com/dabit3/biconomy-social-login-gas-relayer) - Biconomy authentication + gas paid in choice of ERC20 token
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [iway1/react-ts-form](https://github.com/iway1/react-ts-form) - 
-- [alexpusch/rust-magic-function-params](https://github.com/alexpusch/rust-magic-function-params) - Example for Axum style magic function parameter passing
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [shunkakinoki/foundry-simulator](https://github.com/shunkakinoki/foundry-simulator) - Simulate txs to human readable format
 - [Sm4rty-1/Audit-365](https://github.com/Sm4rty-1/Audit-365) - Audit-365 is a challenge for me where I will be posting educational content related to Smart contract auditing and web3 security throughout the 365 days of the year.
@@ -2018,6 +2018,7 @@
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
 - [Canop/bacon](https://github.com/Canop/bacon) - background rust code check
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [alexpusch/rust-magic-patterns](https://github.com/alexpusch/rust-magic-patterns) - Magical Rust patterns laid out and simplified
 - [petgraph/petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
 - [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
