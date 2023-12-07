@@ -632,7 +632,7 @@
 - [tokio-rs/tokio-uring](https://github.com/tokio-rs/tokio-uring) - An io_uring backed runtime for Rust
 - [PaulRBerg/solplate](https://github.com/PaulRBerg/solplate) - Simple utility for generating boilerplate Solidity contracts
 - [SAsimRaza/learning-rust-book](https://github.com/SAsimRaza/learning-rust-book) - 
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
 - [orlp/glidesort](https://github.com/orlp/glidesort) - A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.
 - [0xKitsune/solstat](https://github.com/0xKitsune/solstat) - A Solidity static analyzer to identify contract vulnerabilities and gas efficiencies.
 - [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps.
@@ -806,7 +806,7 @@
 - [santoshshinde2012/node-boilerplate](https://github.com/santoshshinde2012/node-boilerplate) - Node Typescript Boilerplate for Microservices. Skeleton for Node.js Apps written in TypeScript (with Setup Instructions for ESLint, Prettier, and Husky)
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
-- [evmts/evmts-monorepo](https://github.com/evmts/evmts-monorepo) - Bundler and LSP for Solidity and TypeScript
+- [evmts/tevm-monorepo](https://github.com/evmts/tevm-monorepo) - Bundler and LSP for Solidity and TypeScript
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [TalismanSociety/talisman](https://github.com/TalismanSociety/talisman) - Unlock the Paraverse. The Talisman wallet monorepo.
