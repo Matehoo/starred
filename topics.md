@@ -1417,6 +1417,7 @@
 
 ## others 
 
+- [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering
 - [epicweb-dev/invariant](https://github.com/epicweb-dev/invariant) - Type safe utilities for throwing errors (and responses) in exceptional situations in a declarative way.
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [rektbuildr/ledger-live](https://github.com/rektbuildr/ledger-live) - Ledger Libre : Tinkering with Ledger Live
