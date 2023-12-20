@@ -192,7 +192,7 @@
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [gmpetrov/databerry](https://github.com/gmpetrov/databerry) - The no-code platform for building custom LLM Agents
@@ -947,6 +947,7 @@
 
 ## hacktoberfest 
 
+- [bensheldon/good_job](https://github.com/bensheldon/good_job) - Multithreaded, Postgres-based, Active Job backend for Ruby on Rails.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [kernc/backtesting.py](https://github.com/kernc/backtesting.py) - :mag_right: :chart_with_upwards_trend: :snake: :moneybag:  Backtest trading strategies in Python.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -1419,6 +1420,7 @@
 
 ## others 
 
+- [basecamp/solid_queue](https://github.com/basecamp/solid_queue) - Database-backed Active Job backend
 - [aymenfurter/microagents](https://github.com/aymenfurter/microagents) - Agents Capable of Self-Editing Their Prompts / Python Code
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 - [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering
@@ -1454,7 +1456,7 @@
 - [Yifan-Song793/RestGPT](https://github.com/Yifan-Song793/RestGPT) - An LLM-based autonomous agent controlling real-world applications via RESTful APIs
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
-- [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with ChatGPT and Vercel Edge Functions.
+- [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with Mixtral and GPT-3.5.
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
@@ -1838,7 +1840,7 @@
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
@@ -1880,6 +1882,7 @@
 
 ## rails 
 
+- [bensheldon/good_job](https://github.com/bensheldon/good_job) - Multithreaded, Postgres-based, Active Job backend for Ruby on Rails.
 - [stimulusreflex/stimulus_reflex](https://github.com/stimulusreflex/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.
 - [tarunvelli/rails-tabler-starter](https://github.com/tarunvelli/rails-tabler-starter) - Free and open source Ruby on Rails starter kit built using Tabler
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
@@ -1987,6 +1990,7 @@
 
 ## ruby 
 
+- [bensheldon/good_job](https://github.com/bensheldon/good_job) - Multithreaded, Postgres-based, Active Job backend for Ruby on Rails.
 - [stimulusreflex/stimulus_reflex](https://github.com/stimulusreflex/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.
 - [tarunvelli/rails-tabler-starter](https://github.com/tarunvelli/rails-tabler-starter) - Free and open source Ruby on Rails starter kit built using Tabler
 - [oracle/truffleruby](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language, built on GraalVM.
