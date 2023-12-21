@@ -433,6 +433,7 @@
 
 ## Python 
 
+- [K3YOMI/Wall-of-Flippers](https://github.com/K3YOMI/Wall-of-Flippers) - Wall of Flippers is designed to find Flipper Zero devices using BLE (Bluetooth Low Energy)
 - [aymenfurter/microagents](https://github.com/aymenfurter/microagents) - Agents Capable of Self-Editing Their Prompts / Python Code
 - [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering
 - [kernc/backtesting.py](https://github.com/kernc/backtesting.py) - :mag_right: :chart_with_upwards_trend: :snake: :moneybag:  Backtest trading strategies in Python.
@@ -456,7 +457,7 @@
 - [doyensec/wsrepl](https://github.com/doyensec/wsrepl) - WebSocket REPL for pentesters
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [sdan/vlite](https://github.com/sdan/vlite) - simple vector database made in numpy
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB's AI SQL Server connects AI models to real time data
 - [0hq/tinyvector](https://github.com/0hq/tinyvector) - A tiny nearest-neighbor embedding database built with SQLite and Pytorch. (In development!)
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
@@ -792,7 +793,7 @@
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
 - [epicweb-dev/invariant](https://github.com/epicweb-dev/invariant) - Type safe utilities for throwing errors (and responses) in exceptional situations in a declarative way.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
-- [rektbuildr/ledger-live](https://github.com/rektbuildr/ledger-live) - Ledger Libre : Tinkering with Ledger Live
+- [rektbuildr/lecce-libre](https://github.com/rektbuildr/lecce-libre) - Lecce Libre : A tracker-free, privacy oriented fork of Ledger Live
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [workos/authkit](https://github.com/workos/authkit) - The world's best login box powered by WorkOS and Radix.
