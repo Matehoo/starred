@@ -697,6 +697,7 @@
 
 ## elixir 
 
+- [lucasvegi/Elixir-Code-Smells](https://github.com/lucasvegi/Elixir-Code-Smells) - Catalog of Elixir-specific code smells
 - [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
 - [elixir-lsp/elixir-ls](https://github.com/elixir-lsp/elixir-ls) - A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol"
 - [rrrene/credo](https://github.com/rrrene/credo) - A static code analysis tool for the Elixir language with a focus on code consistency and teaching.
@@ -1433,6 +1434,7 @@
 
 ## others 
 
+- [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
 - [360Controller/360Controller](https://github.com/360Controller/360Controller) - TattieBogle Xbox 360 Driver (with improvements)
 - [K3YOMI/Wall-of-Flippers](https://github.com/K3YOMI/Wall-of-Flippers) - Wall of Flippers is designed to find Flipper Zero devices using BLE (Bluetooth Low Energy)
 - [basecamp/solid_queue](https://github.com/basecamp/solid_queue) - Database-backed Active Job backend
