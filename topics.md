@@ -1448,7 +1448,7 @@
 - [rails/web-console](https://github.com/rails/web-console) - Rails Console on the Browser.
 - [c6fc/npk](https://github.com/c6fc/npk) - A mostly-serverless distributed hash cracking platform
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI with a graph/nodes interface.
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
 - [workos/authkit](https://github.com/workos/authkit) - The world's best login box powered by WorkOS and Radix.
 - [jessfraz/advent-of-cuda](https://github.com/jessfraz/advent-of-cuda) - Doing advent of code with CUDA and rust.
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
