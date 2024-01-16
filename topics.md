@@ -108,6 +108,7 @@
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
+- [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
@@ -1299,6 +1300,10 @@
 ## material-design 
 
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+
+## microsoft 
+
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. Th
 
 ## minecraft 
 
