@@ -559,6 +559,7 @@
 
 ## Ruby 
 
+- [krschacht/37signals-rails-code](https://github.com/krschacht/37signals-rails-code) - 
 - [rage-rb/rage](https://github.com/rage-rb/rage) - Fast web framework compatible with Rails.
 - [basecamp/solid_queue](https://github.com/basecamp/solid_queue) - Database-backed Active Job backend
 - [bensheldon/good_job](https://github.com/bensheldon/good_job) - Multithreaded, Postgres-based, Active Job backend for Ruby on Rails.
