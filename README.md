@@ -858,7 +858,7 @@
 - [santoshshinde2012/node-boilerplate](https://github.com/santoshshinde2012/node-boilerplate) - Node Typescript Boilerplate for Microservices. Skeleton for Node.js Apps written in TypeScript (with Setup Instructions for ESLint, Prettier, and Husky)
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
-- [evmts/tevm-monorepo](https://github.com/evmts/tevm-monorepo) - Bundler and LSP for Solidity and TypeScript
+- [evmts/tevm-monorepo](https://github.com/evmts/tevm-monorepo) - Devnet, bundler and LSP for Solidity and TypeScript that runs in the browser
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [TalismanSociety/talisman](https://github.com/TalismanSociety/talisman) - Unlock the Paraverse. The Talisman wallet monorepo.
