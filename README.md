@@ -816,6 +816,7 @@
 
 ## TypeScript 
 
+- [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
 - [preactjs/signals](https://github.com/preactjs/signals) - Manage state with style in every framework
