@@ -556,7 +556,7 @@
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [dextertd/tv-bybit-webhook](https://github.com/dextertd/tv-bybit-webhook) - Handle incoming TradingView webhooks with scaleable AWS lambdas
 - [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 130+ Indicators
-- [CADLabs/radCAD](https://github.com/CADLabs/radCAD) - A framework for generalised dynamical systems modelling & simulation (inspired by and compatible with cadCAD.org)
+- [CADLabs/radCAD](https://github.com/CADLabs/radCAD) - A Python framework for designing, testing, and validating complex systems through modelling and simulation.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [zalando/patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [verata-veritatis/pybit](https://github.com/verata-veritatis/pybit) - Python3 API connector for Bybit's HTTP and Websockets APIs.
@@ -815,7 +815,7 @@
 
 ## Swift 
 
-- [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - Swift native speech recognition on-device for iOS and macOS applications.
+- [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - Swift native on-device speech recognition with Whisper for iOS and macOS
 - [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer  🎧
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
 - [justjake/Gauss](https://github.com/justjake/Gauss) - Stable Diffusion macOS native app
