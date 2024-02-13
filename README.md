@@ -70,6 +70,7 @@
 
 ## C++ 
 
+- [jhawthorn/vernier](https://github.com/jhawthorn/vernier) - 📏 next generation CRuby profiler
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 - [360Controller/360Controller](https://github.com/360Controller/360Controller) - TattieBogle Xbox 360 Driver (with improvements)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
@@ -576,6 +577,9 @@
 
 ## Ruby 
 
+- [lostisland/faraday](https://github.com/lostisland/faraday) - Simple, but flexible HTTP client library, with support for multiple backends.
+- [Shopify/ruby-lsp-rails](https://github.com/Shopify/ruby-lsp-rails) - A Ruby LSP extension for Rails
+- [Shopify/tapioca](https://github.com/Shopify/tapioca) - The swiss army knife of RBI generation
 - [krschacht/37signals-rails-code](https://github.com/krschacht/37signals-rails-code) - 
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [rage-rb/rage](https://github.com/rage-rb/rage) - Fast web framework compatible with Rails.
@@ -835,6 +839,7 @@
 
 ## TypeScript 
 
+- [edmundhung/remix-cloudflare-template](https://github.com/edmundhung/remix-cloudflare-template) - 📜 All-in-one remix starter template for Cloudflare Pages
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [remix-run/remix-website](https://github.com/remix-run/remix-website) - 
