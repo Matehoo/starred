@@ -207,7 +207,7 @@
 - [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Local LLM application.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Code-first infrastructure for AI Copilots, and AI-native react applications.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - 🪁🤖Copilot infrastructure for react apps. In-app AI chatbots (with context-awareness), AI-powered Textareas, and more
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that 
@@ -1486,7 +1486,7 @@
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - [edmundhung/conform](https://github.com/edmundhung/conform) - A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Local LLM application.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Code-first infrastructure for AI Copilots, and AI-native react applications.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - 🪁🤖Copilot infrastructure for react apps. In-app AI chatbots (with context-awareness), AI-powered Textareas, and more
 - [sst/open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [Olanetsoft/article-idea-generator](https://github.com/Olanetsoft/article-idea-generator) - Generate your next article idea with ease. Powered by OpenAI.
@@ -1586,7 +1586,7 @@
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Code-first infrastructure for AI Copilots, and AI-native react applications.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - 🪁🤖Copilot infrastructure for react apps. In-app AI chatbots (with context-awareness), AI-powered Textareas, and more
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
@@ -2137,6 +2137,7 @@
 
 ## react 
 
+- [guilhermerodz/input-otp](https://github.com/guilhermerodz/input-otp) - One time passcode Input. Accessible & unstyled.
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [BCG-X-Official/agentkit](https://github.com/BCG-X-Official/agentkit) - Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain
@@ -2147,7 +2148,7 @@
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
 - [preactjs/signals](https://github.com/preactjs/signals) - Manage state with style in every framework
 - [wevm/vocs](https://github.com/wevm/vocs) - Minimal Documentation Framework, powered by React + Vite.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Code-first infrastructure for AI Copilots, and AI-native react applications.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - 🪁🤖Copilot infrastructure for react apps. In-app AI chatbots (with context-awareness), AI-powered Textareas, and more
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
@@ -2214,7 +2215,7 @@
 ## reactjs 
 
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Code-first infrastructure for AI Copilots, and AI-native react applications.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - 🪁🤖Copilot infrastructure for react apps. In-app AI chatbots (with context-awareness), AI-powered Textareas, and more
 - [ill-inc/biomes-game](https://github.com/ill-inc/biomes-game) - Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
@@ -2557,7 +2558,7 @@
 - [wevm/vocs](https://github.com/wevm/vocs) - Minimal Documentation Framework, powered by React + Vite.
 - [PuruVJ/neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Code-first infrastructure for AI Copilots, and AI-native react applications.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - 🪁🤖Copilot infrastructure for react apps. In-app AI chatbots (with context-awareness), AI-powered Textareas, and more
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [Olanetsoft/article-idea-generator](https://github.com/Olanetsoft/article-idea-generator) - Generate your next article idea with ease. Powered by OpenAI.
