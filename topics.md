@@ -530,6 +530,7 @@
 
 ## computer-science 
 
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - Building the best system design resource in the internet
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [world-class/REPL](https://github.com/world-class/REPL) - The Learning Hub for UoL's Online CS Students
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
@@ -579,6 +580,8 @@
 
 ## css 
 
+- [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge) - Merge Tailwind CSS classes without style conflicts
+- [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
@@ -1163,6 +1166,7 @@
 
 ## html 
 
+- [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
@@ -1222,6 +1226,7 @@
 
 ## javascript 
 
+- [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
@@ -1351,6 +1356,7 @@
 
 ## linux 
 
+- [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
@@ -1406,6 +1412,7 @@
 
 ## macos 
 
+- [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - Swift native on-device speech recognition with Whisper for Apple Silicon
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
@@ -1618,7 +1625,6 @@
 
 ## others 
 
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - Building the best system design resource in the internet
 - [jquense/react-big-calendar](https://github.com/jquense/react-big-calendar) - gcal/outlook like calendar component
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [facebook/react-strict-dom](https://github.com/facebook/react-strict-dom) - React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets
@@ -1789,7 +1795,7 @@
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [cosmos/ibc-apps](https://github.com/cosmos/ibc-apps) - IBC applications and middleware for Cosmos SDK chains.
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
 - [paradigmxyz/flux](https://github.com/paradigmxyz/flux) - Graph-based LLM power tool for exploring many completions in parallel.
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
@@ -2006,7 +2012,7 @@
 ## package-manager 
 
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - a Hassle-Free Python Experience
+- [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 
 ## pentesting 
 
@@ -2067,6 +2073,7 @@
 
 ## programming 
 
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - Building the best system design resource in the internet
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
@@ -2097,7 +2104,7 @@
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - a Hassle-Free Python Experience
+- [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [plasma-umass/ChatDBG](https://github.com/plasma-umass/ChatDBG) - ChatDBG - AI-assisted debugging. Uses AI to answer 'why'
@@ -2153,6 +2160,7 @@
 
 ## react 
 
+- [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is a real-time collaboration infrastructure for developers.
 - [guilhermerodz/input-otp](https://github.com/guilhermerodz/input-otp) - One time passcode Input. Accessible & unstyled.
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
@@ -2540,6 +2548,7 @@
 
 ## terminal 
 
+- [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
