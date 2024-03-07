@@ -225,7 +225,7 @@
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
-- [sigoden/aichat](https://github.com/sigoden/aichat) - Use GPT-4(V), Gemini, LocalAI, Ollama and other LLMs in the terminal.
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All in one CLI tool for 10+ AI platforms, including OpenAI, Gemini, Claude, Mistral, LocalAI, Ollama, VertexAI, Ernie, Qianwen...
 - [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
@@ -467,7 +467,7 @@
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
 - [nichtdax/awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [npiv/chatblade](https://github.com/npiv/chatblade) - A CLI Swiss Army Knife for ChatGPT
-- [sigoden/aichat](https://github.com/sigoden/aichat) - Use GPT-4(V), Gemini, LocalAI, Ollama and other LLMs in the terminal.
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All in one CLI tool for 10+ AI platforms, including OpenAI, Gemini, Claude, Mistral, LocalAI, Ollama, VertexAI, Ernie, Qianwen...
 - [jankais3r/LLaMA_MPS](https://github.com/jankais3r/LLaMA_MPS) - Run LLaMA (and Stanford-Alpaca) inference on Apple Silicon GPUs.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
