@@ -209,7 +209,7 @@
 - [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TT
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - AI Copilot infrastructure for React apps 🤖 AI-powered Textareas, in-app AI chatbots (with context-awareness & actions), LangChain support, and more!
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - AI Copilot infrastructure for React apps 🤖 context-aware AI chatbots (that can take actions), in-app AI Agents, & AI-powered Textareas.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
@@ -1089,7 +1089,8 @@
 
 ## hacktoberfest 
 
-- [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open Source Salesforce CDP Alternative
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
+- [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥 Open Source Reverse ETL and Customer Data Platform (CDP). An open-source alternative to tools like Hightouch, Census, and RudderStack.
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [pay-rails/pay](https://github.com/pay-rails/pay) - Payments for Ruby on Rails apps
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
@@ -1249,6 +1250,7 @@
 
 ## javascript 
 
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
@@ -1530,7 +1532,7 @@
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - [edmundhung/conform](https://github.com/edmundhung/conform) - A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TT
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - AI Copilot infrastructure for React apps 🤖 AI-powered Textareas, in-app AI chatbots (with context-awareness & actions), LangChain support, and more!
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - AI Copilot infrastructure for React apps 🤖 context-aware AI chatbots (that can take actions), in-app AI Agents, & AI-powered Textareas.
 - [sst/open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [Olanetsoft/article-idea-generator](https://github.com/Olanetsoft/article-idea-generator) - Generate your next article idea with ease. Powered by OpenAI.
@@ -1628,12 +1630,12 @@
 
 ## open-source 
 
-- [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open Source Salesforce CDP Alternative
+- [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥 Open Source Reverse ETL and Customer Data Platform (CDP). An open-source alternative to tools like Hightouch, Census, and RudderStack.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - AI Copilot infrastructure for React apps 🤖 AI-powered Textareas, in-app AI chatbots (with context-awareness & actions), LangChain support, and more!
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - AI Copilot infrastructure for React apps 🤖 context-aware AI chatbots (that can take actions), in-app AI Agents, & AI-powered Textareas.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
@@ -2205,8 +2207,9 @@
 
 ## react 
 
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Like Next.js / Nuxt but as do-one-thing-do-it-well Vite plugin.
-- [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open Source Salesforce CDP Alternative
+- [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥 Open Source Reverse ETL and Customer Data Platform (CDP). An open-source alternative to tools like Hightouch, Census, and RudderStack.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is a real-time collaboration infrastructure for developers.
 - [guilhermerodz/input-otp](https://github.com/guilhermerodz/input-otp) - One time passcode Input. Accessible & unstyled.
@@ -2220,7 +2223,7 @@
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
 - [preactjs/signals](https://github.com/preactjs/signals) - Manage state with style in every framework
 - [wevm/vocs](https://github.com/wevm/vocs) - Minimal Documentation Framework, powered by React + Vite.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - AI Copilot infrastructure for React apps 🤖 AI-powered Textareas, in-app AI chatbots (with context-awareness & actions), LangChain support, and more!
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - AI Copilot infrastructure for React apps 🤖 context-aware AI chatbots (that can take actions), in-app AI Agents, & AI-powered Textareas.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
@@ -2287,7 +2290,7 @@
 ## reactjs 
 
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - AI Copilot infrastructure for React apps 🤖 AI-powered Textareas, in-app AI chatbots (with context-awareness & actions), LangChain support, and more!
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - AI Copilot infrastructure for React apps 🤖 context-aware AI chatbots (that can take actions), in-app AI Agents, & AI-powered Textareas.
 - [ill-inc/biomes-game](https://github.com/ill-inc/biomes-game) - Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly.
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
@@ -2319,7 +2322,7 @@
 
 - [digital-fabric/extralite](https://github.com/digital-fabric/extralite) - Ruby on SQLite
 - [ddnexus/pagy](https://github.com/ddnexus/pagy) - 🏆 The Best Pagination Ruby Gem 🥇
-- [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open Source Salesforce CDP Alternative
+- [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥 Open Source Reverse ETL and Customer Data Platform (CDP). An open-source alternative to tools like Hightouch, Census, and RudderStack.
 - [gregnavis/active_record_doctor](https://github.com/gregnavis/active_record_doctor) - Identify database issues before they hit production.
 - [thoughtbot/administrate](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard.
 - [Shopify/tapioca](https://github.com/Shopify/tapioca) - The swiss army knife of RBI generation
@@ -2457,7 +2460,7 @@
 
 ## self-hosted 
 
-- [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open Source Salesforce CDP Alternative
+- [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥 Open Source Reverse ETL and Customer Data Platform (CDP). An open-source alternative to tools like Hightouch, Census, and RudderStack.
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
 - [un/inbox](https://github.com/un/inbox) - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
@@ -2631,7 +2634,7 @@
 
 ## typescript 
 
-- [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open Source Salesforce CDP Alternative
+- [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥 Open Source Reverse ETL and Customer Data Platform (CDP). An open-source alternative to tools like Hightouch, Census, and RudderStack.
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
@@ -2645,7 +2648,7 @@
 - [wevm/vocs](https://github.com/wevm/vocs) - Minimal Documentation Framework, powered by React + Vite.
 - [PuruVJ/neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - AI Copilot infrastructure for React apps 🤖 AI-powered Textareas, in-app AI chatbots (with context-awareness & actions), LangChain support, and more!
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - AI Copilot infrastructure for React apps 🤖 context-aware AI chatbots (that can take actions), in-app AI Agents, & AI-powered Textareas.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [Olanetsoft/article-idea-generator](https://github.com/Olanetsoft/article-idea-generator) - Generate your next article idea with ease. Powered by OpenAI.
