@@ -206,6 +206,7 @@
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGP
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-tuning of 100+ LLMs
 - [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TT
@@ -1695,7 +1696,6 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [krschacht/37signals-rails-code](https://github.com/krschacht/37signals-rails-code) - 
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-tuning of 100+ LLMs
 - [rage-rb/rage](https://github.com/rage-rb/rage) - Fast web framework compatible with Rails.
 - [unjs/nitro](https://github.com/unjs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 - [lambdaclass/sparkling_water_bootcamp](https://github.com/lambdaclass/sparkling_water_bootcamp) - Public repository for excersices, challenges and all the needs of the Sparkling Water Bootcamp
@@ -1727,7 +1727,7 @@
 - [jdah/doomenstein-3d](https://github.com/jdah/doomenstein-3d) - Wolfenstein/DOOM style software renderers
 - [Francesco215/Language_CA](https://github.com/Francesco215/Language_CA) - Algorithm that generates text in a way inspired by morphogenesis (WIP)
 - [abb128/LiveCaptions](https://github.com/abb128/LiveCaptions) - Linux Desktop application that provides live captioning
-- [leap-ai/headshots-starter](https://github.com/leap-ai/headshots-starter) - 
+- [astriaai/headshots-starter](https://github.com/astriaai/headshots-starter) - 
 - [abacaj/fine-tune-mistral](https://github.com/abacaj/fine-tune-mistral) - Fine-tune mistral-7B on 3090s, a100s, h100s
 - [proto-kit/framework](https://github.com/proto-kit/framework) - 
 - [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit) - Starter kit for privacy enabled application chains
