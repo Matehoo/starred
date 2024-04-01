@@ -326,6 +326,7 @@
 - [PWhiddy/PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning
 - [Francesco215/Language_CA](https://github.com/Francesco215/Language_CA) - Algorithm that generates text in a way inspired by morphogenesis (WIP)
 - [mistralai/mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model.
+- [sdan/vlite](https://github.com/sdan/vlite) - simple vector database made in numpy
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [pxsocs/nakamoto_code](https://github.com/pxsocs/nakamoto_code) - Code Snippets Open Sourced from Nakamoto Portfolio
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
@@ -499,7 +500,7 @@
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with function calling and connect LLMs to external tools.
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-tuning of 100+ LLMs
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-Tuning of 100+ LLMs
 - [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
 - [K3YOMI/Wall-of-Flippers](https://github.com/K3YOMI/Wall-of-Flippers) - A simple and easy way to find Flipper Zero Devices and Bluetooth Low Energy Based Attacks
@@ -526,7 +527,6 @@
 - [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
 - [doyensec/wsrepl](https://github.com/doyensec/wsrepl) - WebSocket REPL for pentesters
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
-- [sdan/vlite](https://github.com/sdan/vlite) - simple vector database made in numpy
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
 - [0hq/tinyvector](https://github.com/0hq/tinyvector) - A tiny nearest-neighbor embedding database built with SQLite and Pytorch. (In development!)
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
