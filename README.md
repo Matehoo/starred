@@ -75,7 +75,6 @@
 
 ## C++ 
 
-- [jhawthorn/vernier](https://github.com/jhawthorn/vernier) - 📏 next generation CRuby profiler
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 - [360Controller/360Controller](https://github.com/360Controller/360Controller) - TattieBogle Xbox 360 Driver (with improvements)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
@@ -338,7 +337,7 @@
 - [yu-takagi/StableDiffusionReconstruction](https://github.com/yu-takagi/StableDiffusionReconstruction) - Takagi and Nishimoto, CVPR 2023
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-- [cadCAD-edu/ethereum-economic-model](https://github.com/cadCAD-edu/ethereum-economic-model) - A modular dynamical-systems model of Ethereum's validator economics
+- [CADLabs/ethereum-economic-model](https://github.com/CADLabs/ethereum-economic-model) - A modular dynamical-systems model of Ethereum's validator economics
 
 ## Kotlin 
 
@@ -600,7 +599,7 @@
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [dextertd/tv-bybit-webhook](https://github.com/dextertd/tv-bybit-webhook) - Handle incoming TradingView webhooks with scaleable AWS lambdas
 - [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 150+ Indicators
-- [cadCAD-edu/radCAD](https://github.com/cadCAD-edu/radCAD) - A Python framework for designing, testing, and validating complex systems through modelling and simulation.
+- [CADLabs/radCAD](https://github.com/CADLabs/radCAD) - A Python framework for designing, testing, and validating complex systems through modelling and simulation.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [zalando/patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [verata-veritatis/pybit](https://github.com/verata-veritatis/pybit) - Python3 API connector for Bybit's HTTP and Websockets APIs.
@@ -621,6 +620,7 @@
 - [lostisland/faraday](https://github.com/lostisland/faraday) - Simple, but flexible HTTP client library, with support for multiple backends.
 - [Shopify/ruby-lsp-rails](https://github.com/Shopify/ruby-lsp-rails) - A Ruby LSP addon for Rails
 - [Shopify/tapioca](https://github.com/Shopify/tapioca) - The swiss army knife of RBI generation
+- [jhawthorn/vernier](https://github.com/jhawthorn/vernier) - 📏 next generation CRuby profiler
 - [krschacht/37signals-rails-code](https://github.com/krschacht/37signals-rails-code) - 
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [rage-rb/rage](https://github.com/rage-rb/rage) - Fast web framework compatible with Rails.
@@ -883,6 +883,7 @@
 
 ## TypeScript 
 
+- [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter.
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing) - File uploads for modern web devs
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
