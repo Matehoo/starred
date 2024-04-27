@@ -222,7 +222,7 @@
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint, locally and in the cloud.
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint in the cloud.
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
@@ -1578,6 +1578,7 @@
 
 ## neural-network 
 
+- [b4rtaz/distributed-llama](https://github.com/b4rtaz/distributed-llama) - Run LLMs on weak devices or make powerful devices even more powerful by distributing the workload and dividing the RAM usage.
 - [mosaicml/composer](https://github.com/mosaicml/composer) - Supercharge Your Model Training
 - [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
 
@@ -1969,7 +1970,7 @@
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [OmniBTC/Sui-AMM-swap](https://github.com/OmniBTC/Sui-AMM-swap) - The first open source AMM swap on the Sui. @mystenLabs
-- [SAsimRaza/learning-rust-book](https://github.com/SAsimRaza/learning-rust-book) - 
+- [0xasimraza/learning-rust-book](https://github.com/0xasimraza/learning-rust-book) - 
 - [huahuayu/go-transaction-decoder](https://github.com/huahuayu/go-transaction-decoder) - go ethereum transaction input decoder
 - [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 - [ControlCplusControlV/Yul-Optimization-Tips](https://github.com/ControlCplusControlV/Yul-Optimization-Tips) - 
