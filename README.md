@@ -77,6 +77,7 @@
 
 ## C++ 
 
+- [b4rtaz/distributed-llama](https://github.com/b4rtaz/distributed-llama) - Run LLMs on weak devices or make powerful devices even more powerful by distributing the workload and dividing the RAM usage.
 - [facebook/hermes](https://github.com/facebook/hermes) - A JavaScript engine optimized for running React Native.
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
@@ -547,7 +548,7 @@
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint, locally and in the cloud.
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint in the cloud.
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
@@ -747,7 +748,7 @@
 - [matter-labs/zksync](https://github.com/matter-labs/zksync) - zkSync: trustless scaling and privacy engine for Ethereum
 - [tokio-rs/tokio-uring](https://github.com/tokio-rs/tokio-uring) - An io_uring backed runtime for Rust
 - [PaulRBerg/solplate](https://github.com/PaulRBerg/solplate) - Simple utility for generating boilerplate Solidity contracts
-- [SAsimRaza/learning-rust-book](https://github.com/SAsimRaza/learning-rust-book) - 
+- [0xasimraza/learning-rust-book](https://github.com/0xasimraza/learning-rust-book) - 
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [orlp/glidesort](https://github.com/orlp/glidesort) - A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.
 - [0xKitsune/solstat](https://github.com/0xKitsune/solstat) - A Solidity static analyzer to identify contract vulnerabilities and gas efficiencies.
