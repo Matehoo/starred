@@ -631,6 +631,7 @@
 
 ## Ruby 
 
+- [thoughtbot/ruby-science](https://github.com/thoughtbot/ruby-science) - The reference for writing fantastic Rails applications
 - [palkan/logidze](https://github.com/palkan/logidze) - Database changes log for Rails
 - [basecamp/console1984](https://github.com/basecamp/console1984) - The Rails console you love, 1984 style
 - [wouterken/crystalruby](https://github.com/wouterken/crystalruby) - Embed Crystal code directly in Ruby
