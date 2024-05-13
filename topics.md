@@ -1072,7 +1072,7 @@
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
-- [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: an LLM-powered web honeypot using the OpenAI API.
+- [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: an LLM-powered web honeypot!
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
@@ -1453,7 +1453,7 @@
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - Open source codebase powering the HuggingChat app
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
-- [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: an LLM-powered web honeypot using the OpenAI API.
+- [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: an LLM-powered web honeypot!
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unify Efficient Fine-Tuning of 100+ LLMs
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [aymenfurter/microagents](https://github.com/aymenfurter/microagents) - Agents Capable of Self-Editing Their Prompts / Python Code
@@ -2578,7 +2578,7 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
-- [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: an LLM-powered web honeypot using the OpenAI API.
+- [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: an LLM-powered web honeypot!
 - [emilianobonassi/whitehacks-kit](https://github.com/emilianobonassi/whitehacks-kit) - A simple template to perform whitehacks safely
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [Quillhash/Solidity-Attack-Vectors](https://github.com/Quillhash/Solidity-Attack-Vectors) - This Repository contains list of Common Solidity SmartContract Attack Vectors. If you find any attack vectors missing, you can create a pull request and be a contributor of the project.
