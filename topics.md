@@ -1769,6 +1769,7 @@
 
 ## others 
 
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
 - [thoughtbot/ruby-science](https://github.com/thoughtbot/ruby-science) - The reference for writing fantastic Rails applications
 - [basecamp/console1984](https://github.com/basecamp/console1984) - The Rails console you love, 1984 style
