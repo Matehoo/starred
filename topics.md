@@ -777,6 +777,7 @@
 
 ## docker 
 
+- [fly-apps/dockerfile-rails](https://github.com/fly-apps/dockerfile-rails) - Provides a Rails generator to produce Dockerfiles and related files.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
@@ -1139,6 +1140,7 @@
 
 ## hacktoberfest 
 
+- [avo-hq/avo](https://github.com/avo-hq/avo) - Build Ruby on Rails apps 10x faster
 - [palkan/logidze](https://github.com/palkan/logidze) - Database changes log for Rails
 - [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
@@ -1750,6 +1752,7 @@
 
 ## open-source 
 
+- [avo-hq/avo](https://github.com/avo-hq/avo) - Build Ruby on Rails apps 10x faster
 - [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
 - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open Source Alternative to Hightouch, Census, and RudderStack.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
@@ -1781,6 +1784,7 @@
 
 ## others 
 
+- [phoenixframework/flame](https://github.com/phoenixframework/flame) - 
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [ryanckulp/speedrail](https://github.com/ryanckulp/speedrail) - Rails 7 app template: Devise auth, Stripe billing, Tailwind CSS, admin panel, SEO helpers, etc
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
@@ -2341,6 +2345,8 @@
 
 ## rails 
 
+- [avo-hq/avo](https://github.com/avo-hq/avo) - Build Ruby on Rails apps 10x faster
+- [fly-apps/dockerfile-rails](https://github.com/fly-apps/dockerfile-rails) - Provides a Rails generator to produce Dockerfiles and related files.
 - [palkan/logidze](https://github.com/palkan/logidze) - Database changes log for Rails
 - [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail) - Track changes to your rails models
 - [CanCanCommunity/cancancan](https://github.com/CanCanCommunity/cancancan) - The authorization Gem for Ruby on Rails.
@@ -2483,6 +2489,8 @@
 
 ## ruby 
 
+- [avo-hq/avo](https://github.com/avo-hq/avo) - Build Ruby on Rails apps 10x faster
+- [fly-apps/dockerfile-rails](https://github.com/fly-apps/dockerfile-rails) - Provides a Rails generator to produce Dockerfiles and related files.
 - [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail) - Track changes to your rails models
 - [digital-fabric/extralite](https://github.com/digital-fabric/extralite) - Ruby on SQLite
 - [ddnexus/pagy](https://github.com/ddnexus/pagy) - 🏆 The Best Pagination Ruby Gem 🥇
@@ -2709,6 +2717,7 @@
 
 ## sql 
 
+- [ankane/blazer](https://github.com/ankane/blazer) - Business intelligence made simple
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
