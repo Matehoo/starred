@@ -140,6 +140,7 @@
 
 ## Elixir 
 
+- [mbuhot/ecto_job](https://github.com/mbuhot/ecto_job) - Transactional job queue with Ecto, PostgreSQL and GenStage
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 - [phoenixframework/flame](https://github.com/phoenixframework/flame) - 
 - [lucasvegi/Elixir-Code-Smells](https://github.com/lucasvegi/Elixir-Code-Smells) - Catalog of Elixir-specific code smells
@@ -515,6 +516,7 @@
 
 ## Python 
 
+- [ipa-lab/hackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT) - Helping Ethical Hackers use LLMs in 50 Lines of Code or less..
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
@@ -582,7 +584,7 @@
 - [mosaicml/composer](https://github.com/mosaicml/composer) - Supercharge Your Model Training
 - [microsoft/BioGPT](https://github.com/microsoft/BioGPT) - 
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
-- [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
+- [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [pessimistic-io/slitherin](https://github.com/pessimistic-io/slitherin) - Slither Detectors by Pessimistic.io
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot!
@@ -643,6 +645,7 @@
 
 ## Ruby 
 
+- [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [avo-hq/avo](https://github.com/avo-hq/avo) - Build Ruby on Rails apps 10x faster
 - [ankane/blazer](https://github.com/ankane/blazer) - Business intelligence made simple
 - [ryanckulp/speedrail](https://github.com/ryanckulp/speedrail) - Rails 7 app template: Devise auth, Stripe billing, Tailwind CSS, admin panel, SEO helpers, etc
@@ -924,6 +927,7 @@
 
 ## TypeScript 
 
+- [ashleyrudland/nextjs_vps](https://github.com/ashleyrudland/nextjs_vps) - NextJS VPS Example
 - [souporserious/restyle](https://github.com/souporserious/restyle) - The simplest way to add CSS styles to your React components.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
