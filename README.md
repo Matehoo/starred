@@ -189,7 +189,7 @@
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
-- [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: LLM-powered web honeypot. Wasting attackers' time with faker-than-ever HTTP responses!
+- [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: An LLM-powered web honeypot. Wasting attackers' time with faker-than-ever HTTP responses!
 - [paypal/junodb](https://github.com/paypal/junodb) - JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.
 - [anfragment/zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
@@ -503,6 +503,7 @@
 
 ## PHP 
 
+- [glpi-project/glpi](https://github.com/glpi-project/glpi) - GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
@@ -655,6 +656,7 @@
 
 ## Ruby 
 
+- [inertiajs/inertia-rails](https://github.com/inertiajs/inertia-rails) - The Rails adapter for Inertia.js.
 - [roidrage/lograge](https://github.com/roidrage/lograge) - An attempt to tame Rails' default policy to log everything.
 - [kamui/retriable](https://github.com/kamui/retriable) - Retriable is an simple DSL to retry failed code blocks with randomized exponential backoff.
 - [test-prof/test-prof](https://github.com/test-prof/test-prof) - Ruby Tests Profiling Toolbox
@@ -782,7 +784,7 @@
 - [galacticcouncil/HydraDX-node](https://github.com/galacticcouncil/HydraDX-node) - HydraDX node - cross-chain liquidity protocol built on Substrate
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz) - Publish Rust crates from CI with a Release PR.
-- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI-Powered CLI Chat & Copilot that integrates 20+ AI platforms, including OpenAI, Azure-OpenAI, Gemini, Claude, Mistral, Cohere, VertexAI, Bedrock, Ollama, Ernie, Qianwen, Deepseek...
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI CLI tool that integrates 20+ AI platforms, including OpenAI, Azure-OpenAI, Gemini, Claude, Mistral, Cohere, VertexAI, Bedrock, Ollama, Ernie, Qianwen, Deepseek...
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [LaurentMazare/diffusers-rs](https://github.com/LaurentMazare/diffusers-rs) - An implementation of the diffusers api in Rust
 - [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
