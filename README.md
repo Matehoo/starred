@@ -277,7 +277,6 @@
 
 ## JavaScript 
 
-- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.
 - [julianrubisch/attractor](https://github.com/julianrubisch/attractor) - code complexity metrics visualization and exploration tool for ruby and javascript
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [nksaraf/vinxi](https://github.com/nksaraf/vinxi) - The Full Stack JavaScript SDK
@@ -528,6 +527,7 @@
 
 ## Python 
 
+- [aws/aws-sam-cli](https://github.com/aws/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
 - [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations
 - [ipa-lab/hackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT) - Helping Ethical Hackers use LLMs in 50 Lines of Code or less..
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
@@ -959,6 +959,7 @@
 
 ## TypeScript 
 
+- [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [latitude-dev/latitude](https://github.com/latitude-dev/latitude) - Developer-first embedded analytics
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
@@ -1238,6 +1239,7 @@
 
 ## Zig 
 
+- [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The distributed financial transactions database designed for mission critical safety and performance.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
