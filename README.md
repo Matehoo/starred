@@ -914,7 +914,7 @@
 - [Vectorized/multicaller](https://github.com/Vectorized/multicaller) - Efficient multicaller contracts
 - [StErMi/forge-damn-vulnerable-defi](https://github.com/StErMi/forge-damn-vulnerable-defi) - 
 - [nascentxyz/How-to-Foundry](https://github.com/nascentxyz/How-to-Foundry) - 
-- [minaminao/tornado-cats](https://github.com/minaminao/tornado-cats) - A book for learning zero-knowledge applications and decentralized mixing by creating a simple mixer protocol based on Tornado Cash
+- [minaminao/tornado-cats](https://github.com/minaminao/tornado-cats) - A book for learning zero-knowledge applications and decentralized mixing by creating a simple mixer protocol based on Tornado Cash (WIP)
 - [lucas-manuel/invariant-examples](https://github.com/lucas-manuel/invariant-examples) - 
 - [sphinx-labs/chugsplash-foundry](https://github.com/sphinx-labs/chugsplash-foundry) - A Foundry library for deploying and managing upgradeable smart contracts
 - [circlefin/evm-cctp-contracts](https://github.com/circlefin/evm-cctp-contracts) - Official repository for all EVM-compatible smart contracts used by the Cross-Chain Transfer Protocol
@@ -953,7 +953,7 @@
 
 ## Swift 
 
-- [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - Swift native on-device speech recognition with Whisper for Apple Silicon
+- [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - On-device Inference of Whisper Speech Recognition Models for Apple Silicon
 - [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer  🎧
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
 - [justjake/Gauss](https://github.com/justjake/Gauss) - Stable Diffusion macOS native app
@@ -1141,7 +1141,7 @@
 - [kettle11/tangle](https://github.com/kettle11/tangle) - Radically simple multiplayer / networked WebAssembly
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-- [natemoo-re/clack](https://github.com/natemoo-re/clack) - Effortlessly build beautiful command-line apps
+- [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
 - [qiuxiang/solidity-ls](https://github.com/qiuxiang/solidity-ls) - Solidity language server.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [Rubilmax/foundry-storage-check](https://github.com/Rubilmax/foundry-storage-check) - 🔐 Protect your Smart Contract Proxy from storage collisions upon upgrading, by running this action in a CI on each of your Pull Requests!
