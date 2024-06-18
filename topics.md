@@ -597,7 +597,7 @@
 ## continuous-integration 
 
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
-- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 
 ## cpp 
 
@@ -803,7 +803,7 @@
 
 ## deployment 
 
-- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [Ackee-Blockchain/wake](https://github.com/Ackee-Blockchain/wake) - Wake is a Python-based Solidity development and testing framework with built-in vulnerability detectors
 
 ## design 
@@ -818,7 +818,7 @@
 
 ## devops 
 
-- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [encoredev/encore](https://github.com/encoredev/encore) - Encore is the Backend Development Platform purpose-built to help you create event-driven and distributed systems.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -842,7 +842,7 @@
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
-- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [ory/dockertest](https://github.com/ory/dockertest) - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
@@ -1495,7 +1495,7 @@
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
-- [zalando/patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
+- [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
@@ -2336,7 +2336,7 @@
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [shioyama/mobility](https://github.com/shioyama/mobility) - Pluggable Ruby translation framework
-- [zalando/patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
+- [patroni/patroni](https://github.com/patroni/patroni) - A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
