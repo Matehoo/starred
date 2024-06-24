@@ -437,7 +437,7 @@
 - [chinmay-farkya/solidity-notes](https://github.com/chinmay-farkya/solidity-notes) - 
 - [geohot/fromthetransistor](https://github.com/geohot/fromthetransistor) - From the Transistor to the Web Browser, a rough outline for a 12 week course
 - [qosf/awesome-quantum-software](https://github.com/qosf/awesome-quantum-software) - Curated list of open-source quantum software projects.
-- [Cyfrin/foundry-full-course-f23](https://github.com/Cyfrin/foundry-full-course-f23) - 
+- [Cyfrin/foundry-full-course-cu](https://github.com/Cyfrin/foundry-full-course-cu) - 
 - [Cyfrin/audit-report-templating](https://github.com/Cyfrin/audit-report-templating) - 
 - [lurk-lab/awesome-folding](https://github.com/lurk-lab/awesome-folding) - A curated list of zero-knowledge folding schemes
 - [0xcacti/awesome-solidity-dev-tools](https://github.com/0xcacti/awesome-solidity-dev-tools) - Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here!
