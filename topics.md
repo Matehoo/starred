@@ -439,7 +439,8 @@
 - [anoma/namada](https://github.com/anoma/namada) - Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy
 - [Quillhash/EVM-Mastery](https://github.com/Quillhash/EVM-Mastery) - This repository contains list of resources to aid your journey of mastering Ethereum Virtual Machine. If you find any resource missing, you can create a pull request and be a contributor of the projec
 - [Vid201/awesome-ethereum-rust](https://github.com/Vid201/awesome-ethereum-rust) - Awesome Ethereum Rust repos
-- [TalismanSociety/talisman](https://github.com/TalismanSociety/talisman) - Unlock the Paraverse. The Talisman wallet monorepo.
+- [TalismanSociety/talisman](https://github.com/TalismanSociety/talisman) - Multi-Chain Made Easy with Talisman Wallet. An ultra-secure Ethereum and Polkadot wallet for both beginners and pros.
+- [TalismanSociety/talisman-web](https://github.com/TalismanSociety/talisman-web) - Unlock the Paraverse with Talisman Portal. A Polkadot, Kusama & Parachain dashboard for the community.
 - [OffcierCia/ultimate-defi-research-base](https://github.com/OffcierCia/ultimate-defi-research-base) - Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request.
 - [Quillhash/Solidity-Attack-Vectors](https://github.com/Quillhash/Solidity-Attack-Vectors) - This Repository contains list of Common Solidity SmartContract Attack Vectors. If you find any attack vectors missing, you can create a pull request and be a contributor of the project.
 - [use-ink/ink](https://github.com/use-ink/ink) - Polkadot's ink! to write smart contracts.
@@ -533,6 +534,7 @@
 
 ## cli 
 
+- [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
@@ -945,7 +947,7 @@
 - [emilianobonassi/whitehacks-kit](https://github.com/emilianobonassi/whitehacks-kit) - A simple template to perform whitehacks safely
 - [paradigmxyz/cryo](https://github.com/paradigmxyz/cryo) - cryo is the easiest way to extract blockchain data to parquet, csv, json, or python dataframes
 - [dcbuild3r/blockchain-development-guide](https://github.com/dcbuild3r/blockchain-development-guide) - Devpill.me - A Public Good Blockchain Development Guide
-- [TalismanSociety/talisman](https://github.com/TalismanSociety/talisman) - Unlock the Paraverse. The Talisman wallet monorepo.
+- [TalismanSociety/talisman](https://github.com/TalismanSociety/talisman) - Multi-Chain Made Easy with Talisman Wallet. An ultra-secure Ethereum and Polkadot wallet for both beginners and pros.
 - [0xJuancito/multichain-auditor](https://github.com/0xJuancito/multichain-auditor) - Observations and tips checklist for auditing protocols on multiple chains 🧐
 - [OffcierCia/ultimate-defi-research-base](https://github.com/OffcierCia/ultimate-defi-research-base) - Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request.
 - [Quillhash/Solidity-Attack-Vectors](https://github.com/Quillhash/Solidity-Attack-Vectors) - This Repository contains list of Common Solidity SmartContract Attack Vectors. If you find any attack vectors missing, you can create a pull request and be a contributor of the project.
@@ -1871,6 +1873,7 @@
 
 ## others 
 
+- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
 - [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) - machine-readable data for https://awesome-selfhosted.net
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The distributed financial transactions database designed for mission critical safety and performance.
 - [inertiajs/inertia-rails](https://github.com/inertiajs/inertia-rails) - The Rails adapter for Inertia.js.
@@ -2523,7 +2526,7 @@
 - [ill-inc/biomes-game](https://github.com/ill-inc/biomes-game) - Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-- [TalismanSociety/talisman-web](https://github.com/TalismanSociety/talisman-web) - Unlock the Paraverse with Talisman Potal. A Polkadot, Kusama & Parachain dashboard for the community.
+- [TalismanSociety/talisman-web](https://github.com/TalismanSociety/talisman-web) - Unlock the Paraverse with Talisman Portal. A Polkadot, Kusama & Parachain dashboard for the community.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
