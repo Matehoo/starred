@@ -793,7 +793,7 @@
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [max-taylor/Chisel-GPT](https://github.com/max-taylor/Chisel-GPT) - AI-Boosted Solidity REPL
 - [osmosis-labs/beaker](https://github.com/osmosis-labs/beaker) - Beaker helps streamlining CosmWasm development workflow.
-- [galacticcouncil/HydraDX-node](https://github.com/galacticcouncil/HydraDX-node) - HydraDX node - cross-chain liquidity protocol built on Substrate
+- [galacticcouncil/hydration-node](https://github.com/galacticcouncil/hydration-node) - Hydration node - Cross-chain liquidity protocol built with Polkadot-SDK
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [MarcoIeni/release-plz](https://github.com/MarcoIeni/release-plz) - Publish Rust crates from CI with a Release PR.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - AIChat is an all-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, Function Calling, AI Agents, and More.
