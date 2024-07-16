@@ -1887,6 +1887,7 @@
 
 ## others 
 
+- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [goldmansachs/gs-quant](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
 - [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) - machine-readable data for https://awesome-selfhosted.net
@@ -1956,7 +1957,7 @@
 - [unjs/nitro](https://github.com/unjs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 - [lambdaclass/sparkling_water_bootcamp](https://github.com/lambdaclass/sparkling_water_bootcamp) - Public repository for excersices, challenges and all the needs of the Sparkling Water Bootcamp
 - [jasongin/nvs](https://github.com/jasongin/nvs) - Node Version Switcher - A cross-platform tool for switching between versions and forks of Node.js
-- [cschroeter/park-ui](https://github.com/cschroeter/park-ui) - Beautifully designed components built on Ark UI that work for the JS and CSS frameworks of your choice.
+- [cschroeter/park-ui](https://github.com/cschroeter/park-ui) - Beautifully designed components built with Ark UI and Panda CSS that work with a variety of JS frameworks.
 - [paypal/junodb](https://github.com/paypal/junodb) - JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.
 - [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
 - [360Controller/360Controller](https://github.com/360Controller/360Controller) - TattieBogle Xbox 360 Driver (with improvements)
