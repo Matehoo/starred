@@ -744,7 +744,7 @@
 - [toptal/database_validations](https://github.com/toptal/database_validations) - Database validations for ActiveRecord
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 - [digital-fabric/extralite](https://github.com/digital-fabric/extralite) - Ruby on SQLite
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Liveblocks is the platform for adding collaborative editing, comments, and notifications into your application.
@@ -1835,7 +1835,7 @@
 
 ## nosql 
 
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [nestjs/typeorm](https://github.com/nestjs/typeorm) - TypeORM module for Nest framework (node.js)  🍇
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
