@@ -958,6 +958,7 @@
 
 ## Svelte 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 - [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
