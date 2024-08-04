@@ -332,6 +332,7 @@
 - [status-im/status-security](https://github.com/status-im/status-security) - Repository for all Status Network related security information
 - [mourner/rbush](https://github.com/mourner/rbush) - RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
 - [wasm-tool/rollup-plugin-rust](https://github.com/wasm-tool/rollup-plugin-rust) - Rollup plugin for bundling and importing Rust crates.
+- [paulmillr/noble-curves](https://github.com/paulmillr/noble-curves) - Audited & minimal JS implementation of elliptic curve cryptography.
 - [PraneshASP/vscode-solidity-inspector](https://github.com/PraneshASP/vscode-solidity-inspector) - A VSCode extension offering utilities for solidity smart-contract development.
 - [raineorshine/solgraph](https://github.com/raineorshine/solgraph) - Visualize Solidity control flow for smart contract security analysis.  :dollar: ⇆ :dollar:
 - [conduitxyz/optimism-tutorial](https://github.com/conduitxyz/optimism-tutorial) - Build your first app on Optimism!
@@ -1183,7 +1184,6 @@
 - [iway1/react-ts-form](https://github.com/iway1/react-ts-form) - 
 - [denoland/wasmbuild](https://github.com/denoland/wasmbuild) - Build tool to use Rust code in Deno and the browser.
 - [latticexyz/mud](https://github.com/latticexyz/mud) - MUD is a framework for building autonomous worlds
-- [paulmillr/noble-curves](https://github.com/paulmillr/noble-curves) - Audited & minimal JS implementation of elliptic curve cryptography.
 - [7PH/powerglitch](https://github.com/7PH/powerglitch) - Tiny JS library to glitch anything on the web
 - [wslyvh/nexth](https://github.com/wslyvh/nexth) - A Next.js + Ethereum starter kit with Viem, Wagmi, Web3Modal, SIWE, Tailwind, daisyUI and more to quickly ship production-ready Web3 Apps ⚡
 - [ReactiveX/rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
