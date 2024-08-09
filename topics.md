@@ -740,6 +740,7 @@
 
 ## database 
 
+- [DiceDB/dice](https://github.com/DiceDB/dice) - A drop-in replacement of Redis with SQL-based realtime reactivity.
 - [djezzzl/database_consistency](https://github.com/djezzzl/database_consistency) - The tool to avoid various issues due to inconsistencies and inefficiencies between a database schema and application models.
 - [toptal/database_validations](https://github.com/toptal/database_validations) - Database validations for ActiveRecord
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
@@ -1159,6 +1160,7 @@
 
 ## golang 
 
+- [DiceDB/dice](https://github.com/DiceDB/dice) - A drop-in replacement of Redis with SQL-based realtime reactivity.
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -1403,6 +1405,7 @@
 
 ## javascript 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [julianrubisch/attractor](https://github.com/julianrubisch/attractor) - code complexity metrics visualization and exploration tool for ruby and javascript
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
@@ -1465,7 +1468,7 @@
 - [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
-- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [vercel/turbo](https://github.com/vercel/turbo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -2338,6 +2341,7 @@
 
 ## postgresql 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [ankane/pgsync](https://github.com/ankane/pgsync) - Sync data from one Postgres database to another
 - [NikolayS/postgres_dba](https://github.com/NikolayS/postgres_dba) - The missing set of useful tools for Postgres DBAs and all engineers
 - [andyatkinson/pg_scripts](https://github.com/andyatkinson/pg_scripts) - PostgreSQL queries and scripts
@@ -2516,6 +2520,7 @@
 
 ## react 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [latitude-dev/latitude](https://github.com/latitude-dev/latitude) - Developer-first embedded analytics
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
@@ -2885,6 +2890,7 @@
 
 ## sql 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [latitude-dev/latitude](https://github.com/latitude-dev/latitude) - Developer-first embedded analytics
 - [andyatkinson/pg_scripts](https://github.com/andyatkinson/pg_scripts) - PostgreSQL queries and scripts
 - [ankane/blazer](https://github.com/ankane/blazer) - Business intelligence made simple
@@ -2908,11 +2914,13 @@
 
 ## sql-server 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 
 ## sqlite 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [dev-xo/remix-saas](https://github.com/dev-xo/remix-saas) - A Lightweight, Production-Ready Remix Stack for your next SaaS Application.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [digital-fabric/extralite](https://github.com/digital-fabric/extralite) - Ruby on SQLite
@@ -3079,7 +3087,7 @@
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [vercel/turbo](https://github.com/vercel/turbo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
@@ -3164,7 +3172,7 @@
 ## webpack 
 
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
-- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [vercel/turbo](https://github.com/vercel/turbo) - Build system optimized for JavaScript and TypeScript, written in Rust
 
 ## website 
 
