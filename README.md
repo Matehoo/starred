@@ -235,7 +235,7 @@
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [eranyanay/1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) - handling 1M websockets connections in Go
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-- [encoredev/encore](https://github.com/encoredev/encore) - The Backend Development Platform for building distributed systems with automated infrastructure.
+- [encoredev/encore](https://github.com/encoredev/encore) - Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [movio/bramble](https://github.com/movio/bramble) - A federated GraphQL API gateway
 - [rs/seamless](https://github.com/rs/seamless) - Seamless restart / zero-downtime deploy for Go servers
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
@@ -280,7 +280,7 @@
 - [kairosdb/kairosdb](https://github.com/kairosdb/kairosdb) - Fast scalable time series database
 - [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is an open source time-series database for fast ingest and SQL queries
-- [apache/cassandra](https://github.com/apache/cassandra) - Mirror of Apache Cassandra
+- [apache/cassandra](https://github.com/apache/cassandra) - Apache Cassandra®
 - [mathgladiator/adama-lang](https://github.com/mathgladiator/adama-lang) - A headless spreadsheet document container service.
 
 ## JavaScript 
