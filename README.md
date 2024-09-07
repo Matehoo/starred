@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -50,6 +51,10 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [Zig](#zig)
+
+## Astro 
+
+- [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) - 
 
 ## C 
 
@@ -179,7 +184,7 @@
 
 ## Go 
 
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory database hyper-optimized for building real-time applications with SQL-based real-time reactivity baked in.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory database for building real-time applications with SQL-based real-time reactivity.
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
@@ -706,7 +711,7 @@
 - [CanCanCommunity/cancancan](https://github.com/CanCanCommunity/cancancan) - The authorization Gem for Ruby on Rails.
 - [vcr/vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
 - [ddnexus/pagy](https://github.com/ddnexus/pagy) - 🏆 The Best Pagination Ruby Gem 🥇
-- [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open Source Alternative to Hightouch, Census, and RudderStack - Reverse ETL & Customer Data Platform (CDP)
+- [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open Source Alternative to Hightouch, Census, and RudderStack - Reverse ETL & Data Activation
 - [pay-rails/pay](https://github.com/pay-rails/pay) - Payments for Ruby on Rails apps
 - [gregnavis/active_record_doctor](https://github.com/gregnavis/active_record_doctor) - Identify database issues before they hit production.
 - [lostisland/faraday](https://github.com/lostisland/faraday) - Simple, but flexible HTTP client library, with support for multiple backends.
