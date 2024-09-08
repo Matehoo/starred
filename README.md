@@ -184,7 +184,7 @@
 
 ## Go 
 
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an in-memory database for building real-time applications with SQL-based real-time reactivity.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is hyper-optimized for building and scaling truly real-time applications on modern hardware. It is a drop-in replacement for Redis with support for SQL-based reactivity.
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
@@ -824,7 +824,7 @@
 - [hawkw/tinymetrics](https://github.com/hawkw/tinymetrics) - a minimal, allocation-free Prometheus/OpenMetrics metrics implementation for `no-std` and embedded Rust.
 - [64bit/async-openai](https://github.com/64bit/async-openai) - Rust library for OpenAI
 - [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance
-- [spider-rs/spider](https://github.com/spider-rs/spider) - The fastest, most efficient web crawler and scraper written in Rust.
+- [spider-rs/spider](https://github.com/spider-rs/spider) - Efficient Web Crawler and Scraper with AI Integration in Rust
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [nymtech/nym](https://github.com/nymtech/nym) - Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.
@@ -986,6 +986,8 @@
 
 ## TypeScript 
 
+- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
+- [webdevcody/wdc-saas-starter-kit](https://github.com/webdevcody/wdc-saas-starter-kit) - 
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
