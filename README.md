@@ -360,9 +360,8 @@
 - [Haehnchen/crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition)
 - [compound-developers/api-guide-example](https://github.com/compound-developers/api-guide-example) - Example Ethereum smart contract API made with Express.js and Infura.
 - [single-spa/single-spa](https://github.com/single-spa/single-spa) - The router for easy microfrontends
-- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [le0pard/pgtune](https://github.com/le0pard/pgtune) - Pgtune - tuning PostgreSQL config by your hardware
 
@@ -567,7 +566,7 @@
 - [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations
 - [ipa-lab/hackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT) - Helping Ethical Hackers use LLMs in 50 Lines of Code or less..
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts in-depth web research on any given topic
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts in-depth local and web research on any given topic
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
@@ -973,6 +972,7 @@
 - [dragonfly-xyz/useful-solidity-patterns](https://github.com/dragonfly-xyz/useful-solidity-patterns) - 
 - [1inch/1inch-token](https://github.com/1inch/1inch-token) - 
 - [OlympusDAO/olympus-contracts](https://github.com/OlympusDAO/olympus-contracts) - 
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 
 ## Starlark 
 
@@ -1103,7 +1103,7 @@
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [Olanetsoft/article-idea-generator](https://github.com/Olanetsoft/article-idea-generator) - Generate your next article idea with ease. Powered by OpenAI.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
-- [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with Mixtral and GPT-3.5.
+- [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with AI
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [terraforming-mars/terraforming-mars](https://github.com/terraforming-mars/terraforming-mars) - Terraforming Mars Boardgame
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
