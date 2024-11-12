@@ -355,6 +355,7 @@
 
 ## automation 
 
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts local and web research on any topic and generates a comprehensive report with citations.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
@@ -579,6 +580,7 @@
 
 ## cli 
 
+- [inngest/inngest](https://github.com/inngest/inngest) - A scalable, event-driven durable execution platform.  Run stateful step functions functions deployed to serverless, servers, or the edge.
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -783,7 +785,7 @@
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The Convex open-source backend
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.
 - [djezzzl/database_consistency](https://github.com/djezzzl/database_consistency) - The tool to avoid various issues due to inconsistencies and inefficiencies between a database schema and application models.
 - [toptal/database_validations](https://github.com/toptal/database_validations) - Database validations for ActiveRecord
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
@@ -1227,7 +1229,7 @@
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [go-gorm/gen](https://github.com/go-gorm/gen) - Gen:  Friendly & Safer GORM powered by Code Generation
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -1299,7 +1301,7 @@
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [glpi-project/glpi](https://github.com/glpi-project/glpi) - GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 - [test-prof/test-prof](https://github.com/test-prof/test-prof) - Ruby Tests Profiling Toolbox
@@ -1342,7 +1344,6 @@
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [oracle/truffleruby](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language, built on GraalVM.
-- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [braintree/pg_column_byte_packer](https://github.com/braintree/pg_column_byte_packer) - Auto-order table columns for optimize disk space usage
@@ -1841,6 +1842,7 @@
 
 ## nextjs 
 
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
@@ -2991,6 +2993,8 @@
 
 ## serverless 
 
+- [inngest/inngest](https://github.com/inngest/inngest) - A scalable, event-driven durable execution platform.  Run stateful step functions functions deployed to serverless, servers, or the edge.
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [aws/aws-sam-cli](https://github.com/aws/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
