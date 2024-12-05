@@ -1126,6 +1126,7 @@
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [Nutlope/twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio with AI
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
+- [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [terraforming-mars/terraforming-mars](https://github.com/terraforming-mars/terraforming-mars) - Terraforming Mars Boardgame
 - [ill-inc/biomes-game](https://github.com/ill-inc/biomes-game) - Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly.
 - [a16z-infra/ai-town](https://github.com/a16z-infra/ai-town) - A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
