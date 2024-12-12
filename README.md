@@ -294,7 +294,7 @@
 - [stargate/stargate](https://github.com/stargate/stargate) - An open source data gateway
 - [kairosdb/kairosdb](https://github.com/kairosdb/kairosdb) - Fast scalable time series database
 - [OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk
-- [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is an open source time-series database for fast ingest and SQL queries
+- [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
 - [apache/cassandra](https://github.com/apache/cassandra) - Apache Cassandra®
 - [mathgladiator/adama-lang](https://github.com/mathgladiator/adama-lang) - A headless spreadsheet document container service.
 
@@ -472,7 +472,7 @@
 - [qosf/awesome-quantum-software](https://github.com/qosf/awesome-quantum-software) - Curated list of open-source quantum software projects.
 - [Cyfrin/foundry-full-course-cu](https://github.com/Cyfrin/foundry-full-course-cu) - 
 - [Cyfrin/audit-report-templating](https://github.com/Cyfrin/audit-report-templating) - 
-- [argumentcomputer/awesome-folding](https://github.com/argumentcomputer/awesome-folding) - A curated list of zero-knowledge folding schemes
+- [lurk-lab/awesome-folding](https://github.com/lurk-lab/awesome-folding) - A curated list of zero-knowledge folding schemes
 - [0xcacti/awesome-solidity-dev-tools](https://github.com/0xcacti/awesome-solidity-dev-tools) - Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here!
 - [hoodie/awesome-rust-testing](https://github.com/hoodie/awesome-rust-testing) - 😎 Curated list of awesome things regarding Rust Testing
 - [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) - A curated list to learn about distributed systems
@@ -1191,7 +1191,7 @@
 - [kodadot/loligo](https://github.com/kodadot/loligo) - Common good repository for Squid indexers in KodaDot
 - [kodadot/workers](https://github.com/kodadot/workers) - Implementation of Cloudflare Workers in KodaDot
 - [infi-pc/locatorjs](https://github.com/infi-pc/locatorjs) - 
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - Come join the best place on the internet to learn AI skills. Use code "chatbotui" for an extra 20% off.
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [AztecProtocol/aztec-connect](https://github.com/AztecProtocol/aztec-connect) - aztec connect repository
@@ -1200,7 +1200,7 @@
 - [huggingface/huggingface.js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face Hub API
 - [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum
 - [Uniswap/wallet](https://github.com/Uniswap/wallet) - Uniswap Wallet is the simplest, safest, and most powerful self-custodial crypto wallet. It is developed by the Uniswap Labs team, inventors of the Uniswap Protocol.
-- [mckaywrigley/paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt) - Come join the best place on the internet to learn AI skills. Use code "paulgrahamgpt" for an extra 20% off.
+- [mckaywrigley/paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt) - RAG on Paul Graham's essays.
 - [walnutwaldo/enhanceai-react](https://github.com/walnutwaldo/enhanceai-react) - React wrapper for EnhanceAI (enhanceai.dev), a library for enhancing web app text input with AI autocomplete.
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
 - [emilwidlund/nodl](https://github.com/emilwidlund/nodl) - A framework for computational node graphs.
