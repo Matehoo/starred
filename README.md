@@ -1014,6 +1014,7 @@
 
 ## Swift 
 
+- [Shopify/tophat](https://github.com/Shopify/tophat) - Easily install and test mobile applications with a single click.
 - [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - On-device Speech Recognition for Apple Silicon
 - [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer  🎧
 - [evanw/thumbhash](https://github.com/evanw/thumbhash) - A very compact representation of an image placeholder
@@ -1024,6 +1025,7 @@
 
 ## TypeScript 
 
+- [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [ethanniser/NextFaster](https://github.com/ethanniser/NextFaster) - A highly performant e-commerce template using Next.js
 - [mlynch/nextjs-tailwind-ionic-capacitor-starter](https://github.com/mlynch/nextjs-tailwind-ionic-capacitor-starter) - A starting point for building an iOS, Android, and Progressive Web App with Tailwind CSS, React w/  Next.js, Ionic Framework, and Capacitor
