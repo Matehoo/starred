@@ -76,6 +76,7 @@
 - [eslint](#eslint)
 - [ethereum](#ethereum)
 - [express](#express)
+- [facebook](#facebook)
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -244,7 +245,7 @@
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
-- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight framework for building multi-modal Agents
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
@@ -343,7 +344,7 @@
 - [lazaronixon/authentication-zero](https://github.com/lazaronixon/authentication-zero) - An authentication system generator for Rails applications.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [kemalcr/kemal](https://github.com/kemalcr/kemal) - Fast, Effective, Simple Web Framework
@@ -484,7 +485,7 @@
 - [OffcierCia/ultimate-defi-research-base](https://github.com/OffcierCia/ultimate-defi-research-base) - Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request.
 - [frankiefab100/Blockchain-Development-Resources](https://github.com/frankiefab100/Blockchain-Development-Resources) - The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol.
 - [paulmillr/noble-curves](https://github.com/paulmillr/noble-curves) - Audited & minimal JS implementation of elliptic curve cryptography.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 
 ## blockchain 
 
@@ -532,7 +533,7 @@
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [poketwo/poketwo](https://github.com/poketwo/poketwo) - A (not so) small Pokécord clone.
 - [Haehnchen/crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition)
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 
 ## c 
 
@@ -704,7 +705,7 @@
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [polkadot-developers/awesome-substrate](https://github.com/polkadot-developers/awesome-substrate) - A curated list of awesome projects and resources related to the Substrate blockchain development framework.
 - [Haehnchen/crypto-trading-bot](https://github.com/Haehnchen/crypto-trading-bot) - Cryptocurrency trading bot in javascript for Bitfinex, Bitmex, Binance, Bybit ... (public edition)
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [PositionExchange/position-protocol](https://github.com/PositionExchange/position-protocol) - Position Exchange Protocol
 
 ## cryptography 
@@ -743,7 +744,7 @@
 - [rtivital/omatsuri](https://github.com/rtivital/omatsuri) - PWA with 12 open source frontend focused tools
 - [Afif13/CSS-Pattern](https://github.com/Afif13/CSS-Pattern) - A collection of background patterns powered by CSS gradients
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-- [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight library of UI components without any CSS framework dependency
+- [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight Vue.js UI component library without any CSS dependency
 - [sailboatui/sailboatui](https://github.com/sailboatui/sailboatui) - Sailboat UI is a modern UI component library for Tailwind CSS
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [7PH/powerglitch](https://github.com/7PH/powerglitch) - Tiny JS library to glitch anything on the web
@@ -926,7 +927,7 @@
 
 ## django 
 
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 
 ## docker 
 
@@ -935,7 +936,7 @@
 - [unikraft/kraftkit](https://github.com/unikraft/kraftkit) - Build and use highly customized and ultra-lightweight unikernel VMs.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [aws/aws-sam-cli](https://github.com/aws/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -1103,7 +1104,7 @@
 - [coinspect/learn-evm-attacks](https://github.com/coinspect/learn-evm-attacks) - Learn and contribute by exploring blockchain attacks in detail. Maintained by Coinspect smart contract audit team, renowned for their top-tier smart contract audit services.
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [CADLabs/ethereum-economic-model](https://github.com/CADLabs/ethereum-economic-model) - A modular dynamical-systems model of Ethereum's validator economics
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [trufflesuite/truffle](https://github.com/trufflesuite/truffle) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
 - [manojpramesh/solidity-cheatsheet](https://github.com/manojpramesh/solidity-cheatsheet) - Cheat sheet and best practices for solidity. Write smart contracts for Ethereum.
@@ -1117,6 +1118,10 @@
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
+
+## facebook 
+
+- [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 
 ## finance 
 
@@ -1195,7 +1200,7 @@
 - [rtivital/omatsuri](https://github.com/rtivital/omatsuri) - PWA with 12 open source frontend focused tools
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
-- [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight library of UI components without any CSS framework dependency
+- [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight Vue.js UI component library without any CSS dependency
 
 ## game 
 
@@ -1542,6 +1547,7 @@
 ## javascript 
 
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
+- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Let AI be your browser operator.
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
@@ -1576,6 +1582,7 @@
 - [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
+- [thisismydesign/next-nest](https://github.com/thisismydesign/next-nest) - Next.js + NestJS MVC monolith for rapid development with battle-tested standards.
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
@@ -1600,7 +1607,7 @@
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
-- [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight library of UI components without any CSS framework dependency
+- [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight Vue.js UI component library without any CSS dependency
 - [mourner/rbush](https://github.com/mourner/rbush) - RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [7PH/powerglitch](https://github.com/7PH/powerglitch) - Tiny JS library to glitch anything on the web
@@ -1690,7 +1697,7 @@
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [zkat/cacache-rs](https://github.com/zkat/cacache-rs) - A high-performance, concurrent, content-addressable disk cache, with support for both sync and async APIs. 💩💵 but for your 🦀
 - [7PH/powerglitch](https://github.com/7PH/powerglitch) - Tiny JS library to glitch anything on the web
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 
 ## linux 
 
@@ -1906,7 +1913,7 @@
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev is the open source background jobs platform.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
@@ -2556,7 +2563,7 @@
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - 🤖 Open-source GenBI AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, and BI. 📈📊📋🧑‍💻
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
@@ -2633,7 +2640,7 @@
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [Worklenz/worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
 
 ## publishing 
@@ -2655,7 +2662,7 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [aws/aws-sam-cli](https://github.com/aws/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations
@@ -2667,7 +2674,7 @@
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
-- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight framework for building multi-modal Agents
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
@@ -2753,12 +2760,11 @@
 ## react 
 
 - [mlynch/nextjs-tailwind-ionic-capacitor-starter](https://github.com/mlynch/nextjs-tailwind-ionic-capacitor-starter) - A starting point for building an iOS, Android, and Progressive Web App with Tailwind CSS, React w/  Next.js, Ionic Framework, and Capacitor
-- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Let AI be your browser operator.
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [latitude-dev/latitude](https://github.com/latitude-dev/latitude) - Developer-first embedded analytics
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -2879,7 +2885,7 @@
 
 ## rest-api 
 
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [Worklenz/worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
@@ -3023,7 +3029,7 @@
 ## sass 
 
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
-- [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight library of UI components without any CSS framework dependency
+- [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight Vue.js UI component library without any CSS dependency
 - [Famolus/awesome-sass](https://github.com/Famolus/awesome-sass) - 🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.
 
 ## security 
@@ -3078,6 +3084,7 @@
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [bonfire-networks/bonfire-app](https://github.com/bonfire-networks/bonfire-app) - Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 
 ## server 
 
@@ -3285,7 +3292,7 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
-- [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight library of UI components without any CSS framework dependency
+- [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight Vue.js UI component library without any CSS dependency
 - [sailboatui/sailboatui](https://github.com/sailboatui/sailboatui) - Sailboat UI is a modern UI component library for Tailwind CSS
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
@@ -3333,11 +3340,10 @@
 
 ## typescript 
 
-- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Let AI be your browser operator.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [alii/pathcat](https://github.com/alii/pathcat) - Simply path/URL building in JavaScript
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
@@ -3461,7 +3467,7 @@
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
-- [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight library of UI components without any CSS framework dependency
+- [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight Vue.js UI component library without any CSS dependency
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [vuesion/vuesion](https://github.com/vuesion/vuesion) - Vuesion is a boilerplate that empowers product teams to build faster with modern best practices across engineering and design. It features a full-stack framework, comprehensive design system, robust t
@@ -3471,13 +3477,12 @@
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-- [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight library of UI components without any CSS framework dependency
+- [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight Vue.js UI component library without any CSS dependency
 - [vue-polkadot/apps](https://github.com/vue-polkadot/apps) - wallet & governance dashboard for Polkadot & substrate-based networks in VueJS
 - [vuesion/vuesion](https://github.com/vuesion/vuesion) - Vuesion is a boilerplate that empowers product teams to build faster with modern best practices across engineering and design. It features a full-stack framework, comprehensive design system, robust t
 
 ## web 
 
-- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Let AI be your browser operator.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
