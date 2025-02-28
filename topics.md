@@ -13,6 +13,7 @@
 - [android](#android)
 - [angular](#angular)
 - [api](#api)
+- [archlinux](#archlinux)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
@@ -102,6 +103,7 @@
 - [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
+- [homebrew](#homebrew)
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
@@ -260,7 +262,7 @@
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is a framework for creating LLM services with memory.
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
-- [modular/mojo](https://github.com/modular/mojo) - The Mojo Programming Language
+- [modular/max](https://github.com/modular/max) - The MAX Platform (includes Mojo)
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AGI's query engine - Platform for building AI that can learn and answer questions over federated data.
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
@@ -356,6 +358,10 @@
 - [encoredev/encore](https://github.com/encoredev/encore) - Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [absinthe-graphql/absinthe](https://github.com/absinthe-graphql/absinthe) - The GraphQL toolkit for Elixir
+
+## archlinux 
+
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 
 ## arduino 
 
@@ -890,6 +896,7 @@
 
 ## deno 
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [open-source-labs/obsidian](https://github.com/open-source-labs/obsidian) - GraphQL, built for Deno - a native GraphQL caching client and server module
@@ -933,6 +940,7 @@
 
 ## docker 
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
 - [unikraft/kraftkit](https://github.com/unikraft/kraftkit) - Build and use highly customized and ultra-lightweight unikernel VMs.
@@ -1252,6 +1260,7 @@
 
 ## go 
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [unikraft/kraftkit](https://github.com/unikraft/kraftkit) - Build and use highly customized and ultra-lightweight unikernel VMs.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
@@ -1288,6 +1297,7 @@
 
 ## golang 
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 - [sandialabs/wiretap](https://github.com/sandialabs/wiretap) - Wiretap is a transparent, VPN-like proxy server that tunnels traffic via WireGuard and requires no special privileges to run.
 - [unikraft/kraftkit](https://github.com/unikraft/kraftkit) - Build and use highly customized and ultra-lightweight unikernel VMs.
@@ -1359,6 +1369,7 @@
 
 ## hacktoberfest 
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [CodingChallengesFYI/SharedSolutions](https://github.com/CodingChallengesFYI/SharedSolutions) - Publicly shared solutions to Coding Challenges
@@ -1472,6 +1483,10 @@
 - [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
+
+## homebrew 
+
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 
 ## html 
 
@@ -1685,7 +1700,7 @@
 
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
-- [modular/mojo](https://github.com/modular/mojo) - The Mojo Programming Language
+- [modular/max](https://github.com/modular/max) - The MAX Platform (includes Mojo)
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [leafo/moonscript](https://github.com/leafo/moonscript) - :crescent_moon: A language that compiles to Lua
@@ -1787,7 +1802,7 @@
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [modular/mojo](https://github.com/modular/mojo) - The Mojo Programming Language
+- [modular/max](https://github.com/modular/max) - The MAX Platform (includes Mojo)
 - [m1guelpf/tinyvector](https://github.com/m1guelpf/tinyvector) - A tiny embedding database in pure Rust.
 - [mosaicml/composer](https://github.com/mosaicml/composer) - Supercharge Your Model Training
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
@@ -2867,6 +2882,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
+- [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact: The AR and VR library for React Native 📳💙💛🤍💚
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
@@ -2953,6 +2969,7 @@
 
 ## rust 
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
@@ -3557,6 +3574,7 @@
 
 ## zig 
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
