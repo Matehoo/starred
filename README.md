@@ -79,7 +79,6 @@
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [RedisLabs/redisraft](https://github.com/RedisLabs/redisraft) - A Redis Module that make it possible to create a consistent Raft cluster from multiple Redis instances.
 - [ntcaston/AngryGL](https://github.com/ntcaston/AngryGL) - 
-- [atomvm/AtomVM](https://github.com/atomvm/AtomVM) - Tiny Erlang VM
 
 ## C# # 
 
@@ -188,6 +187,7 @@
 ## Erlang 
 
 - [processone/ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)
+- [atomvm/AtomVM](https://github.com/atomvm/AtomVM) - Tiny Erlang VM
 
 ## Go 
 
