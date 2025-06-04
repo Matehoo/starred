@@ -613,7 +613,7 @@
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight, high-performance library for building Agents.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
@@ -1039,7 +1039,7 @@
 
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
 - [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday.
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
@@ -1305,7 +1305,7 @@
 - [polkadot-js/apps](https://github.com/polkadot-js/apps) - Basic Polkadot/Substrate UI for interacting with a Polkadot and Substrate node. This is the main user-facing application, allowing access to all features available on Substrate chains.
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
-- [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
+- [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate 
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [subsquid/squid-sdk](https://github.com/subsquid/squid-sdk) - The main repo of the squid SDK
