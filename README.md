@@ -32,6 +32,7 @@
 - [Mojo](#mojo)
 - [Move](#move)
 - [Nim](#nim)
+- [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
@@ -430,7 +431,6 @@
 
 ## Makefile 
 
-- [Airsequel/awesome-sqlite](https://github.com/Airsequel/awesome-sqlite) - A curated list of software, services, and resources for SQLite
 - [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) - machine-readable data for https://awesome-selfhosted.net
 
 ## Markdown 
@@ -458,6 +458,10 @@
 ## Nim 
 
 - [metacraft-labs/py2nim_deprecated](https://github.com/metacraft-labs/py2nim_deprecated) - 
+
+## Nix 
+
+- [Airsequel/awesome-sqlite](https://github.com/Airsequel/awesome-sqlite) - A curated list of software, services, and resources for SQLite
 
 ## Others 
 
