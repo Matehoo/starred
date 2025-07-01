@@ -2229,7 +2229,7 @@
 - [unused-code/unused](https://github.com/unused-code/unused) - A tool to identify potentially unused code.
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
-- [tembo-io/tembo](https://github.com/tembo-io/tembo) - Goodbye Database Sprawl, Hello Postgres.
+- [tembo/tembo](https://github.com/tembo/tembo) - Goodbye Database Sprawl, Hello Postgres.
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [ashleyrudland/nextjs_vps](https://github.com/ashleyrudland/nextjs_vps) - NextJS VPS Example
 - [mbuhot/ecto_job](https://github.com/mbuhot/ecto_job) - Transactional job queue with Ecto, PostgreSQL and GenStage
