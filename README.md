@@ -115,7 +115,6 @@
 
 ## CSS 
 
-- [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS
 - [lcfr-eth/FlashbotsBundlerUI](https://github.com/lcfr-eth/FlashbotsBundlerUI) - 
 - [robinpokorny/git3moji](https://github.com/robinpokorny/git3moji) - :zap::bug::tv::cop::abc: A simple three-letter (or less) emoji standard for expressive commit messages
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
@@ -1030,6 +1029,7 @@
 
 ## Svelte 
 
+- [themesberg/flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
@@ -1049,6 +1049,7 @@
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
 - [voideditor/void](https://github.com/voideditor/void) - 
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
 - [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday.
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
@@ -1173,7 +1174,7 @@
 - [astriaai/headshots-starter](https://github.com/astriaai/headshots-starter) - 
 - [proto-kit/framework](https://github.com/proto-kit/framework) - 
 - [proto-kit/starter-kit](https://github.com/proto-kit/starter-kit) - Starter kit for privacy enabled application chains
-- [smallbraingames/onchain-pwa-starter](https://github.com/smallbraingames/onchain-pwa-starter) - A starter kit for an onchain app with a  mobile progressive web app (PWA) frontend using Privy for auth and MUD for synced frontend state & contract development
+- [smallbraineng/onchain-pwa-starter](https://github.com/smallbraineng/onchain-pwa-starter) - A starter kit for an onchain app with a  mobile progressive web app (PWA) frontend using Privy for auth and MUD for synced frontend state & contract development
 - [typehero/typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers
 - [Olanetsoft/article-idea-generator](https://github.com/Olanetsoft/article-idea-generator) - Generate your next article idea with ease. Powered by OpenAI.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
