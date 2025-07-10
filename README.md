@@ -1159,7 +1159,7 @@
 - [nitrojs/nitro](https://github.com/nitrojs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [cschroeter/park-ui](https://github.com/cschroeter/park-ui) - Beautifully designed components built with Ark UI and Panda CSS that work with a variety of JS frameworks.
-- [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️
+- [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Design Systems ⚡️
 - [epicweb-dev/invariant](https://github.com/epicweb-dev/invariant) - Type safe utilities for throwing errors (and responses) in exceptional situations in a declarative way.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click in
 - [rektbuildr/lecce-libre](https://github.com/rektbuildr/lecce-libre) - Lecce Libre : A tracker-free, privacy oriented fork of Ledger Live
