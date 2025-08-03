@@ -809,6 +809,7 @@
 
 ## Rust 
 
+- [honeycombio/gritql](https://github.com/honeycombio/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative.
 - [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source alternative to Durable Objects. Rivet Actors provide long-lived processes with durable state, realtime, and scalability.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
@@ -1048,7 +1049,7 @@
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: 
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our 
 - [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday.
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
@@ -1056,7 +1057,7 @@
 - [upstash/jstack](https://github.com/upstash/jstack) - Build seriously fast, lightweight and end-to-end typesafe Next.js apps
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - ⚡️Wren AI is your GenBI Agent, that you can query any database with natural language, get accurate SQL(Text-to-SQL), charts(Text-to-Charts) & AI-generated insights in seconds.
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - AI-powered Generative Business Intelligence (GenBI) — Query any database in natural language, generate accurate SQL (Text-to-SQL), charts (Text-to-chart), and insights in seconds.
 - [Shopify/flash-list](https://github.com/Shopify/flash-list) - A better list for React Native
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [ethanniser/NextFaster](https://github.com/ethanniser/NextFaster) - A highly performant e-commerce template using Next.js
