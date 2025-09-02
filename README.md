@@ -194,6 +194,7 @@
 
 ## Go 
 
+- [destel/rill](https://github.com/destel/rill) - Go toolkit for clean, composable, channel-based concurrency
 - [RezaSi/go-interview-practice](https://github.com/RezaSi/go-interview-practice) - Interactive Go Interview Platform - 30+ coding challenges with instant feedback, AI interview simulation, competitive leaderboards, and automated testing. From beginner to advanced levels with real-wo
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
@@ -311,6 +312,7 @@
 
 ## JavaScript 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
@@ -470,8 +472,6 @@
 - [CodingChallengesFYI/SharedSolutions](https://github.com/CodingChallengesFYI/SharedSolutions) - Publicly shared solutions to Coding Challenges
 - [atc1441/ATC_RF03_Ring](https://github.com/atc1441/ATC_RF03_Ring) - Findings and custom firmware for the Colmi R02 (and similar) Smart Ring with RF03 BlueX SoC
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
-- [mlc-ai/binary-mlc-llm-libs](https://github.com/mlc-ai/binary-mlc-llm-libs) - 
-- [tembo/tembo](https://github.com/tembo/tembo) - Tembo CLI is the universal CLI for coding agents, with usage tracking and cloud execution.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - Newsletter to help busy software engineers become good at system design 👇
 - [jixserver/free-for-dev](https://github.com/jixserver/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -589,6 +589,7 @@
 
 ## Python 
 
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
 - [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
 - [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
@@ -608,6 +609,7 @@
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
+- [mlc-ai/binary-mlc-llm-libs](https://github.com/mlc-ai/binary-mlc-llm-libs) - 
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [aws/aws-sam-cli](https://github.com/aws/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
 - [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations
@@ -629,12 +631,12 @@
 - [K3YOMI/Wall-of-Flippers](https://github.com/K3YOMI/Wall-of-Flippers) - A simple and easy way to find Flipper Zero Devices and Bluetooth Low Energy Based Attacks
 - [aymenfurter/microagents](https://github.com/aymenfurter/microagents) - Agents Capable of Self-Editing Their Prompts / Python Code
 - [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering
-- [kernc/backtesting.py](https://github.com/kernc/backtesting.py) - :mag_right: :chart_with_upwards_trend: :snake: :moneybag:  Backtest trading strategies in Python.
+- [kernc/backtesting.py](https://github.com/kernc/backtesting.py) - 🔎 📈 🐍 💰  Backtest trading strategies in Python.
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
-- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management.
+- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [abacaj/fine-tune-mistral](https://github.com/abacaj/fine-tune-mistral) - Fine-tune mistral-7B on 3090s, a100s, h100s
@@ -1047,6 +1049,7 @@
 
 ## TypeScript 
 
+- [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -1094,10 +1097,11 @@
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
+- [tembo/tembo](https://github.com/tembo/tembo) - one cli, all the coding agents
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [ashleyrudland/nextjs_vps](https://github.com/ashleyrudland/nextjs_vps) - NextJS VPS Example
 - [souporserious/restyle](https://github.com/souporserious/restyle) - The simplest way to add CSS styles to your React components.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is the leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [Worklenz/worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
 - [dev-xo/remix-saas](https://github.com/dev-xo/remix-saas) - A Lightweight, Production-Ready Remix Stack for your next SaaS application.
