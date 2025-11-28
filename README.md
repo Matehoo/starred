@@ -332,7 +332,6 @@
 - [craig1123/react-recipes](https://github.com/craig1123/react-recipes) - 👩‍🍳 A list of React Hooks utility library containing popular customized hooks
 - [QuiiBz/sherif](https://github.com/QuiiBz/sherif) - Opinionated, zero-config linter for TypeScript & JavaScript monorepos
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [jasongin/nvs](https://github.com/jasongin/nvs) - Node Version Switcher - A cross-platform tool for switching between versions and forks of Node.js
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 - [c6fc/npk](https://github.com/c6fc/npk) - A mostly-serverless distributed hash cracking platform
@@ -1365,6 +1364,7 @@
 ## Vue 
 
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [kodadot/nft-gallery](https://github.com/kodadot/nft-gallery) - Generative Art Marketplace
 - [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight Vue.js UI component library without any CSS dependency
 - [jordihales/hypercolor](https://github.com/jordihales/hypercolor) - A curated collection of beautiful premade gradients using default colors from the Tailwind palette as well as a selection of custom color gradients.
@@ -1380,7 +1380,7 @@
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 
 
 ## License
