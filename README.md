@@ -142,7 +142,7 @@
 ## Dart 
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
+- [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
@@ -304,7 +304,6 @@
 - [bogkonstantin/android_income_sms_gateway_webhook](https://github.com/bogkonstantin/android_income_sms_gateway_webhook) - Simple Android incoming SMS to URL forwarder
 - [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact is the leading library for building AR and VR experiences and applications using React Native and Expo.
 - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [aress31/burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities and enables running traffic-based analysis of any type.
 - [stargate/stargate](https://github.com/stargate/stargate) - An open source data gateway
 - [kairosdb/kairosdb](https://github.com/kairosdb/kairosdb) - Fast scalable time series database
@@ -333,6 +332,7 @@
 - [craig1123/react-recipes](https://github.com/craig1123/react-recipes) - 👩‍🍳 A list of React Hooks utility library containing popular customized hooks
 - [QuiiBz/sherif](https://github.com/QuiiBz/sherif) - Opinionated, zero-config linter for TypeScript & JavaScript monorepos
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [jasongin/nvs](https://github.com/jasongin/nvs) - Node Version Switcher - A cross-platform tool for switching between versions and forks of Node.js
 - [facebook/stylex](https://github.com/facebook/stylex) - StyleX is the styling system for ambitious user interfaces.
 - [c6fc/npk](https://github.com/c6fc/npk) - A mostly-serverless distributed hash cracking platform
@@ -625,7 +625,7 @@
 - [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The open-source stack for building, running and managing multi-agent systems.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
@@ -745,6 +745,7 @@
 
 ## Ruby 
 
+- [basecamp/fizzy-saas](https://github.com/basecamp/fizzy-saas) - Fizzy SaaS version
 - [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - 
 - [MiniProfiler/rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) - Profiler for your development and production Ruby rack apps.
 - [ankane/pgsync](https://github.com/ankane/pgsync) - Sync data from one Postgres database to another
@@ -1172,6 +1173,7 @@
 - [nitrojs/nitro](https://github.com/nitrojs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [chakra-ui/park-ui](https://github.com/chakra-ui/park-ui) - Beautifully designed components built with Ark UI and Panda CSS that work with a variety of JS frameworks.
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [chakra-ui/panda](https://github.com/chakra-ui/panda) - 🐼 Universal, Type-Safe, CSS-in-JS Framework for Design Systems ⚡️
 - [epicweb-dev/invariant](https://github.com/epicweb-dev/invariant) - Type safe utilities for throwing errors (and responses) in exceptional situations in a declarative way.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
@@ -1368,7 +1370,6 @@
 ## Vue 
 
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [kodadot/nft-gallery](https://github.com/kodadot/nft-gallery) - Generative Art Marketplace
 - [oruga-ui/oruga](https://github.com/oruga-ui/oruga) - 🐛 Oruga is a lightweight Vue.js UI component library without any CSS dependency
 - [jordihales/hypercolor](https://github.com/jordihales/hypercolor) - A curated collection of beautiful premade gradients using default colors from the Tailwind palette as well as a selection of custom color gradients.
