@@ -102,6 +102,7 @@
 - [gamedev](#gamedev)
 - [games](#games)
 - [gaming](#gaming)
+- [generative-ai](#generative-ai)
 - [gis](#gis)
 - [git](#git)
 - [github](#github)
@@ -285,7 +286,7 @@
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, YouTube, GitHub, Discord, and more.  Join our Discord: https://discord.g
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai
-- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Your AI Operator for Web, Android, Automation & Testing.
+- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Driving all platforms UI automation with vision-based model
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
@@ -302,7 +303,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for building, running and managing multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
@@ -350,7 +351,7 @@
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - The best apps in the AI era aren’t solo experiences—they’re collaborative. Liveblocks provides customizable pre‑built features to make your product multiplayer, engaging, and AI‑ready. All without der
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for building, running and managing multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -399,7 +400,7 @@
 ## android 
 
 - [Shopify/tophat](https://github.com/Shopify/tophat) - Easily install and test mobile applications with a single click.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
 - [bogkonstantin/android_income_sms_gateway_webhook](https://github.com/bogkonstantin/android_income_sms_gateway_webhook) - Simple Android incoming SMS to URL forwarder
 - [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact is the leading library for building AR and VR experiences and applications using React Native and Expo.
@@ -554,7 +555,7 @@
 ## backend 
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [santoshshinde2012/node-boilerplate](https://github.com/santoshshinde2012/node-boilerplate) - Node Typescript Boilerplate for Microservices. Skeleton for Node.js Apps written in TypeScript (with Setup Instructions for ESLint, Prettier, and Husky)
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -1068,7 +1069,7 @@
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for building, running and managing multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [0xcacti/awesome-solidity-dev-tools](https://github.com/0xcacti/awesome-solidity-dev-tools) - Quick awesome repo to track dev tools in the solidity eco.  There are a quite a few now, and I am sure that there are more that I am missing.  Put them here!
@@ -1104,7 +1105,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
 - [unikraft/kraftkit](https://github.com/unikraft/kraftkit) - Build and use highly customized and ultra-lightweight unikernel VMs.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [aws/aws-sam-cli](https://github.com/aws/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
@@ -1307,7 +1308,7 @@
 
 ## firebase 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
@@ -1322,7 +1323,7 @@
 
 ## flutter 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
@@ -1405,6 +1406,18 @@
 ## gaming 
 
 - [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
+
+## generative-ai 
+
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
+- [sdfxai/sdfx](https://github.com/sdfxai/sdfx) - The ultimate no-code platform to build and share AI apps with beautiful UI.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+- [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
+- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
 ## gis 
 
@@ -1703,7 +1716,7 @@
 ## ios 
 
 - [Shopify/tophat](https://github.com/Shopify/tophat) - Easily install and test mobile applications with a single click.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
 - [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact is the leading library for building AR and VR experiences and applications using React Native and Expo.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
@@ -1743,9 +1756,9 @@
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
-- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Your AI Operator for Web, Android, Automation & Testing.
+- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Driving all platforms UI automation with vision-based model
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
@@ -2126,7 +2139,7 @@
 - [mlynch/nextjs-tailwind-ionic-capacitor-starter](https://github.com/mlynch/nextjs-tailwind-ionic-capacitor-starter) - A starting point for building an iOS, Android, and Progressive Web App with Tailwind CSS, React w/  Next.js, Ionic Framework, and Capacitor
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -2195,7 +2208,7 @@
 
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [nodejs/nodejs.org](https://github.com/nodejs/nodejs.org) - The Node.js® Website
-- [vikejs/vike](https://github.com/vikejs/vike) - 𝗥𝗲𝗽𝗹𝗮𝗰𝗲𝘀 𝗡𝗲𝘅𝘁.𝗷𝘀/𝗡𝘂𝘅𝘁 🔨 𝘛𝘩𝘦 𝘤𝘰𝘮𝘱𝘰𝘴𝘢𝘣𝘭𝘦 𝘧𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬 𝘵𝘰 𝘣𝘶𝘪𝘭𝘥 𝘢𝘥𝘷𝘢𝘯𝘤𝘦𝘥 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴 𝘸𝘪𝘵𝘩 𝘴𝘵𝘢𝘣𝘪𝘭𝘪𝘵𝘺 𝘢𝘯𝘥 𝘧𝘭𝘦𝘹𝘪𝘣𝘪𝘭𝘪𝘵𝘺.
+- [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 The composable framework to build advanced applications with stability and flexibility.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [santoshshinde2012/node-boilerplate](https://github.com/santoshshinde2012/node-boilerplate) - Node Typescript Boilerplate for Microservices. Skeleton for Node.js Apps written in TypeScript (with Setup Instructions for ESLint, Prettier, and Husky)
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -2496,7 +2509,6 @@
 - [PaulRBerg/awesome-many-worlds](https://github.com/PaulRBerg/awesome-many-worlds) - Curated collection of educational materials on the many-worlds interpretation of quantum mechanics
 - [optiv/Freeze.rs](https://github.com/optiv/Freeze.rs) - Freeze.rs is a payload toolkit for bypassing EDRs using suspended processes, direct syscalls written in RUST
 - [fiveoutofnine/tx.cool](https://github.com/fiveoutofnine/tx.cool) - UI/UX explorations of on-chain data.
-- [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 - [supertestnet/superstore](https://github.com/supertestnet/superstore) - A simple bitcoin webstore with whisper addresses for enhanced privacy
 - [doyensec/wsrepl](https://github.com/doyensec/wsrepl) - WebSocket REPL for pentesters
@@ -2556,7 +2568,7 @@
 - [microsoft/BioGPT](https://github.com/microsoft/BioGPT) - 
 - [hzysvilla/Academic_Smart_Contract_Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers) - Academic Smart Contract Papers. Welcome developers or researchers to add more published papers to this list.
 - [paradigmxyz/artemis](https://github.com/paradigmxyz/artemis) - A simple, modular, and fast framework for writing MEV bots in Rust.
-- [electisec/defi-fork-bugs](https://github.com/electisec/defi-fork-bugs) - Bugs in commonly forked DeFi protocols
+- [yAudit/defi-fork-bugs](https://github.com/yAudit/defi-fork-bugs) - Bugs in commonly forked DeFi protocols
 - [whoiskatrin/chart-gpt](https://github.com/whoiskatrin/chart-gpt) - AI tool to build charts based on text input
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot!
@@ -2947,7 +2959,7 @@
 - [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for building, running and managing multi-agent systems.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The unified stack for multi-agent systems.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -3060,7 +3072,7 @@
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [latitude-dev/latitude](https://github.com/latitude-dev/latitude) - Developer-first embedded analytics
@@ -3073,7 +3085,7 @@
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
-- [vikejs/vike](https://github.com/vikejs/vike) - 𝗥𝗲𝗽𝗹𝗮𝗰𝗲𝘀 𝗡𝗲𝘅𝘁.𝗷𝘀/𝗡𝘂𝘅𝘁 🔨 𝘛𝘩𝘦 𝘤𝘰𝘮𝘱𝘰𝘴𝘢𝘣𝘭𝘦 𝘧𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬 𝘵𝘰 𝘣𝘶𝘪𝘭𝘥 𝘢𝘥𝘷𝘢𝘯𝘤𝘦𝘥 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴 𝘸𝘪𝘵𝘩 𝘴𝘵𝘢𝘣𝘪𝘭𝘪𝘵𝘺 𝘢𝘯𝘥 𝘧𝘭𝘦𝘹𝘪𝘣𝘪𝘭𝘪𝘵𝘺.
+- [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 The composable framework to build advanced applications with stability and flexibility.
 - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open source Reverse ETL -  alternative to hightouch and census.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - The best apps in the AI era aren’t solo experiences—they’re collaborative. Liveblocks provides customizable pre‑built features to make your product multiplayer, engaging, and AI‑ready. All without der
@@ -3148,7 +3160,7 @@
 ## react-native 
 
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [ReactVision/viro](https://github.com/ReactVision/viro) - ViroReact is the leading library for building AR and VR experiences and applications using React Native and Expo.
@@ -3369,7 +3381,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [latitude-dev/latitude](https://github.com/latitude-dev/latitude) - Developer-first embedded analytics
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -3401,7 +3413,7 @@
 - [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors: long-lived, in-memory processes. It's what you reach for when you hit the limitations of HTTP, databases, or queues.
 - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [aws/aws-sam-cli](https://github.com/aws/aws-sam-cli) - CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
@@ -3571,7 +3583,7 @@
 ## swift 
 
 - [Shopify/tophat](https://github.com/Shopify/tophat) - Easily install and test mobile applications with a single click.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - On-device Speech Recognition for Apple Silicon
 - [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer  🎧
@@ -3637,7 +3649,7 @@
 
 ## testing 
 
-- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Your AI Operator for Web, Android, Automation & Testing.
+- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - Driving all platforms UI automation with vision-based model
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [test-prof/test-prof](https://github.com/test-prof/test-prof) - Ruby Tests Profiling Toolbox
 - [rubycdp/cuprite](https://github.com/rubycdp/cuprite) - Headless Chrome/Chromium driver for Capybara
@@ -3828,7 +3840,7 @@
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [vikejs/vike](https://github.com/vikejs/vike) - 𝗥𝗲𝗽𝗹𝗮𝗰𝗲𝘀 𝗡𝗲𝘅𝘁.𝗷𝘀/𝗡𝘂𝘅𝘁 🔨 𝘛𝘩𝘦 𝘤𝘰𝘮𝘱𝘰𝘴𝘢𝘣𝘭𝘦 𝘧𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬 𝘵𝘰 𝘣𝘶𝘪𝘭𝘥 𝘢𝘥𝘷𝘢𝘯𝘤𝘦𝘥 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴 𝘸𝘪𝘵𝘩 𝘴𝘵𝘢𝘣𝘪𝘭𝘪𝘵𝘺 𝘢𝘯𝘥 𝘧𝘭𝘦𝘹𝘪𝘣𝘪𝘭𝘪𝘵𝘺.
+- [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 The composable framework to build advanced applications with stability and flexibility.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
@@ -3851,7 +3863,7 @@
 ## web 
 
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
