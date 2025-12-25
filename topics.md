@@ -2155,7 +2155,6 @@
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
@@ -2383,6 +2382,7 @@
 
 ## others 
 
+- [amilich/isometric-city](https://github.com/amilich/isometric-city) - City building simulation game.
 - [basecamp/fizzy-saas](https://github.com/basecamp/fizzy-saas) - Fizzy SaaS version
 - [basecamp/once-campfire](https://github.com/basecamp/once-campfire) - 
 - [software-mansion/popcorn](https://github.com/software-mansion/popcorn) - Running Elixir in the browser
