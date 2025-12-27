@@ -624,7 +624,7 @@
 - [datalab-to/surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent toolkit: framework, runtime, and control plane.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build private and secure AI products that run in your cloud.
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
@@ -820,7 +820,7 @@
 
 - [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
-- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors: long-lived, in-memory processes. It's what you reach for when you hit the limitations of HTTP, databases, or queues.
+- [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are long-lived, in-memory processes. It's what you reach for when you hit the limitations of HTTP, databases, or queues.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [unused-code/unused](https://github.com/unused-code/unused) - A tool to identify potentially unused code.
@@ -1004,7 +1004,7 @@
 - [Vectorized/multicaller](https://github.com/Vectorized/multicaller) - Efficient multicaller contracts
 - [StErMi/forge-damn-vulnerable-defi](https://github.com/StErMi/forge-damn-vulnerable-defi) - 
 - [nascentxyz/How-to-Foundry](https://github.com/nascentxyz/How-to-Foundry) - 
-- [minaminao/tornado-cats](https://github.com/minaminao/tornado-cats) - A book for learning zero-knowledge applications and decentralized mixing by creating a simple mixer protocol based on Tornado Cash (WIP)
+- [minaminao/tornado-cats](https://github.com/minaminao/tornado-cats) - A book for learning zero-knowledge applications and decentralized mixing by creating a simple mixer protocol based on Tornado Cash
 - [lucas-manuel/invariant-examples](https://github.com/lucas-manuel/invariant-examples) - 
 - [sphinx-labs/chugsplash-foundry](https://github.com/sphinx-labs/chugsplash-foundry) - A Foundry library for deploying and managing upgradeable smart contracts
 - [circlefin/evm-cctp-contracts](https://github.com/circlefin/evm-cctp-contracts) - Official repository for all EVM-compatible smart contracts used by the Cross-Chain Transfer Protocol
@@ -1093,7 +1093,7 @@
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
 - [webdevcody/wdc-saas-starter-kit](https://github.com/webdevcody/wdc-saas-starter-kit) - 
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
