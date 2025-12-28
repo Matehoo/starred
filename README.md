@@ -593,7 +593,7 @@
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, YouTube, GitHub, Discord, and more.  Join our Discord: https://discord.g
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, Discord, and 15+ more connectors.  Join our Discord: https://discord.gg/
 - [crossbario/autobahn-testsuite](https://github.com/crossbario/autobahn-testsuite) - Autobahn WebSocket protocol testsuite
 - [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
