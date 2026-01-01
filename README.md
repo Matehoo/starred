@@ -471,7 +471,7 @@
 - [atc1441/ATC_RF03_Ring](https://github.com/atc1441/ATC_RF03_Ring) - Findings and custom firmware for the Colmi R02 (and similar) Smart Ring with RF03 BlueX SoC
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-- [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy) - Newsletter to help busy software engineers become good at system design 👇
+- [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy) - If you want to become good at system design, join this newsletter now 👇
 - [jixserver/free-for-dev](https://github.com/jixserver/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people!
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
@@ -624,7 +624,7 @@
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - The Multi-Agent Framework, Runtime, and Control Plane. Build AI products that run in your cloud.
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+- [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
 - [k3yomi/Wall-of-Flippers](https://github.com/k3yomi/Wall-of-Flippers) - A simple and easy way to find Flipper Zero Devices and Bluetooth Low Energy Based Attacks
