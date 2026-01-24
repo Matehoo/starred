@@ -1127,7 +1127,7 @@
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [rsocket/rsocket-js](https://github.com/rsocket/rsocket-js) - JavaScript implementation of RSocket
-- [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 Composable framework to build (advanced) applications with flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 Composable framework to build advanced applications with flexibility and stability.
 - [hannoeru/vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator for ⚡️Vite
 - [stimulus-components/stimulus-components](https://github.com/stimulus-components/stimulus-components) - Over 25 Stimulus controllers with built-in behavior, top-tier documentation, designed for easy extension, and ready for your styles to solve every day frontend problems.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
