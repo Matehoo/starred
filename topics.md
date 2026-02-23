@@ -2726,7 +2726,7 @@
 - [kkrt-labs/kakarot-rpc](https://github.com/kkrt-labs/kakarot-rpc) - Kakarot ZK EVM Ethereum RPC adapter
 - [Uniswap/permit2](https://github.com/Uniswap/permit2) - 🔑🔑🔑 next generation token approvals mechanism
 - [0xPARC/zk-bug-tracker](https://github.com/0xPARC/zk-bug-tracker) - A community-maintained collection of bugs, vulnerabilities, and exploits in apps using ZK crypto.
-- [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework with nice features suitable for various use cases.
+- [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework.
 - [spearbit-audits/writing-exercise](https://github.com/spearbit-audits/writing-exercise) - 
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [manifoldfinance/geth-sealer](https://github.com/manifoldfinance/geth-sealer) - 
