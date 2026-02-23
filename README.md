@@ -919,7 +919,7 @@
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
 - [kkrt-labs/kakarot-rpc](https://github.com/kkrt-labs/kakarot-rpc) - Kakarot ZK EVM Ethereum RPC adapter
-- [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework with nice features suitable for various use cases.
+- [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework.
 - [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [meppent/pellucid](https://github.com/meppent/pellucid) - An EVM decompiler written in Rust.
