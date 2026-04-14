@@ -1066,7 +1066,7 @@
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [eastlondoner/vibe-tools](https://github.com/eastlondoner/vibe-tools) - Give Cursor Agent an AI Team and Advanced Skills
 - [upstash/jstack](https://github.com/upstash/jstack) - Build seriously fast, lightweight and end-to-end typesafe Next.js apps
-- [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
+- [instantdb/instant](https://github.com/instantdb/instant) - Instant is the best backend for AI-coded apps.  You get auth, permissions, storage, presence, and streams — everything you need to ship apps your users will love.
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - Open-source text-to-SQL and text-to-chart GenBI agent with a semantic layer. Ask your database questions in natural language — get accurate SQL, charts, and BI insights. Supports 12+ data sources (Pos
