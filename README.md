@@ -32,7 +32,6 @@
 - [Mojo](#mojo)
 - [Move](#move)
 - [Nim](#nim)
-- [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
@@ -459,14 +458,11 @@
 
 - [metacraft-labs/py2nim_deprecated](https://github.com/metacraft-labs/py2nim_deprecated) - 
 
-## Nix 
-
-- [Airsequel/awesome-sqlite](https://github.com/Airsequel/awesome-sqlite) - A curated list of software, services, and resources for SQLite
-
 ## Others 
 
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+- [Airsequel/awesome-sqlite](https://github.com/Airsequel/awesome-sqlite) - A curated list of software, services, and resources for SQLite
 - [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond
 - [CodingChallengesFYI/SharedSolutions](https://github.com/CodingChallengesFYI/SharedSolutions) - Publicly shared solutions to Coding Challenges
 - [atc1441/ATC_RF03_Ring](https://github.com/atc1441/ATC_RF03_Ring) - Findings and custom firmware for the Colmi R02 (and similar) Smart Ring with RF03 BlueX SoC
