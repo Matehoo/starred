@@ -3785,7 +3785,7 @@
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
 - [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
-- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
