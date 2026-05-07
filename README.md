@@ -151,7 +151,6 @@
 
 ## Elixir 
 
-- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [elixir-webrtc/ex_webrtc](https://github.com/elixir-webrtc/ex_webrtc) - An Elixir implementation of the W3C WebRTC API
 - [BeaconCMS/beacon](https://github.com/BeaconCMS/beacon) - Open-source Content Management System (CMS) built with Phoenix LiveView. Faster render times to boost SEO performance, even for the most content-heavy pages.
 - [mbuhot/ecto_job](https://github.com/mbuhot/ecto_job) - Transactional job queue with Ecto, PostgreSQL and GenStage
@@ -248,7 +247,7 @@
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
 - [NethermindEth/sedge](https://github.com/NethermindEth/sedge) - A one-click setup tool for PoS network/chain validators and nodes.
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
+- [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - Framework for building performant, customizable blockchains with native interoperability
 - [ignite/cli](https://github.com/ignite/cli) - Ignite is a CLI tool and hub designed for constructing Proof of Stake Blockchains rooted in Cosmos-SDK
 - [thesephist/ink](https://github.com/thesephist/ink) - Ink is a minimal programming language inspired by modern JavaScript and Go, with functional style.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
@@ -974,7 +973,7 @@
 - [calcom/docker](https://github.com/calcom/docker) - The Docker configuration for Cal.com is an effort powered by people within the community. Cal.com, Inc. does not provide official support for Docker, but we will accept fixes and documentation. Use at
 - [allada/eth-archive-snapshot](https://github.com/allada/eth-archive-snapshot) - Free public Ethereum Archive Snapshot
 - [mullvad/mullvad-browser](https://github.com/mullvad/mullvad-browser) - Privacy-focused browser for Linux, macOS and Windows. Made in collaboration between @torproject and @mullvad
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -1055,6 +1054,7 @@
 - [amilich/isometric-city](https://github.com/amilich/isometric-city) - IsoCity: City building simulation game.
 - [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
+- [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [midday-ai/packrun](https://github.com/midday-ai/packrun) - npm for agents and humans
