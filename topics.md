@@ -273,7 +273,7 @@
 
 - [electric-sql/electric](https://github.com/electric-sql/electric) - The agent platform built on sync.
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Turn any AI Agents into world-class data analysts. The open context layer that gives AI agents grounded, governed SQL across 20+ data sources, that helps you build GenBI, agentic BI, text-to-sql, dash
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Turn any AI Agents into world-class data analysts through the open context layer that gives AI agents grounded, governed memory, context, SQL across 20+ data sources, that helps you build GenBI, agent
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers
@@ -319,7 +319,7 @@
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [nari-labs/dia](https://github.com/nari-labs/dia) - A TTS model capable of generating ultra-realistic dialogue in one pass.
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai
@@ -524,6 +524,7 @@
 
 ## awesome 
 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [Airsequel/awesome-sqlite](https://github.com/Airsequel/awesome-sqlite) - A curated list of software, services, and resources for SQLite
 - [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
@@ -684,6 +685,7 @@
 
 ## chatbot 
 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
@@ -696,7 +698,7 @@
 
 ## chatgpt 
 
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
@@ -748,7 +750,7 @@
 
 ## claude-code 
 
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai
 
 ## cli 
@@ -1053,6 +1055,7 @@
 
 ## deep-learning 
 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
@@ -1210,6 +1213,7 @@
 
 ## education 
 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
@@ -1477,6 +1481,7 @@
 
 ## generative-ai 
 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [sdfxai/sdfx](https://github.com/sdfxai/sdfx) - The ultimate no-code platform to build and share AI apps with beautiful UI.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
@@ -1582,6 +1587,7 @@
 
 ## google 
 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 
@@ -1989,9 +1995,10 @@
 - [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Turn any AI Agents into world-class data analysts. The open context layer that gives AI agents grounded, governed SQL across 20+ data sources, that helps you build GenBI, agentic BI, text-to-sql, dash
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Turn any AI Agents into world-class data analysts through the open context layer that gives AI agents grounded, governed memory, context, SQL across 20+ data sources, that helps you build GenBI, agent
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -2060,6 +2067,7 @@
 ## machine-learning 
 
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai
 - [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -2200,6 +2208,7 @@
 
 ## natural-language-processing 
 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
@@ -2279,6 +2288,7 @@
 ## nlp 
 
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 - [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy.
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
@@ -2384,6 +2394,7 @@
 
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [avo-hq/avo](https://github.com/avo-hq/avo) - The Essential Toolkit for building Internal Tools and admin panels with Ruby on Rails
@@ -2414,9 +2425,9 @@
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.
 - [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Turn any AI Agents into world-class data analysts. The open context layer that gives AI agents grounded, governed SQL across 20+ data sources, that helps you build GenBI, agentic BI, text-to-sql, dash
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Turn any AI Agents into world-class data analysts through the open context layer that gives AI agents grounded, governed memory, context, SQL across 20+ data sources, that helps you build GenBI, agent
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
@@ -2542,7 +2553,7 @@
 - [hannoeru/vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) - File system based route generator for ⚡️Vite
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
-- [jquense/react-big-calendar](https://github.com/jquense/react-big-calendar) - gcal/outlook like calendar component
+- [bigcalendar/react-big-calendar](https://github.com/bigcalendar/react-big-calendar) - gcal/outlook like calendar component
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
 - [facebook/react-strict-dom](https://github.com/facebook/react-strict-dom) - React Strict DOM (RSD) standardizes the development of styled React components for web and native.
 - [FuzionWorks/kujira-vscode-devcontainer](https://github.com/FuzionWorks/kujira-vscode-devcontainer) - VS Code Dev Container containing all required components for development on Kujira
@@ -2923,7 +2934,7 @@
 ## postgresql 
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Turn any AI Agents into world-class data analysts. The open context layer that gives AI agents grounded, governed SQL across 20+ data sources, that helps you build GenBI, agentic BI, text-to-sql, dash
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Turn any AI Agents into world-class data analysts through the open context layer that gives AI agents grounded, governed memory, context, SQL across 20+ data sources, that helps you build GenBI, agent
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
@@ -3025,7 +3036,7 @@
 
 ## prompt-engineering 
 
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
@@ -3129,7 +3140,7 @@
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Turn any AI Agents into world-class data analysts. The open context layer that gives AI agents grounded, governed SQL across 20+ data sources, that helps you build GenBI, agentic BI, text-to-sql, dash
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Turn any AI Agents into world-class data analysts through the open context layer that gives AI agents grounded, governed memory, context, SQL across 20+ data sources, that helps you build GenBI, agent
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
@@ -3602,7 +3613,7 @@
 
 ## sql 
 
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Turn any AI Agents into world-class data analysts. The open context layer that gives AI agents grounded, governed SQL across 20+ data sources, that helps you build GenBI, agentic BI, text-to-sql, dash
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - Turn any AI Agents into world-class data analysts through the open context layer that gives AI agents grounded, governed memory, context, SQL across 20+ data sources, that helps you build GenBI, agent
 - [orioledb/orioledb](https://github.com/orioledb/orioledb) - OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [Airsequel/awesome-sqlite](https://github.com/Airsequel/awesome-sqlite) - A curated list of software, services, and resources for SQLite
