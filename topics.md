@@ -713,7 +713,6 @@
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [microsoft/promptflow](https://github.com/microsoft/promptflow) - Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb) - Database system for AI-powered apps
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
@@ -843,7 +842,7 @@
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
-- [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A fast and correct TypeScript type checker and compiler with additional experiments
+- [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A correct and efficient TypeScript type checker and compiler with additional experiments
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - [Ariadne has moved to Codeberg!] A fancy diagnostics & error reporting crate
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
@@ -1853,7 +1852,6 @@
 - [PuruVJ/neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [Olanetsoft/article-idea-generator](https://github.com/Olanetsoft/article-idea-generator) - Generate your next article idea with ease. Powered by AI.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
@@ -1873,7 +1871,7 @@
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Secure CommsOS™ for mission-critical operations
 - [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum
-- [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A fast and correct TypeScript type checker and compiler with additional experiments
+- [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A correct and efficient TypeScript type checker and compiler with additional experiments
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -2340,7 +2338,6 @@
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadc
 - [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [ill-inc/biomes-game](https://github.com/ill-inc/biomes-game) - Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly.
 - [santoshshinde2012/node-boilerplate](https://github.com/santoshshinde2012/node-boilerplate) - Node Typescript Boilerplate for Microservices. Skeleton for Node.js Apps written in TypeScript (with Setup Instructions for ESLint, Prettier, and Husky)
 - [webiny/webiny-js](https://github.com/webiny/webiny-js) - Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3). TypeScript framework with multi-tenancy, lifecycle hooks, GraphQL API, and AI-assisted development via MCP server. Built
@@ -3083,7 +3080,6 @@
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
@@ -3388,6 +3384,7 @@
 - [sarah-quinones/faer-rs](https://github.com/sarah-quinones/faer-rs) - Linear algebra foundation for the Rust programming language
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Vid201/awesome-ethereum-rust](https://github.com/Vid201/awesome-ethereum-rust) - Awesome Ethereum Rust repos
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 - [andrewmilson/ministark](https://github.com/andrewmilson/ministark) - 🏃‍♂️💨 GPU accelerated STARK prover built on @arkworks-rs
 - [ferrumfix/ferrumfix](https://github.com/ferrumfix/ferrumfix) - Financial Information eXchange protocol implemented in Rust
 - [paradigmxyz/cryo](https://github.com/paradigmxyz/cryo) - cryo is the easiest way to extract blockchain data to parquet, csv, json, or python dataframes
@@ -3799,6 +3796,7 @@
 ## tui 
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [chungquantin/edma](https://github.com/chungquantin/edma) - EDMA is an interactive terminal app for managing multiple embedded databases system at once with powerful byte deserializer support.
 
@@ -3878,7 +3876,7 @@
 - [kodadot/workers](https://github.com/kodadot/workers) - Implementation of Cloudflare Workers in KodaDot
 - [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - AI PDF chatbot agent built with LangChain & LangGraph
 - [wevm/viem](https://github.com/wevm/viem) - TypeScript Interface for Ethereum
-- [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A fast and correct TypeScript type checker and compiler with additional experiments
+- [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A correct and efficient TypeScript type checker and compiler with additional experiments
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
