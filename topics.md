@@ -3405,7 +3405,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Vid201/awesome-ethereum-rust](https://github.com/Vid201/awesome-ethereum-rust) - Awesome Ethereum Rust repos
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
 - [andrewmilson/ministark](https://github.com/andrewmilson/ministark) - 🏃‍♂️💨 GPU accelerated STARK prover built on @arkworks-rs
 - [ferrumfix/ferrumfix](https://github.com/ferrumfix/ferrumfix) - Financial Information eXchange protocol implemented in Rust
 - [paradigmxyz/cryo](https://github.com/paradigmxyz/cryo) - cryo is the easiest way to extract blockchain data to parquet, csv, json, or python dataframes
@@ -3817,7 +3817,7 @@
 ## tui 
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
 - [ratatui/ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 - [chungquantin/edma](https://github.com/chungquantin/edma) - EDMA is an interactive terminal app for managing multiple embedded databases system at once with powerful byte deserializer support.
 
