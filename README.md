@@ -1202,7 +1202,7 @@
 - [santoshshinde2012/node-boilerplate](https://github.com/santoshshinde2012/node-boilerplate) - Node Typescript Boilerplate for Microservices. Skeleton for Node.js Apps written in TypeScript (with Setup Instructions for ESLint, Prettier, and Husky)
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia) - Design ❤️ Code
-- [evmts/tevm-monorepo](https://github.com/evmts/tevm-monorepo) - An Ethereum Node built to run in Browser, Bun, Deno, and Node.js
+- [evmts/tevm](https://github.com/evmts/tevm) - An Ethereum Node built to run in Browser, Bun, Deno, and Node.js
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [TalismanSociety/talisman](https://github.com/TalismanSociety/talisman) - Multi-Chain Made Easy with Talisman Wallet. An ultra-secure Ethereum and Polkadot wallet for both beginners and pros.
