@@ -463,7 +463,6 @@
 
 ## Others 
 
-- [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) - Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [Airsequel/awesome-sqlite](https://github.com/Airsequel/awesome-sqlite) - A curated list of software, services, and resources for SQLite
 - [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond
@@ -586,6 +585,7 @@
 ## Python 
 
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
+- [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) - Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
 - [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) - Local voice clone, video dubbing, dictation and audiobook maker. The open-source ElevenLabs alternative.
 - [ferdous-alam/GenCAD](https://github.com/ferdous-alam/GenCAD) - 
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.
