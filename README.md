@@ -472,7 +472,7 @@
 - [atc1441/ATC_RF03_Ring](https://github.com/atc1441/ATC_RF03_Ring) - Findings and custom firmware for the Colmi R02 (and similar) Smart Ring with RF03 BlueX SoC
 - [tembo/tembo](https://github.com/tembo/tembo) - 
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-- [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy) - If you want to become good at AI & system design, join this newsletter 👇
+- [systemdesign42/system-design-academy](https://github.com/systemdesign42/system-design-academy) - If you want to become good at AI engineering & system design, join this newsletter 👇
 - [jixserver/free-for-dev](https://github.com/jixserver/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people!
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
@@ -588,7 +588,7 @@
 
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
 - [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) - Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
-- [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) - Local voice clone, video dubbing, dictation and audiobook maker. The open-source ElevenLabs alternative.
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - The Open-Source Elevenlabs alternative AI Voice Clone, Dub, Dictate, Transcribe, Audiobook creator and Voice workflow studio.
 - [ferdous-alam/GenCAD](https://github.com/ferdous-alam/GenCAD) - 
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.
 - [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
