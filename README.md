@@ -586,7 +586,7 @@
 
 ## Python 
 
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
 - [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) - Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - The Open-Source Elevenlabs alternative AI Voice Clone, Dub, Dictate, Transcribe, Audiobook creator and Voice workflow studio.
 - [ferdous-alam/GenCAD](https://github.com/ferdous-alam/GenCAD) - 
