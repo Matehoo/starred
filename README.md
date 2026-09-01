@@ -658,7 +658,7 @@
 - [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - An open source extension that connects AI agents to computational notebooks in JupyterLab.
 - [doyensec/wsrepl](https://github.com/doyensec/wsrepl) - WebSocket REPL for pentesters
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/Quivr](https://github.com/The-Vibe-Company/Quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [sdan/vlite](https://github.com/sdan/vlite) - fastest vector database made in numpy
 - [0hq/tinyvector](https://github.com/0hq/tinyvector) - A tiny nearest-neighbor embedding database built with SQLite and Pytorch. (In development!)
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
@@ -1338,7 +1338,7 @@
 - [urql-graphql/urql](https://github.com/urql-graphql/urql) - The highly customizable and versatile GraphQL client with which you add on features like normalized caching as you grow.
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate 
-- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
+- [remix-run/remix](https://github.com/remix-run/remix) - The fully-stacked web framework
 - [freshframework/fresh](https://github.com/freshframework/fresh) - The framework so simple, you already know it.
 - [subsquid/squid-sdk](https://github.com/subsquid/squid-sdk) - TypeScript ETL toolkit for indexing Ethereum, Solana, and Substrate data, sourced from SQD Network.
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
