@@ -892,7 +892,7 @@
 ## continuous-integration 
 
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 
 ## cpp 
@@ -1207,7 +1207,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
 - [container2wasm/container2wasm](https://github.com/container2wasm/container2wasm) - Container to WASM converter
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
@@ -1689,7 +1689,7 @@
 - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open source Reverse ETL -  alternative to hightouch and census.
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [pay-rails/pay](https://github.com/pay-rails/pay) - Payments for Ruby on Rails apps
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - The open source codebase powering HuggingChat
@@ -3115,7 +3115,7 @@
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
@@ -3249,7 +3249,7 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks) - Realtime infrastructure for multiplayer apps and agents
 - [guilhermerodz/input-otp](https://github.com/guilhermerodz/input-otp) - One time passcode Input. Accessible & unstyled.
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [BCG-X-Official/agentkit](https://github.com/BCG-X-Official/agentkit) - Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain
 - [craig1123/react-recipes](https://github.com/craig1123/react-recipes) - 👩‍🍳 A list of React Hooks utility library containing popular customized hooks
@@ -3564,7 +3564,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open source Reverse ETL -  alternative to hightouch and census.
-- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [un/inbox](https://github.com/un/inbox) - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
