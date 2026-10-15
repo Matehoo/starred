@@ -774,7 +774,7 @@
 - [basecamp/console1984](https://github.com/basecamp/console1984) - The Rails console you love, 1984 style
 - [wouterken/crystalruby](https://github.com/wouterken/crystalruby) - Embed Crystal code directly in Ruby
 - [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail) - Track changes to your rails models
-- [CanCanCommunity/cancancan](https://github.com/CanCanCommunity/cancancan) - The authorization Gem for Ruby on Rails.
+- [coorasse/cancancan](https://github.com/coorasse/cancancan) - The authorization Gem for Ruby on Rails.
 - [vcr/vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
 - [ddnexus/pagy](https://github.com/ddnexus/pagy) - Agnostic pagination in plain ruby
 - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open source Reverse ETL -  alternative to hightouch and census.
