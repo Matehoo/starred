@@ -828,7 +828,7 @@
 ## Rust 
 
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
-- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
+- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source photo editor written from scratch in pure Rust
 - [jmcorgan/fips](https://github.com/jmcorgan/fips) - The Free Internetworking Peering System
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -1077,6 +1077,7 @@
 
 ## TypeScript 
 
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [elkimek/get-based](https://github.com/elkimek/get-based) - Private, local-first health intelligence for labs, 51 curated SNPs, wearables, light exposure, Biology Scores, optional AI, encrypted sync, sharing, and Agent Access.
 - [meta/astryx](https://github.com/meta/astryx) - An open source design system that's fully customizable and agent ready
