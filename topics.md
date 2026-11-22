@@ -431,7 +431,7 @@
 ## ai-agent 
 
 - [oritera/Cairn](https://github.com/oritera/Cairn) - Cairn is a general-purpose AI state-space search engine, validated first on autonomous penetration testing. Sometimes misspelled as Carin.
-- [emcie-co/parlant](https://github.com/emcie-co/parlant) - Parlant is an open platform for building customer-facing chat agents with AI. Describe how the agent should behave, and your coding agent implements it for you.
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - Parlant lets you build and operate reliable CX and support agents from your own AI coding agents.
 - [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol
 - [spider-rs/spider](https://github.com/spider-rs/spider) - Foundational low latency web data collecting in Rust
@@ -2093,7 +2093,7 @@
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
 - [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) - Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
-- [emcie-co/parlant](https://github.com/emcie-co/parlant) - Parlant is an open platform for building customer-facing chat agents with AI. Describe how the agent should behave, and your coding agent implements it for you.
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - Parlant lets you build and operate reliable CX and support agents from your own AI coding agents.
 - [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
@@ -3174,7 +3174,7 @@
 
 - [ForeactLabs/OpenExecutive](https://github.com/ForeactLabs/OpenExecutive) - AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist agents (FastAPI + Next.js).
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
-- [emcie-co/parlant](https://github.com/emcie-co/parlant) - Parlant is an open platform for building customer-facing chat agents with AI. Describe how the agent should behave, and your coding agent implements it for you.
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - Parlant lets you build and operate reliable CX and support agents from your own AI coding agents.
 - [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook) - Examples and tutorials to help developers build AI systems
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
